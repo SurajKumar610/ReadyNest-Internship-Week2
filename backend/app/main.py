@@ -20,6 +20,8 @@ origins = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
     "http://localhost:3001",
+    "https://ready-nest-internship-week2-one.vercel.app",
+    "https://ready-nest-internship-week2-one.vercel.app/",
 ]
 allowed_origins_env = os.getenv("ALLOWED_ORIGINS")
 if allowed_origins_env:
