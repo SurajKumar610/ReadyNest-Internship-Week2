@@ -71,7 +71,7 @@ def register(user_in: UserCreate, background_tasks: BackgroundTasks, db: Session
     db.commit()
     
     # Send email verification
-    verification_link = f"http://localhost:3000/auth/verify?email={user.email}&token=mock-token"
+    verification_link = f"{settings.FRONTEND_URL}/auth/verify?email={user.email}&token=mock-token"
     body = f"Welcome to Sightfill! Please click the link to verify your email: {verification_link}"
     background_tasks.add_task(send_email_notification, user.email, "Verify Your Email - Sightfill", body)
     
@@ -180,7 +180,7 @@ def verify_email(email: str, token: str, db: Session = Depends(get_db)):
 def forgot_password(req: PasswordResetRequest, background_tasks: BackgroundTasks, db: Session = Depends(get_db)):
     user = db.query(User).filter(User.email == req.email).first()
     if user:
-        reset_link = f"http://localhost:3000/auth/reset-password?email={user.email}&token=mock-reset-token"
+        reset_link = f"{settings.FRONTEND_URL}/auth/reset-password?email={user.email}&token=mock-reset-token"
         body = f"Click the link to reset your password: {reset_link}"
         background_tasks.add_task(send_email_notification, user.email, "Reset Password - Sightfill", body)
     return {"message": "If the email is registered, a password reset link has been sent"}

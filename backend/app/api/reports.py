@@ -10,6 +10,7 @@ from ..models import Report, Project, Dataset, AuditLog, AnalyticsResult
 from ..schemas import ReportOut, ReportShareLink, ReportShareCreate
 from .auth_utils import get_current_user
 from ..services.reports import generate_pdf_report, generate_pptx_report, generate_xlsx_report
+from ..config import settings
 
 router = APIRouter(tags=["reports & sharing"])
 
@@ -101,7 +102,7 @@ def create_report_share_link(
     db.commit()
     
     # Public sharing URL
-    share_url = f"http://localhost:3000/shared/{share_token}"
+    share_url = f"{settings.FRONTEND_URL}/shared/{share_token}"
     return {
         "share_token": share_token,
         "url": share_url,
