@@ -1,0 +1,148 @@
+============================================================
+COMPARING RETAILED SALES VS SUBSCRIPTION BUSINESS DATASETS
+============================================================
+Loading Retail Sales: sample-datasets/retail_sales.csv
+Shape: (1200, 15)
+Head:
+  Transaction ID  Order Date Customer ID  ...  Country    State         Region
+0     TXN-100000  2024-10-05   Cust-1029  ...  Germany  Bavaria         Europe
+1     TXN-100001  2025-09-03   Cust-1062  ...   Canada   Quebec  North America
+
+[2 rows x 15 columns]
+Summary:
+       Transaction ID  Order Date  ...                       State  Region
+count            1200        1200  ...                        1200    1200
+unique           1200         576  ...                          18       2
+top        TXN-100000  2024-10-01  ...  Provence-Alpes-Côte d'Azur  Europe
+freq                1           8  ...                          93     738
+mean              NaN         NaN  ...                         NaN     NaN
+std               NaN         NaN  ...                         NaN     NaN
+min               NaN         NaN  ...                         NaN     NaN
+25%               NaN         NaN  ...                         NaN     NaN
+50%               NaN         NaN  ...                         NaN     NaN
+75%               NaN         NaN  ...                         NaN     NaN
+max               NaN         NaN  ...                         NaN     NaN
+
+[11 rows x 15 columns]
+
+----------------------------------------
+
+Loading Subscription Business: sample-datasets/subscription_business.csv
+Shape: (1000, 14)
+Head:
+  Customer ID    Customer Name  ... Sales Amount                    Product Name
+0    SUB-3000  Subscriber 3000  ...         29.0         SaaS Basic Subscription
+1    SUB-3001  Subscriber 3001  ...         79.0  SaaS Professional Subscription
+
+[2 rows x 14 columns]
+Summary:
+       Customer ID    Customer Name  ... Sales Amount             Product Name
+count         1000             1000  ...  1000.000000                     1000
+unique        1000             1000  ...          NaN                        3
+top       SUB-3000  Subscriber 3000  ...          NaN  SaaS Basic Subscription
+freq             1                1  ...          NaN                      598
+mean           NaN              NaN  ...    67.120000                      NaN
+std            NaN              NaN  ...    66.495769                      NaN
+min            NaN              NaN  ...    29.000000                      NaN
+25%            NaN              NaN  ...    29.000000                      NaN
+50%            NaN              NaN  ...    29.000000                      NaN
+75%            NaN              NaN  ...    79.000000                      NaN
+max            NaN              NaN  ...   249.000000                      NaN
+
+[11 rows x 14 columns]
+
+============================================================
+
+STEP 1: Schema Detection & Clean
+============================================================
+Retail Mapping: {'Order Date': 'order_date', 'Customer ID': 'customer_id', 'Customer Name': 'customer_name', 'Product Category': 'product_category', 'Product Name': 'product_name', 'Quantity': 'quantity', 'Unit Price': 'sales_amount', 'Discount': 'quantity', 'Sales Amount': 'sales_amount', 'Profit': 'profit', 'Country': 'country', 'State': 'state', 'Region': 'region'}
+Clean Retail Shape: (1200, 13)
+Clean Retail Columns: ['Transaction ID', 'order_date', 'customer_id', 'customer_name', 'product_category', 'product_name', 'quantity', 'sales_amount', 'profit', 'Payment Method', 'country', 'state', 'region']
+Clean Retail Summary: {'initial_rows': 1200, 'duplicates_removed': 0, 'missing_values_filled': {}, 'outliers_detected': 47, 'records_processed': 1200}
+
+----------------------------------------
+
+Subscription Mapping: {'Customer ID': 'customer_id', 'Customer Name': 'customer_name', 'Order Date': 'order_date', 'Churn Date': 'order_date', 'Last Login Date': 'order_date', 'Total Logins': 'sales_amount', 'Country': 'country', 'Sales Amount': 'sales_amount', 'Product Name': 'product_name'}
+Clean Subscription Shape: (1000, 11)
+Clean Subscription Columns: ['customer_id', 'customer_name', 'Email', 'Plan Name', 'Monthly Fee', 'order_date', 'Status', 'sales_amount', 'Support Tickets', 'country', 'product_name']
+Clean Subscription Summary: {'initial_rows': 1000, 'duplicates_removed': 0, 'missing_values_filled': {}, 'outliers_detected': 0, 'records_processed': 1000}
+
+============================================================
+
+STEP 2: KPI Calculations
+============================================================
+Retail KPIs: {'total_revenue': 156872.0, 'total_profit': 89897.64, 'total_orders': 1200, 'total_customers': 150, 'average_order_value': 130.73, 'customer_lifetime_value': 1045.81, 'retention_rate': 99.33, 'churn_rate': 0.67}
+
+----------------------------------------
+
+Subscription KPIs: {'total_revenue': 260592.0, 'total_profit': 0.0, 'total_orders': 1000, 'total_customers': 1000, 'average_order_value': 260.59, 'customer_lifetime_value': 260.59, 'retention_rate': 0.0, 'churn_rate': 100.0}
+
+============================================================
+
+STEP 3: RFM Segmentation
+============================================================
+Retail RFM Shape: (150, 9)
+Retail Segment Counts:
+segment_name
+Potential Loyalists    47
+Loyal Customers        45
+Champions              21
+New Customers          20
+At Risk                17
+Name: count, dtype: int64
+
+----------------------------------------
+
+Subscription RFM Shape: (1000, 9)
+Subscription Segment Counts:
+segment_name
+Potential Loyalists    470
+Loyal Customers        362
+New Customers          125
+Champions               43
+Name: count, dtype: int64
+
+============================================================
+
+STEP 4: Product Analytics
+============================================================
+Retail Product Metrics: {'by_category': [{'product_category': 'Beauty', 'revenue': 8005.0, 'profit': 4521.17, 'sales': 445}, {'product_category': 'Clothing', 'revenue': 16160.0, 'profit': 8753.98, 'sales': 458}, {'product_category': 'Electronics', 'revenue': 101925.0, 'profit': 57731.55, 'sales': 458}, {'product_category': 'Home & Kitchen', 'revenue': 19038.0, 'profit': 11930.45, 'sales': 497}, {'product_category': 'Sports', 'revenue': 11744.0, 'profit': 6960.49, 'sales': 464}], 'top_products': [{'product_name': 'Laptop', 'revenue': 46953.0, 'profit': 29361.33}, {'product_name': 'Smartphone', 'revenue': 35649.0, 'profit': 18467.35}, {'product_name': 'Smartwatch', 'revenue': 10547.0, 'profit': 5402.3099999999995}, {'product_name': 'Jacket', 'revenue': 7680.0, 'profit': 4458.59}, {'product_name': 'Headphones', 'revenue': 7500.0, 'profit': 3791.73}, {'product_name': 'Air Fryer', 'revenue': 7497.0, 'profit': 4782.7300000000005}, {'product_name': 'Running Shoes', 'revenue': 4750.0, 'profit': 2863.58}, {'product_name': 'Sneakers', 'revenue': 4640.0, 'profit': 2230.13}, {'product_name': 'Coffee Maker', 'revenue': 4005.0, 'profit': 2382.85}, {'product_name': 'Perfume', 'revenue': 3750.0, 'profit': 2292.01}]}
+
+----------------------------------------
+
+Subscription Product Metrics: {'top_products': [{'product_name': 'SaaS Basic Subscription', 'revenue': 160600.0, 'profit': 48180.0}, {'product_name': 'SaaS Professional Subscription', 'revenue': 72597.0, 'profit': 21779.1}, {'product_name': 'SaaS Enterprise Subscription', 'revenue': 27395.0, 'profit': 8218.5}]}
+
+============================================================
+
+STEP 5: Regional Analytics
+============================================================
+Retail Regional Metrics: {'by_region': [{'region': 'Europe', 'revenue': 100443.0, 'profit': 59754.08}, {'region': 'North America', 'revenue': 56429.0, 'profit': 30143.56}], 'by_country': [{'country': 'Canada', 'revenue': 24980.0, 'profit': 12406.39}, {'country': 'France', 'revenue': 37483.0, 'profit': 19926.31}, {'country': 'Germany', 'revenue': 30165.0, 'profit': 17724.92}, {'country': 'United Kingdom', 'revenue': 32795.0, 'profit': 22102.85}, {'country': 'United States', 'revenue': 31449.0, 'profit': 17737.170000000002}]}
+
+----------------------------------------
+
+Subscription Regional Metrics: {'by_country': [{'country': 'Australia', 'revenue': 68620.0, 'profit': 20586.0}, {'country': 'Canada', 'revenue': 64705.0, 'profit': 19411.5}, {'country': 'United Kingdom', 'revenue': 60081.0, 'profit': 18024.3}, {'country': 'United States', 'revenue': 67186.0, 'profit': 20155.800000000003}]}
+
+============================================================
+
+STEP 6: Forecasting
+============================================================
+Retail Forecast (First 2): [{'date': '2026-07-30', 'value': 7068.71, 'confidence_upper': np.float64(7359.33), 'confidence_lower': np.float64(6778.09)}, {'date': '2026-08-30', 'value': 6228.55, 'confidence_upper': np.float64(6639.55), 'confidence_lower': np.float64(5817.56)}]
+
+----------------------------------------
+
+Subscription Forecast (First 2): [{'date': '2026-07-30', 'value': 23555.74, 'confidence_upper': np.float64(24335.35), 'confidence_lower': np.float64(22776.12)}, {'date': '2026-08-30', 'value': 23644.95, 'confidence_upper': np.float64(24747.49), 'confidence_lower': np.float64(22542.41)}]
+
+============================================================
+
+STEP 7: Churn Prediction
+============================================================
+Retail Churn Probabilities (First 5): [{'customer_id': 'Cust-1000', 'customer_name': 'Cust-1000', 'probability': 0.98, 'risk_level': 'High'}, {'customer_id': 'Cust-1001', 'customer_name': 'Cust-1001', 'probability': 0.0, 'risk_level': 'Low'}, {'customer_id': 'Cust-1002', 'customer_name': 'Cust-1002', 'probability': 0.94, 'risk_level': 'High'}, {'customer_id': 'Cust-1003', 'customer_name': 'Cust-1003', 'probability': 0.0, 'risk_level': 'Low'}, {'customer_id': 'Cust-1004', 'customer_name': 'Cust-1004', 'probability': 0.9, 'risk_level': 'High'}]
+
+----------------------------------------
+
+Subscription Churn Probabilities (First 5): [{'customer_id': 'SUB-3000', 'customer_name': 'SUB-3000', 'probability': 0.0, 'risk_level': 'Low'}, {'customer_id': 'SUB-3001', 'customer_name': 'SUB-3001', 'probability': 0.0, 'risk_level': 'Low'}, {'customer_id': 'SUB-3002', 'customer_name': 'SUB-3002', 'probability': 0.0, 'risk_level': 'Low'}, {'customer_id': 'SUB-3003', 'customer_name': 'SUB-3003', 'probability': 0.0, 'risk_level': 'Low'}, {'customer_id': 'SUB-3004', 'customer_name': 'SUB-3004', 'probability': 0.0, 'risk_level': 'Low'}]
+
+============================================================
+
+STEP 8: Summary Layer
+============================================================

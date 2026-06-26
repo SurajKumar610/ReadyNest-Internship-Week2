@@ -1,0 +1,68 @@
+# Python virtual environments
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+
+# Python cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.cache/
+backend/.pytest_cache/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/app/api/__pycache__/
+backend/app/services/__pycache__/
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+sightfill.db
+backend/sightfill.db
+backend/test.db
+
+# Node.js dependencies and build files
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+frontend/tsconfig.tsbuildinfo
+
+# Local environment configs
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+frontend/.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Large/Generated Sample Datasets
+backend/sample-datasets/cleaned_*
+backend/sample-datasets/outputs/
+backend/sample-datasets/1_*
+backend/sample-datasets/2_*
+backend/sample-datasets/3_*
+backend/sample-datasets/4_*
+backend/sample-datasets/5_*
+backend/sample-datasets/6_*
+backend/sample-datasets/7_*
+backend/sample-datasets/8_*
+backend/sample-datasets/9_*
+backend/sample-datasets/10_*

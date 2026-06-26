@@ -1,0 +1,947 @@
+# SIGHTFILL – PRODUCT REQUIREMENTS DOCUMENT (PRD)
+
+# Project Name
+
+Sightfill
+
+# Tagline
+
+AI-Powered Customer Insights, Analytics, Forecasting & Recommendation Platform
+
+---
+
+# 1. PRODUCT OVERVIEW
+
+Sightfill is a full-stack SaaS-based Customer Insights and Recommendation Platform that transforms raw sales datasets into actionable business intelligence.
+
+Users can upload sales data and automatically generate:
+
+* Data Cleaning & Preparation
+* Exploratory Data Analysis (EDA)
+* Customer Analytics
+* Product Analytics
+* Regional Analytics
+* Customer Segmentation
+* Predictive Analytics
+* AI-Powered Insights
+* Business Recommendations
+* Executive Reports
+
+The platform should provide enterprise-grade dashboards, AI-powered analytics, downloadable reports, and predictive intelligence through a modern web application.
+
+Primary business questions answered:
+
+* Who are our best customers?
+* Which products generate the highest revenue and profit?
+* Which regions are most profitable?
+* Which customers are likely to churn?
+* What products should be promoted?
+* What business actions should be taken to increase growth?
+
+The system must be production-ready, deployment-ready, GitHub-ready, and suitable for portfolio, placement, internship, and final-year project demonstrations.
+
+---
+
+# 2. USER FLOW
+
+### Step 1
+
+User registers and verifies email.
+
+### Step 2
+
+User logs in.
+
+### Step 3
+
+User creates a workspace/project.
+
+### Step 4
+
+User uploads dataset.
+
+Supported formats:
+
+* CSV
+* XLSX
+* XLS
+* JSON
+
+### Step 5
+
+System validates dataset.
+
+### Step 6
+
+System automatically:
+
+* Detects schema
+* Cleans data
+* Stores cleaned version
+* Generates analytics
+* Generates visualizations
+* Generates predictions
+* Generates insights
+* Generates recommendations
+
+### Step 7
+
+Interactive dashboard becomes available.
+
+### Step 8
+
+User interacts with AI Analyst and Chatbot.
+
+### Step 9
+
+User downloads or shares reports.
+
+---
+
+# 3. MULTI-TENANT SAAS ARCHITECTURE
+
+Architecture:
+
+User
+└── Workspace
+└── Project
+└── Dataset
+└── Analytics
+└── Reports
+└── AI Conversations
+
+Requirements:
+
+* Complete workspace isolation
+* Users can access only their own data
+* Tenant-based authorization
+* Secure project ownership
+
+---
+
+# 4. AUTHENTICATION & ACCESS CONTROL
+
+## Authentication
+
+Implement:
+
+* Registration
+* Login
+* Logout
+* Forgot Password
+* Password Reset via Email
+* Email Verification
+* JWT Access Tokens
+* JWT Refresh Tokens
+* Session Management
+
+## RBAC (Role-Based Access Control)
+
+### Admin
+
+Can:
+
+* Manage Users
+* View All Workspaces
+* View All Projects
+* View Analytics Usage
+* View Audit Logs
+* Manage Platform Settings
+
+### User
+
+Can:
+
+* Manage Own Projects
+* Upload Datasets
+* Generate Reports
+* Use AI Features
+* View Own Analytics
+
+Backend:
+
+* Permission Middleware
+* Protected Endpoints
+
+Frontend:
+
+* Protected Routes
+* Role-Based Navigation
+* Permission-Based UI
+
+---
+
+# 5. DATA UPLOAD & PROCESSING ENGINE
+
+## Supported Formats
+
+* CSV
+* XLSX
+* XLS
+* JSON
+
+## Dataset Validation
+
+Validate:
+
+* Empty Files
+* Corrupted Files
+* Invalid Formats
+* Missing Required Data
+
+## Smart Schema Detection
+
+Automatically detect:
+
+* Customer Name
+* Customer ID
+* Product
+* Product Category
+* Revenue
+* Sales
+* Profit
+* Quantity
+* Date
+* Country
+* State
+* City
+* Region
+
+If confidence is low:
+
+* Show Manual Column Mapping Interface
+
+Users can save mappings for future uploads.
+
+## Supported Dataset Requirements
+
+Required:
+
+* Customer
+* Product
+* Sales Amount
+* Order Date
+
+Optional:
+
+* Profit
+* Quantity
+* Category
+* Region
+* Country
+* State
+* City
+
+System must gracefully handle missing optional columns.
+
+## Automated Data Cleaning
+
+Perform:
+
+* Remove Duplicates
+* Missing Value Handling
+* Standardize Dates
+* Standardize Categories
+* Outlier Detection
+* Invalid Value Correction
+* Data Profiling
+
+Output:
+
+* Cleaned Dataset
+* Cleaning Summary Report
+
+---
+
+# 6. ANALYTICS PIPELINE
+
+Automatically execute:
+
+1. Schema Detection
+2. Data Cleaning
+3. EDA Generation
+4. Customer Analysis
+5. Product Analysis
+6. Regional Analysis
+7. Customer Segmentation
+8. Forecasting
+9. AI Insight Generation
+10. Recommendation Generation
+11. Report Generation
+
+Use background jobs.
+
+---
+
+# 7. EXECUTIVE DASHBOARD
+
+Modern SaaS dashboard.
+
+Design:
+
+* Responsive Layout
+* Professional UI
+* Dark Mode
+* Light Mode
+* Glassmorphism Cards
+* Sidebar Navigation
+
+## Workspace Overview
+
+Display:
+
+* Total Projects
+* Total Datasets
+* Reports Generated
+* AI Queries Used
+
+## Recent Activity
+
+* Upload History
+* Generated Reports
+* AI Conversations
+
+## Quick Actions
+
+* Upload Dataset
+* Create Project
+* Open Dashboard
+* Generate Report
+
+---
+
+# 8. DASHBOARD FILTERS
+
+Every dashboard section must support:
+
+* Date Range
+* Country
+* State
+* Region
+* Product Category
+* Product
+* Customer Segment
+
+Charts should update dynamically.
+
+---
+
+# 9. EXECUTIVE SUMMARY
+
+KPIs:
+
+* Total Revenue
+* Total Profit
+* Total Orders
+* Total Customers
+* Average Order Value
+* Customer Lifetime Value
+* Retention Rate
+* Churn Rate
+
+Charts:
+
+* Revenue Trend
+* Profit Trend
+* Monthly Sales Trend
+
+---
+
+# 10. EXPLORATORY DATA ANALYSIS (EDA)
+
+Visualizations:
+
+* Histograms
+* Box Plots
+* Correlation Heatmaps
+* Distribution Graphs
+* Missing Values Analysis
+* Outlier Analysis
+
+Generate:
+
+* Data Quality Score
+* Key Findings
+* Anomaly Detection
+
+---
+
+# 11. CUSTOMER ANALYTICS
+
+Metrics:
+
+* Active Customers
+* New Customers
+* Returning Customers
+* Customer Lifetime Value
+* Retention Rate
+
+Visualizations:
+
+* Customer Growth
+* Purchase Frequency
+* Revenue Contribution
+
+Tables:
+
+Top Customers:
+
+* Revenue
+* Orders
+* Profit
+* CLV
+
+Customer Journey Insights.
+
+---
+
+# 12. PRODUCT ANALYTICS
+
+Metrics:
+
+* Best Selling Products
+* Most Profitable Products
+* Worst Performing Products
+
+Visualizations:
+
+* Revenue by Product
+* Profit by Product
+* Product Category Breakdown
+
+Generate:
+
+* Product Trends
+* Product Recommendations
+
+---
+
+# 13. REGIONAL ANALYTICS
+
+Analyze:
+
+* Country
+* State
+* City
+* Region
+
+Visualizations:
+
+* Revenue Heatmaps
+* Regional Performance
+* Geographic Distribution
+
+Use:
+
+* Leaflet or Mapbox
+
+Generate:
+
+* Most Profitable Region
+* Fastest Growing Region
+* Underperforming Region
+
+---
+
+# 14. CUSTOMER SEGMENTATION
+
+Implement:
+
+## RFM Analysis
+
+* Recency
+* Frequency
+* Monetary
+
+## K-Means Clustering
+
+Segments:
+
+* Champions
+* Loyal Customers
+* Potential Loyalists
+* New Customers
+* At Risk
+* Lost Customers
+
+Visualizations:
+
+* Segment Distribution
+* Cluster Analysis
+* RFM Heatmap
+
+---
+
+# 15. PREDICTIVE ANALYTICS
+
+Implement:
+
+## Customer Churn Prediction
+
+Output:
+
+* Churn Probability
+* Risk Score
+
+## Sales Forecasting
+
+## Revenue Forecasting
+
+## Profit Forecasting
+
+## Demand Forecasting
+
+Models:
+
+* Random Forest
+* Gradient Boosting
+* XGBoost (Optional)
+
+Display:
+
+* Confidence Score
+* Feature Importance
+
+---
+
+# 16. AI ANALYST
+
+Powered by OpenAI API.
+
+Capabilities:
+
+* Explain Charts
+* Explain KPIs
+* Explain Trends
+* Explain Segments
+* Explain Forecasts
+* Generate Executive Insights
+* Generate Business Recommendations
+
+Example Questions:
+
+* Why did sales decline?
+* Which segment is most valuable?
+* What products should be promoted?
+* How can profit be improved?
+
+---
+
+# 17. AI CHATBOT
+
+Dataset-aware conversational assistant.
+
+Features:
+
+* Context-Aware Responses
+* Dataset-Based Answers
+* Conversation History
+* Suggested Questions
+* Conversation Export
+
+Chatbot should answer based on uploaded project data.
+
+---
+
+# 18. BUSINESS INSIGHTS & RECOMMENDATION ENGINE
+
+Generate:
+
+* Revenue Drivers
+* Risks
+* Opportunities
+* Customer Insights
+* Growth Opportunities
+
+Generate minimum 5 recommendations:
+
+* Cross-Sell Suggestions
+* Upsell Suggestions
+* Retention Campaigns
+* Inventory Optimization
+* Region Expansion Opportunities
+
+---
+
+# 19. REPORTING SYSTEM
+
+Generate:
+
+## PDF Reports
+
+## PowerPoint Reports
+
+## Excel Reports
+
+## CSV Exports
+
+## JSON Exports
+
+Include:
+
+* Branding
+* KPIs
+* Charts
+* Insights
+* Recommendations
+
+## Report Sharing
+
+Generate secure read-only links.
+
+Support expiration dates.
+
+## Scheduled Reports
+
+Frequency:
+
+* Daily
+* Weekly
+* Monthly
+
+Send reports via email.
+
+---
+
+# 20. POWER BI DELIVERABLES
+
+Generate Power BI compatible exports.
+
+Support:
+
+* Processed Datasets
+* KPI Tables
+* Customer Segmentation Data
+* Analytics Tables
+
+Power BI-ready architecture preferred.
+
+---
+
+# 21. NOTIFICATIONS & AUDIT LOGS
+
+Notifications:
+
+* Dataset Processed
+* AI Analysis Completed
+* Forecast Generated
+* Report Generated
+
+Support:
+
+* In-App Notifications
+* Email Notifications
+
+Audit Logs:
+
+* Login
+* Logout
+* Upload
+* Delete
+* Export
+* AI Usage
+* Report Sharing
+
+Admin can view logs.
+
+---
+
+# 22. FRONTEND REQUIREMENTS
+
+Framework:
+
+* Next.js (Latest Stable Version)
+* App Router
+* TypeScript
+
+UI:
+
+* Tailwind CSS
+* Recharts
+* Lucide React
+
+State:
+
+* Zustand
+
+Data Fetching:
+
+* TanStack React Query
+
+Features:
+
+* Responsive Design
+* Error Boundaries
+* Loading Skeletons
+* Toast Notifications
+* Professional SaaS UI
+
+---
+
+# 23. BACKEND REQUIREMENTS
+
+Framework:
+
+* FastAPI
+* Python 3.13
+
+Database:
+
+* PostgreSQL (Primary)
+* SQLite (Development Fallback)
+
+ORM:
+
+* SQLAlchemy
+
+Migrations:
+
+* Alembic
+
+Background Jobs:
+
+* Celery
+* Redis
+
+AI:
+
+* OpenAI SDK
+
+Exports:
+
+* reportlab
+* python-pptx
+* openpyxl
+* xlsxwriter
+
+Email:
+
+* Resend or SMTP
+
+---
+
+# 24. DATABASE TABLES
+
+users
+
+workspaces
+
+projects
+
+datasets
+
+cleaned_datasets
+
+sales_records
+
+analytics_results
+
+customer_segments
+
+predictions
+
+reports
+
+recommendations
+
+ai_conversations
+
+notifications
+
+audit_logs
+
+---
+
+# 25. SECURITY REQUIREMENTS
+
+Implement:
+
+* JWT Authentication
+* Refresh Tokens
+* Password Hashing (bcrypt)
+* Rate Limiting
+* SQL Injection Protection
+* XSS Protection
+* CSRF Protection
+* Input Sanitization
+* File Validation
+* File Size Limits
+
+No secrets hardcoded.
+
+Use environment variables.
+
+---
+
+# 26. PERFORMANCE REQUIREMENTS
+
+Support datasets with:
+
+100,000+ rows
+
+Implement:
+
+* Redis Caching
+* Pagination
+* Query Optimization
+* Lazy Loading
+
+Cache:
+
+* KPIs
+* Customer Analytics
+* Product Analytics
+* Regional Analytics
+* AI Insights
+
+Cache Expiration:
+
+30 Minutes
+
+---
+
+# 27. TESTING REQUIREMENTS
+
+Frontend:
+
+* Vitest
+* React Testing Library
+
+Backend:
+
+* Pytest
+
+Minimum Coverage:
+
+80%
+
+Test:
+
+* Authentication
+* Uploads
+* Analytics
+* Reports
+* AI Features
+
+---
+
+# 28. DEVOPS & DEPLOYMENT
+
+## GitHub Ready Structure
+
+Sightfill/
+├── frontend/
+├── backend/
+├── docs/
+├── deployment/
+├── sample-datasets/
+├── .github/
+├── docker-compose.yml
+├── README.md
+├── LICENSE
+
+## Docker
+
+Generate:
+
+* Frontend Dockerfile
+* Backend Dockerfile
+* docker-compose.yml
+
+Run:
+
+docker-compose up --build
+
+## CI/CD
+
+GitHub Actions:
+
+* Frontend Build
+* Backend Build
+* Testing
+* Docker Validation
+
+Run on every push.
+
+## Deployment Targets
+
+Frontend:
+
+* Vercel
+
+Backend:
+
+* Render
+
+Database:
+
+* Supabase PostgreSQL
+
+Storage:
+
+* Local Development
+* AWS S3 Ready Architecture
+
+---
+
+# 29. DOCUMENTATION REQUIREMENTS
+
+Generate:
+
+* README.md
+* Architecture Diagram
+* API Documentation
+* Setup Guide
+* Deployment Guide
+* Environment Variable Guide
+* Troubleshooting Guide
+
+Provide:
+
+* Local Setup Instructions
+* PostgreSQL Setup
+* Redis Setup
+* Docker Setup
+* GitHub Push Commands
+* Vercel Deployment Steps
+* Render Deployment Steps
+
+---
+
+# 30. FINAL DEVELOPMENT STANDARDS
+
+The generated codebase must:
+
+* Follow Clean Architecture
+* Follow SOLID Principles
+* Be Modular and Scalable
+* Use Strict TypeScript Typing
+* Include Reusable Components
+* Include API Validation
+* Include Structured Logging
+* Include Comprehensive Error Handling
+* Include Unit and Integration Tests
+* Be GitHub Ready
+* Be Docker Ready
+* Be CI/CD Ready
+* Be Deployment Ready
+
+Do not generate:
+
+* Placeholder Pages
+* Mock APIs
+* Fake Analytics
+* TODO Comments
+* Incomplete Workflows
+
+If any feature cannot be fully implemented, generate complete architecture, APIs, database models, UI pages, and implementation scaffolding required for production completion.
+
+---
+
+# FINAL INSTRUCTION TO ANTIGRAVITY
+
+Build Sightfill as a production-grade SaaS Customer Insights, Analytics, Forecasting, and Recommendation Platform.
+
+Generate complete frontend, backend, database models, analytics pipelines, AI modules, predictive ML models, dashboards, report generation system, RBAC system, notifications, audit logging, CI/CD workflows, Docker configuration, deployment configuration, testing suite, documentation, and GitHub-ready repository structure.
+
+All modules must be fully functional, integrated end-to-end, scalable, secure, deployment-ready, and suitable for real-world use, portfolio presentation, internship showcases, placement interviews, and final-year academic project evaluation.

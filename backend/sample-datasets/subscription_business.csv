@@ -1,0 +1,1001 @@
+Customer ID,Customer Name,Email,Plan Name,Monthly Fee,Order Date,Status,Churn Date,Last Login Date,Total Logins,Support Tickets,Country,Sales Amount,Product Name
+SUB-3000,Subscriber 3000,subscriber_3000@gmail.com,Basic,29.0,2026-06-08,Active,,2026-05-15,96,6,Canada,29.0,SaaS Basic Subscription
+SUB-3001,Subscriber 3001,subscriber_3001@gmail.com,Professional,79.0,2026-06-17,Active,,2026-06-06,283,13,United States,79.0,SaaS Professional Subscription
+SUB-3002,Subscriber 3002,subscriber_3002@gmail.com,Professional,79.0,2026-01-11,Active,,2026-06-07,13,0,Australia,79.0,SaaS Professional Subscription
+SUB-3003,Subscriber 3003,subscriber_3003@gmail.com,Professional,79.0,2026-02-05,Active,,2026-05-27,135,10,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3004,Subscriber 3004,subscriber_3004@gmail.com,Basic,29.0,2026-01-28,Active,,2026-06-18,177,10,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3005,Subscriber 3005,subscriber_3005@gmail.com,Professional,79.0,2025-07-11,Active,,2026-06-11,8,5,Canada,79.0,SaaS Professional Subscription
+SUB-3006,Subscriber 3006,subscriber_3006@gmail.com,Basic,29.0,2025-10-20,Churned,2026-05-17,2026-06-08,214,1,Canada,29.0,SaaS Basic Subscription
+SUB-3007,Subscriber 3007,subscriber_3007@gmail.com,Enterprise,249.0,2026-03-16,Active,,2026-05-18,77,6,Australia,249.0,SaaS Enterprise Subscription
+SUB-3008,Subscriber 3008,subscriber_3008@gmail.com,Basic,29.0,2025-11-08,Active,,2026-05-12,8,1,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3009,Subscriber 3009,subscriber_3009@gmail.com,Basic,29.0,2025-12-18,Active,,2026-06-07,427,11,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3010,Subscriber 3010,subscriber_3010@gmail.com,Basic,29.0,2025-09-02,Active,,2026-06-24,425,11,United States,29.0,SaaS Basic Subscription
+SUB-3011,Subscriber 3011,subscriber_3011@gmail.com,Basic,29.0,2025-08-30,Active,,2026-05-12,369,3,Australia,29.0,SaaS Basic Subscription
+SUB-3012,Subscriber 3012,subscriber_3012@gmail.com,Basic,29.0,2025-07-06,Active,,2026-05-31,248,5,United States,29.0,SaaS Basic Subscription
+SUB-3013,Subscriber 3013,subscriber_3013@gmail.com,Basic,29.0,2025-07-06,Active,,2026-06-01,76,3,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3014,Subscriber 3014,subscriber_3014@gmail.com,Professional,79.0,2025-11-21,Active,,2026-06-12,336,8,United States,79.0,SaaS Professional Subscription
+SUB-3015,Subscriber 3015,subscriber_3015@gmail.com,Basic,29.0,2026-02-08,Active,,2026-06-14,63,14,Canada,29.0,SaaS Basic Subscription
+SUB-3016,Subscriber 3016,subscriber_3016@gmail.com,Professional,79.0,2026-03-02,Churned,2026-05-20,2026-06-06,20,0,Australia,79.0,SaaS Professional Subscription
+SUB-3017,Subscriber 3017,subscriber_3017@gmail.com,Enterprise,249.0,2026-04-27,Active,,2026-06-11,5,3,Canada,249.0,SaaS Enterprise Subscription
+SUB-3018,Subscriber 3018,subscriber_3018@gmail.com,Professional,79.0,2026-05-09,Active,,2026-06-11,20,3,United States,79.0,SaaS Professional Subscription
+SUB-3019,Subscriber 3019,subscriber_3019@gmail.com,Basic,29.0,2026-05-18,Active,,2026-06-06,179,14,United States,29.0,SaaS Basic Subscription
+SUB-3020,Subscriber 3020,subscriber_3020@gmail.com,Basic,29.0,2026-06-18,Active,,2026-06-04,462,13,United States,29.0,SaaS Basic Subscription
+SUB-3021,Subscriber 3021,subscriber_3021@gmail.com,Basic,29.0,2026-01-01,Active,,2026-06-12,367,7,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3022,Subscriber 3022,subscriber_3022@gmail.com,Basic,29.0,2025-10-18,Active,,2026-05-22,229,3,Australia,29.0,SaaS Basic Subscription
+SUB-3023,Subscriber 3023,subscriber_3023@gmail.com,Professional,79.0,2026-06-18,Active,,2026-05-20,185,14,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3024,Subscriber 3024,subscriber_3024@gmail.com,Professional,79.0,2025-08-07,Active,,2026-05-30,39,5,Australia,79.0,SaaS Professional Subscription
+SUB-3025,Subscriber 3025,subscriber_3025@gmail.com,Basic,29.0,2025-07-27,Active,,2026-06-07,376,9,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3026,Subscriber 3026,subscriber_3026@gmail.com,Basic,29.0,2025-10-08,Active,,2026-06-06,27,14,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3027,Subscriber 3027,subscriber_3027@gmail.com,Professional,79.0,2025-11-04,Active,,2026-05-14,336,10,United States,79.0,SaaS Professional Subscription
+SUB-3028,Subscriber 3028,subscriber_3028@gmail.com,Professional,79.0,2025-07-08,Active,,2026-06-05,434,0,Canada,79.0,SaaS Professional Subscription
+SUB-3029,Subscriber 3029,subscriber_3029@gmail.com,Basic,29.0,2026-04-20,Churned,2026-07-16,2026-05-26,421,9,United States,29.0,SaaS Basic Subscription
+SUB-3030,Subscriber 3030,subscriber_3030@gmail.com,Basic,29.0,2025-09-17,Churned,2026-01-17,2026-05-30,480,1,Australia,29.0,SaaS Basic Subscription
+SUB-3031,Subscriber 3031,subscriber_3031@gmail.com,Basic,29.0,2025-09-05,Active,,2026-06-18,388,4,Australia,29.0,SaaS Basic Subscription
+SUB-3032,Subscriber 3032,subscriber_3032@gmail.com,Basic,29.0,2026-02-18,Active,,2026-05-28,80,0,Australia,29.0,SaaS Basic Subscription
+SUB-3033,Subscriber 3033,subscriber_3033@gmail.com,Basic,29.0,2026-04-04,Active,,2026-05-28,486,14,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3034,Subscriber 3034,subscriber_3034@gmail.com,Professional,79.0,2025-07-18,Active,,2026-05-25,301,12,United States,79.0,SaaS Professional Subscription
+SUB-3035,Subscriber 3035,subscriber_3035@gmail.com,Basic,29.0,2025-09-17,Active,,2026-06-04,225,2,United States,29.0,SaaS Basic Subscription
+SUB-3036,Subscriber 3036,subscriber_3036@gmail.com,Basic,29.0,2025-11-05,Active,,2026-05-29,317,2,United States,29.0,SaaS Basic Subscription
+SUB-3037,Subscriber 3037,subscriber_3037@gmail.com,Professional,79.0,2026-04-20,Active,,2026-05-21,330,14,Australia,79.0,SaaS Professional Subscription
+SUB-3038,Subscriber 3038,subscriber_3038@gmail.com,Basic,29.0,2026-05-28,Churned,2026-10-05,2026-06-03,155,4,Canada,29.0,SaaS Basic Subscription
+SUB-3039,Subscriber 3039,subscriber_3039@gmail.com,Professional,79.0,2026-03-04,Active,,2026-06-22,252,8,Australia,79.0,SaaS Professional Subscription
+SUB-3040,Subscriber 3040,subscriber_3040@gmail.com,Basic,29.0,2026-01-27,Active,,2026-06-12,240,10,Canada,29.0,SaaS Basic Subscription
+SUB-3041,Subscriber 3041,subscriber_3041@gmail.com,Basic,29.0,2026-05-04,Active,,2026-05-12,391,2,United States,29.0,SaaS Basic Subscription
+SUB-3042,Subscriber 3042,subscriber_3042@gmail.com,Professional,79.0,2025-12-19,Active,,2026-06-01,382,3,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3043,Subscriber 3043,subscriber_3043@gmail.com,Professional,79.0,2025-08-07,Active,,2026-05-18,130,9,Canada,79.0,SaaS Professional Subscription
+SUB-3044,Subscriber 3044,subscriber_3044@gmail.com,Basic,29.0,2026-03-09,Churned,2026-10-13,2026-06-12,25,12,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3045,Subscriber 3045,subscriber_3045@gmail.com,Basic,29.0,2026-02-14,Churned,2026-08-25,2026-05-24,196,9,Canada,29.0,SaaS Basic Subscription
+SUB-3046,Subscriber 3046,subscriber_3046@gmail.com,Professional,79.0,2026-01-17,Active,,2026-05-30,279,10,Canada,79.0,SaaS Professional Subscription
+SUB-3047,Subscriber 3047,subscriber_3047@gmail.com,Basic,29.0,2026-03-11,Churned,2026-07-05,2026-05-23,156,9,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3048,Subscriber 3048,subscriber_3048@gmail.com,Basic,29.0,2026-06-24,Active,,2026-05-26,355,9,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3049,Subscriber 3049,subscriber_3049@gmail.com,Professional,79.0,2025-07-04,Churned,2025-10-01,2026-06-14,157,11,Australia,79.0,SaaS Professional Subscription
+SUB-3050,Subscriber 3050,subscriber_3050@gmail.com,Professional,79.0,2026-03-02,Churned,2026-04-26,2026-06-20,61,10,Canada,79.0,SaaS Professional Subscription
+SUB-3051,Subscriber 3051,subscriber_3051@gmail.com,Professional,79.0,2026-06-23,Active,,2026-05-29,273,8,Canada,79.0,SaaS Professional Subscription
+SUB-3052,Subscriber 3052,subscriber_3052@gmail.com,Basic,29.0,2025-09-11,Active,,2026-05-17,347,7,Canada,29.0,SaaS Basic Subscription
+SUB-3053,Subscriber 3053,subscriber_3053@gmail.com,Basic,29.0,2025-07-11,Active,,2026-05-21,45,6,Canada,29.0,SaaS Basic Subscription
+SUB-3054,Subscriber 3054,subscriber_3054@gmail.com,Professional,79.0,2025-10-30,Active,,2026-06-22,386,6,United States,79.0,SaaS Professional Subscription
+SUB-3055,Subscriber 3055,subscriber_3055@gmail.com,Enterprise,249.0,2026-05-05,Active,,2026-06-09,58,3,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3056,Subscriber 3056,subscriber_3056@gmail.com,Professional,79.0,2025-07-26,Active,,2026-06-08,149,9,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3057,Subscriber 3057,subscriber_3057@gmail.com,Professional,79.0,2026-04-23,Active,,2026-06-03,298,5,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3058,Subscriber 3058,subscriber_3058@gmail.com,Basic,29.0,2025-08-16,Active,,2026-06-08,204,4,Australia,29.0,SaaS Basic Subscription
+SUB-3059,Subscriber 3059,subscriber_3059@gmail.com,Professional,79.0,2026-01-15,Active,,2026-05-29,491,14,United States,79.0,SaaS Professional Subscription
+SUB-3060,Subscriber 3060,subscriber_3060@gmail.com,Professional,79.0,2025-07-09,Active,,2026-05-29,196,10,Australia,79.0,SaaS Professional Subscription
+SUB-3061,Subscriber 3061,subscriber_3061@gmail.com,Enterprise,249.0,2025-08-12,Active,,2026-06-03,130,10,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3062,Subscriber 3062,subscriber_3062@gmail.com,Basic,29.0,2026-03-14,Active,,2026-06-04,486,8,Canada,29.0,SaaS Basic Subscription
+SUB-3063,Subscriber 3063,subscriber_3063@gmail.com,Basic,29.0,2026-03-12,Active,,2026-05-28,115,7,Australia,29.0,SaaS Basic Subscription
+SUB-3064,Subscriber 3064,subscriber_3064@gmail.com,Professional,79.0,2025-09-20,Churned,2025-11-18,2026-06-08,81,11,Australia,79.0,SaaS Professional Subscription
+SUB-3065,Subscriber 3065,subscriber_3065@gmail.com,Enterprise,249.0,2026-05-14,Active,,2026-06-01,126,0,Canada,249.0,SaaS Enterprise Subscription
+SUB-3066,Subscriber 3066,subscriber_3066@gmail.com,Professional,79.0,2026-04-02,Active,,2026-06-05,144,7,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3067,Subscriber 3067,subscriber_3067@gmail.com,Basic,29.0,2026-02-15,Active,,2026-06-25,28,2,Australia,29.0,SaaS Basic Subscription
+SUB-3068,Subscriber 3068,subscriber_3068@gmail.com,Basic,29.0,2025-10-22,Active,,2026-06-21,187,4,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3069,Subscriber 3069,subscriber_3069@gmail.com,Basic,29.0,2025-11-27,Active,,2026-06-18,119,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3070,Subscriber 3070,subscriber_3070@gmail.com,Professional,79.0,2025-07-17,Churned,2025-10-14,2026-06-25,181,0,Australia,79.0,SaaS Professional Subscription
+SUB-3071,Subscriber 3071,subscriber_3071@gmail.com,Basic,29.0,2025-09-11,Active,,2026-06-12,361,5,United States,29.0,SaaS Basic Subscription
+SUB-3072,Subscriber 3072,subscriber_3072@gmail.com,Basic,29.0,2025-08-03,Active,,2026-05-28,294,12,Australia,29.0,SaaS Basic Subscription
+SUB-3073,Subscriber 3073,subscriber_3073@gmail.com,Professional,79.0,2025-11-30,Churned,2026-07-21,2026-06-02,355,5,United States,79.0,SaaS Professional Subscription
+SUB-3074,Subscriber 3074,subscriber_3074@gmail.com,Basic,29.0,2026-04-28,Active,,2026-06-17,291,7,United States,29.0,SaaS Basic Subscription
+SUB-3075,Subscriber 3075,subscriber_3075@gmail.com,Professional,79.0,2026-04-25,Active,,2026-05-23,355,7,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3076,Subscriber 3076,subscriber_3076@gmail.com,Professional,79.0,2026-05-22,Active,,2026-05-17,329,13,Canada,79.0,SaaS Professional Subscription
+SUB-3077,Subscriber 3077,subscriber_3077@gmail.com,Basic,29.0,2025-08-16,Active,,2026-06-08,57,0,United States,29.0,SaaS Basic Subscription
+SUB-3078,Subscriber 3078,subscriber_3078@gmail.com,Basic,29.0,2026-03-12,Active,,2026-06-12,31,13,United States,29.0,SaaS Basic Subscription
+SUB-3079,Subscriber 3079,subscriber_3079@gmail.com,Professional,79.0,2025-12-24,Active,,2026-06-13,94,11,Australia,79.0,SaaS Professional Subscription
+SUB-3080,Subscriber 3080,subscriber_3080@gmail.com,Basic,29.0,2026-04-15,Active,,2026-05-19,265,8,Australia,29.0,SaaS Basic Subscription
+SUB-3081,Subscriber 3081,subscriber_3081@gmail.com,Basic,29.0,2026-05-25,Active,,2026-06-17,477,0,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3082,Subscriber 3082,subscriber_3082@gmail.com,Professional,79.0,2025-09-09,Active,,2026-05-28,101,10,Canada,79.0,SaaS Professional Subscription
+SUB-3083,Subscriber 3083,subscriber_3083@gmail.com,Basic,29.0,2025-08-23,Active,,2026-06-04,317,6,Canada,29.0,SaaS Basic Subscription
+SUB-3084,Subscriber 3084,subscriber_3084@gmail.com,Basic,29.0,2026-02-19,Churned,2026-08-29,2026-05-29,394,14,Canada,29.0,SaaS Basic Subscription
+SUB-3085,Subscriber 3085,subscriber_3085@gmail.com,Professional,79.0,2026-06-16,Active,,2026-05-15,125,6,Canada,79.0,SaaS Professional Subscription
+SUB-3086,Subscriber 3086,subscriber_3086@gmail.com,Basic,29.0,2025-11-15,Active,,2026-05-21,445,2,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3087,Subscriber 3087,subscriber_3087@gmail.com,Basic,29.0,2025-11-22,Active,,2026-06-12,357,2,Australia,29.0,SaaS Basic Subscription
+SUB-3088,Subscriber 3088,subscriber_3088@gmail.com,Basic,29.0,2025-09-04,Active,,2026-05-29,74,3,United States,29.0,SaaS Basic Subscription
+SUB-3089,Subscriber 3089,subscriber_3089@gmail.com,Enterprise,249.0,2025-11-15,Churned,2026-03-11,2026-06-03,307,8,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3090,Subscriber 3090,subscriber_3090@gmail.com,Basic,29.0,2025-10-15,Active,,2026-06-07,354,9,Australia,29.0,SaaS Basic Subscription
+SUB-3091,Subscriber 3091,subscriber_3091@gmail.com,Enterprise,249.0,2026-04-26,Active,,2026-06-14,378,5,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3092,Subscriber 3092,subscriber_3092@gmail.com,Basic,29.0,2026-03-07,Active,,2026-06-06,265,2,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3093,Subscriber 3093,subscriber_3093@gmail.com,Basic,29.0,2025-06-27,Active,,2026-05-28,199,4,Australia,29.0,SaaS Basic Subscription
+SUB-3094,Subscriber 3094,subscriber_3094@gmail.com,Basic,29.0,2025-11-11,Churned,2026-05-20,2026-05-27,417,5,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3095,Subscriber 3095,subscriber_3095@gmail.com,Basic,29.0,2026-05-07,Active,,2026-06-21,386,1,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3096,Subscriber 3096,subscriber_3096@gmail.com,Basic,29.0,2025-12-28,Active,,2026-06-07,369,0,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3097,Subscriber 3097,subscriber_3097@gmail.com,Basic,29.0,2026-03-02,Active,,2026-05-16,127,9,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3098,Subscriber 3098,subscriber_3098@gmail.com,Professional,79.0,2025-10-01,Active,,2026-06-09,315,4,Canada,79.0,SaaS Professional Subscription
+SUB-3099,Subscriber 3099,subscriber_3099@gmail.com,Professional,79.0,2026-04-10,Active,,2026-05-21,480,11,United States,79.0,SaaS Professional Subscription
+SUB-3100,Subscriber 3100,subscriber_3100@gmail.com,Basic,29.0,2026-02-22,Active,,2026-05-30,414,10,United States,29.0,SaaS Basic Subscription
+SUB-3101,Subscriber 3101,subscriber_3101@gmail.com,Basic,29.0,2026-06-15,Active,,2026-06-18,96,5,Canada,29.0,SaaS Basic Subscription
+SUB-3102,Subscriber 3102,subscriber_3102@gmail.com,Enterprise,249.0,2026-04-12,Active,,2026-05-17,36,10,Canada,249.0,SaaS Enterprise Subscription
+SUB-3103,Subscriber 3103,subscriber_3103@gmail.com,Professional,79.0,2026-05-13,Active,,2026-06-21,148,1,Canada,79.0,SaaS Professional Subscription
+SUB-3104,Subscriber 3104,subscriber_3104@gmail.com,Professional,79.0,2025-09-07,Active,,2026-05-15,449,5,United States,79.0,SaaS Professional Subscription
+SUB-3105,Subscriber 3105,subscriber_3105@gmail.com,Basic,29.0,2026-03-27,Active,,2026-06-20,476,10,Australia,29.0,SaaS Basic Subscription
+SUB-3106,Subscriber 3106,subscriber_3106@gmail.com,Professional,79.0,2025-07-07,Active,,2026-05-15,155,6,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3107,Subscriber 3107,subscriber_3107@gmail.com,Basic,29.0,2026-03-14,Active,,2026-05-12,283,9,Canada,29.0,SaaS Basic Subscription
+SUB-3108,Subscriber 3108,subscriber_3108@gmail.com,Basic,29.0,2025-12-07,Active,,2026-05-21,12,12,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3109,Subscriber 3109,subscriber_3109@gmail.com,Basic,29.0,2026-01-28,Active,,2026-06-03,243,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3110,Subscriber 3110,subscriber_3110@gmail.com,Professional,79.0,2026-05-26,Churned,2026-09-05,2026-06-17,481,1,Canada,79.0,SaaS Professional Subscription
+SUB-3111,Subscriber 3111,subscriber_3111@gmail.com,Basic,29.0,2025-10-16,Active,,2026-05-30,384,1,United States,29.0,SaaS Basic Subscription
+SUB-3112,Subscriber 3112,subscriber_3112@gmail.com,Basic,29.0,2025-06-27,Active,,2026-06-18,337,10,United States,29.0,SaaS Basic Subscription
+SUB-3113,Subscriber 3113,subscriber_3113@gmail.com,Professional,79.0,2025-08-30,Active,,2026-05-29,48,2,Canada,79.0,SaaS Professional Subscription
+SUB-3114,Subscriber 3114,subscriber_3114@gmail.com,Basic,29.0,2026-05-30,Active,,2026-05-16,455,1,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3115,Subscriber 3115,subscriber_3115@gmail.com,Enterprise,249.0,2026-06-04,Active,,2026-06-16,365,14,Canada,249.0,SaaS Enterprise Subscription
+SUB-3116,Subscriber 3116,subscriber_3116@gmail.com,Basic,29.0,2026-05-27,Active,,2026-06-25,186,6,Canada,29.0,SaaS Basic Subscription
+SUB-3117,Subscriber 3117,subscriber_3117@gmail.com,Basic,29.0,2025-09-22,Active,,2026-05-31,6,13,Canada,29.0,SaaS Basic Subscription
+SUB-3118,Subscriber 3118,subscriber_3118@gmail.com,Basic,29.0,2025-10-04,Active,,2026-06-15,331,14,Australia,29.0,SaaS Basic Subscription
+SUB-3119,Subscriber 3119,subscriber_3119@gmail.com,Basic,29.0,2025-11-16,Churned,2026-07-21,2026-06-06,415,8,Australia,29.0,SaaS Basic Subscription
+SUB-3120,Subscriber 3120,subscriber_3120@gmail.com,Enterprise,249.0,2025-07-18,Active,,2026-05-15,371,10,Canada,249.0,SaaS Enterprise Subscription
+SUB-3121,Subscriber 3121,subscriber_3121@gmail.com,Basic,29.0,2025-07-11,Active,,2026-06-03,497,4,United States,29.0,SaaS Basic Subscription
+SUB-3122,Subscriber 3122,subscriber_3122@gmail.com,Basic,29.0,2025-09-02,Churned,2026-02-14,2026-06-17,71,7,Australia,29.0,SaaS Basic Subscription
+SUB-3123,Subscriber 3123,subscriber_3123@gmail.com,Basic,29.0,2026-01-16,Churned,2026-07-18,2026-05-13,99,11,Canada,29.0,SaaS Basic Subscription
+SUB-3124,Subscriber 3124,subscriber_3124@gmail.com,Enterprise,249.0,2025-12-31,Active,,2026-06-03,302,13,Canada,249.0,SaaS Enterprise Subscription
+SUB-3125,Subscriber 3125,subscriber_3125@gmail.com,Professional,79.0,2025-10-01,Active,,2026-05-19,179,10,Australia,79.0,SaaS Professional Subscription
+SUB-3126,Subscriber 3126,subscriber_3126@gmail.com,Enterprise,249.0,2026-06-10,Churned,2026-10-27,2026-05-15,454,14,Australia,249.0,SaaS Enterprise Subscription
+SUB-3127,Subscriber 3127,subscriber_3127@gmail.com,Basic,29.0,2025-10-23,Active,,2026-05-25,337,3,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3128,Subscriber 3128,subscriber_3128@gmail.com,Basic,29.0,2026-03-14,Active,,2026-06-13,424,1,Canada,29.0,SaaS Basic Subscription
+SUB-3129,Subscriber 3129,subscriber_3129@gmail.com,Basic,29.0,2025-11-08,Active,,2026-05-16,171,9,Australia,29.0,SaaS Basic Subscription
+SUB-3130,Subscriber 3130,subscriber_3130@gmail.com,Professional,79.0,2026-06-19,Active,,2026-05-28,468,13,Canada,79.0,SaaS Professional Subscription
+SUB-3131,Subscriber 3131,subscriber_3131@gmail.com,Professional,79.0,2025-07-20,Churned,2025-10-31,2026-06-18,286,10,United States,79.0,SaaS Professional Subscription
+SUB-3132,Subscriber 3132,subscriber_3132@gmail.com,Enterprise,249.0,2025-10-04,Churned,2026-04-13,2026-06-07,379,2,Canada,249.0,SaaS Enterprise Subscription
+SUB-3133,Subscriber 3133,subscriber_3133@gmail.com,Basic,29.0,2025-12-20,Churned,2026-05-30,2026-06-21,66,3,Canada,29.0,SaaS Basic Subscription
+SUB-3134,Subscriber 3134,subscriber_3134@gmail.com,Basic,29.0,2026-03-13,Churned,2026-10-13,2026-05-23,436,7,United States,29.0,SaaS Basic Subscription
+SUB-3135,Subscriber 3135,subscriber_3135@gmail.com,Basic,29.0,2026-01-11,Active,,2026-06-08,323,9,Canada,29.0,SaaS Basic Subscription
+SUB-3136,Subscriber 3136,subscriber_3136@gmail.com,Professional,79.0,2025-07-09,Active,,2026-06-22,457,4,United States,79.0,SaaS Professional Subscription
+SUB-3137,Subscriber 3137,subscriber_3137@gmail.com,Basic,29.0,2025-11-19,Active,,2026-05-27,470,5,United States,29.0,SaaS Basic Subscription
+SUB-3138,Subscriber 3138,subscriber_3138@gmail.com,Professional,79.0,2025-08-31,Churned,2026-02-01,2026-06-15,396,2,United States,79.0,SaaS Professional Subscription
+SUB-3139,Subscriber 3139,subscriber_3139@gmail.com,Basic,29.0,2026-06-05,Active,,2026-06-22,489,0,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3140,Subscriber 3140,subscriber_3140@gmail.com,Enterprise,249.0,2025-11-09,Churned,2026-07-10,2026-06-03,377,10,Australia,249.0,SaaS Enterprise Subscription
+SUB-3141,Subscriber 3141,subscriber_3141@gmail.com,Basic,29.0,2026-04-08,Active,,2026-06-24,208,3,Canada,29.0,SaaS Basic Subscription
+SUB-3142,Subscriber 3142,subscriber_3142@gmail.com,Basic,29.0,2026-03-14,Churned,2026-06-13,2026-05-19,270,11,United States,29.0,SaaS Basic Subscription
+SUB-3143,Subscriber 3143,subscriber_3143@gmail.com,Enterprise,249.0,2025-08-25,Active,,2026-05-22,269,1,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3144,Subscriber 3144,subscriber_3144@gmail.com,Basic,29.0,2025-11-10,Active,,2026-05-24,451,9,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3145,Subscriber 3145,subscriber_3145@gmail.com,Professional,79.0,2025-11-15,Active,,2026-05-26,409,6,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3146,Subscriber 3146,subscriber_3146@gmail.com,Basic,29.0,2025-09-05,Active,,2026-05-28,447,14,Australia,29.0,SaaS Basic Subscription
+SUB-3147,Subscriber 3147,subscriber_3147@gmail.com,Basic,29.0,2026-06-24,Active,,2026-05-16,398,13,Canada,29.0,SaaS Basic Subscription
+SUB-3148,Subscriber 3148,subscriber_3148@gmail.com,Basic,29.0,2025-08-05,Active,,2026-06-06,340,3,United States,29.0,SaaS Basic Subscription
+SUB-3149,Subscriber 3149,subscriber_3149@gmail.com,Professional,79.0,2026-04-21,Active,,2026-06-24,445,13,Canada,79.0,SaaS Professional Subscription
+SUB-3150,Subscriber 3150,subscriber_3150@gmail.com,Basic,29.0,2026-01-29,Active,,2026-05-26,434,6,Australia,29.0,SaaS Basic Subscription
+SUB-3151,Subscriber 3151,subscriber_3151@gmail.com,Professional,79.0,2026-05-11,Active,,2026-06-01,72,14,Canada,79.0,SaaS Professional Subscription
+SUB-3152,Subscriber 3152,subscriber_3152@gmail.com,Basic,29.0,2026-05-16,Active,,2026-05-31,220,9,United States,29.0,SaaS Basic Subscription
+SUB-3153,Subscriber 3153,subscriber_3153@gmail.com,Professional,79.0,2026-02-19,Active,,2026-05-16,382,0,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3154,Subscriber 3154,subscriber_3154@gmail.com,Professional,79.0,2026-04-06,Active,,2026-05-28,262,10,United States,79.0,SaaS Professional Subscription
+SUB-3155,Subscriber 3155,subscriber_3155@gmail.com,Basic,29.0,2026-01-02,Churned,2026-03-27,2026-06-03,37,10,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3156,Subscriber 3156,subscriber_3156@gmail.com,Enterprise,249.0,2025-11-24,Active,,2026-05-20,356,3,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3157,Subscriber 3157,subscriber_3157@gmail.com,Basic,29.0,2026-03-20,Active,,2026-05-22,271,12,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3158,Subscriber 3158,subscriber_3158@gmail.com,Basic,29.0,2026-01-23,Active,,2026-06-23,356,4,Australia,29.0,SaaS Basic Subscription
+SUB-3159,Subscriber 3159,subscriber_3159@gmail.com,Basic,29.0,2025-12-18,Active,,2026-06-01,218,2,United States,29.0,SaaS Basic Subscription
+SUB-3160,Subscriber 3160,subscriber_3160@gmail.com,Basic,29.0,2026-01-19,Active,,2026-05-13,203,7,United States,29.0,SaaS Basic Subscription
+SUB-3161,Subscriber 3161,subscriber_3161@gmail.com,Enterprise,249.0,2025-08-15,Active,,2026-06-13,348,1,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3162,Subscriber 3162,subscriber_3162@gmail.com,Basic,29.0,2025-06-30,Active,,2026-06-08,367,8,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3163,Subscriber 3163,subscriber_3163@gmail.com,Professional,79.0,2026-01-31,Active,,2026-05-18,344,5,Canada,79.0,SaaS Professional Subscription
+SUB-3164,Subscriber 3164,subscriber_3164@gmail.com,Basic,29.0,2025-10-13,Active,,2026-06-19,122,8,Australia,29.0,SaaS Basic Subscription
+SUB-3165,Subscriber 3165,subscriber_3165@gmail.com,Professional,79.0,2026-06-16,Churned,2026-12-12,2026-06-22,336,5,United States,79.0,SaaS Professional Subscription
+SUB-3166,Subscriber 3166,subscriber_3166@gmail.com,Professional,79.0,2026-04-20,Active,,2026-06-18,159,12,United States,79.0,SaaS Professional Subscription
+SUB-3167,Subscriber 3167,subscriber_3167@gmail.com,Basic,29.0,2025-12-08,Active,,2026-06-13,92,5,United States,29.0,SaaS Basic Subscription
+SUB-3168,Subscriber 3168,subscriber_3168@gmail.com,Basic,29.0,2026-05-26,Active,,2026-05-14,315,3,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3169,Subscriber 3169,subscriber_3169@gmail.com,Basic,29.0,2026-01-20,Active,,2026-06-08,216,5,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3170,Subscriber 3170,subscriber_3170@gmail.com,Basic,29.0,2025-06-27,Active,,2026-06-14,62,6,Australia,29.0,SaaS Basic Subscription
+SUB-3171,Subscriber 3171,subscriber_3171@gmail.com,Basic,29.0,2026-05-03,Active,,2026-05-16,473,8,Australia,29.0,SaaS Basic Subscription
+SUB-3172,Subscriber 3172,subscriber_3172@gmail.com,Professional,79.0,2026-05-29,Active,,2026-06-04,50,10,Australia,79.0,SaaS Professional Subscription
+SUB-3173,Subscriber 3173,subscriber_3173@gmail.com,Enterprise,249.0,2025-10-29,Active,,2026-06-02,473,1,Australia,249.0,SaaS Enterprise Subscription
+SUB-3174,Subscriber 3174,subscriber_3174@gmail.com,Professional,79.0,2025-09-06,Active,,2026-05-14,345,12,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3175,Subscriber 3175,subscriber_3175@gmail.com,Basic,29.0,2025-08-01,Active,,2026-06-01,372,9,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3176,Subscriber 3176,subscriber_3176@gmail.com,Professional,79.0,2026-05-24,Active,,2026-05-23,305,7,Canada,79.0,SaaS Professional Subscription
+SUB-3177,Subscriber 3177,subscriber_3177@gmail.com,Basic,29.0,2025-08-22,Active,,2026-05-17,416,1,Canada,29.0,SaaS Basic Subscription
+SUB-3178,Subscriber 3178,subscriber_3178@gmail.com,Basic,29.0,2025-07-06,Active,,2026-06-09,154,1,Australia,29.0,SaaS Basic Subscription
+SUB-3179,Subscriber 3179,subscriber_3179@gmail.com,Basic,29.0,2025-09-25,Active,,2026-05-27,290,2,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3180,Subscriber 3180,subscriber_3180@gmail.com,Basic,29.0,2026-04-20,Active,,2026-05-21,120,4,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3181,Subscriber 3181,subscriber_3181@gmail.com,Basic,29.0,2026-01-13,Active,,2026-05-20,480,10,Canada,29.0,SaaS Basic Subscription
+SUB-3182,Subscriber 3182,subscriber_3182@gmail.com,Professional,79.0,2026-04-10,Active,,2026-05-22,407,3,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3183,Subscriber 3183,subscriber_3183@gmail.com,Professional,79.0,2026-06-24,Active,,2026-05-24,459,12,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3184,Subscriber 3184,subscriber_3184@gmail.com,Basic,29.0,2026-04-06,Active,,2026-06-24,320,1,Canada,29.0,SaaS Basic Subscription
+SUB-3185,Subscriber 3185,subscriber_3185@gmail.com,Basic,29.0,2026-05-07,Churned,2026-06-23,2026-05-12,188,13,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3186,Subscriber 3186,subscriber_3186@gmail.com,Professional,79.0,2025-08-11,Active,,2026-05-19,102,3,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3187,Subscriber 3187,subscriber_3187@gmail.com,Basic,29.0,2026-04-12,Active,,2026-05-16,460,12,Canada,29.0,SaaS Basic Subscription
+SUB-3188,Subscriber 3188,subscriber_3188@gmail.com,Professional,79.0,2025-08-17,Active,,2026-06-15,249,10,United States,79.0,SaaS Professional Subscription
+SUB-3189,Subscriber 3189,subscriber_3189@gmail.com,Professional,79.0,2025-11-29,Active,,2026-05-23,359,14,Australia,79.0,SaaS Professional Subscription
+SUB-3190,Subscriber 3190,subscriber_3190@gmail.com,Basic,29.0,2025-09-09,Active,,2026-05-30,466,12,Australia,29.0,SaaS Basic Subscription
+SUB-3191,Subscriber 3191,subscriber_3191@gmail.com,Enterprise,249.0,2025-08-15,Active,,2026-05-15,389,7,Australia,249.0,SaaS Enterprise Subscription
+SUB-3192,Subscriber 3192,subscriber_3192@gmail.com,Professional,79.0,2025-09-16,Active,,2026-05-22,111,11,United States,79.0,SaaS Professional Subscription
+SUB-3193,Subscriber 3193,subscriber_3193@gmail.com,Basic,29.0,2025-07-12,Active,,2026-06-20,174,3,Australia,29.0,SaaS Basic Subscription
+SUB-3194,Subscriber 3194,subscriber_3194@gmail.com,Professional,79.0,2025-11-03,Active,,2026-06-13,136,14,Australia,79.0,SaaS Professional Subscription
+SUB-3195,Subscriber 3195,subscriber_3195@gmail.com,Professional,79.0,2026-02-24,Churned,2026-09-21,2026-06-06,160,5,Australia,79.0,SaaS Professional Subscription
+SUB-3196,Subscriber 3196,subscriber_3196@gmail.com,Basic,29.0,2025-12-24,Active,,2026-05-25,483,12,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3197,Subscriber 3197,subscriber_3197@gmail.com,Basic,29.0,2026-02-22,Active,,2026-06-18,406,6,Australia,29.0,SaaS Basic Subscription
+SUB-3198,Subscriber 3198,subscriber_3198@gmail.com,Professional,79.0,2025-11-22,Active,,2026-05-12,278,10,Australia,79.0,SaaS Professional Subscription
+SUB-3199,Subscriber 3199,subscriber_3199@gmail.com,Professional,79.0,2025-09-02,Active,,2026-05-21,183,12,United States,79.0,SaaS Professional Subscription
+SUB-3200,Subscriber 3200,subscriber_3200@gmail.com,Enterprise,249.0,2025-08-28,Active,,2026-05-12,314,9,Canada,249.0,SaaS Enterprise Subscription
+SUB-3201,Subscriber 3201,subscriber_3201@gmail.com,Basic,29.0,2025-09-03,Active,,2026-06-16,368,4,Australia,29.0,SaaS Basic Subscription
+SUB-3202,Subscriber 3202,subscriber_3202@gmail.com,Basic,29.0,2026-06-07,Active,,2026-05-19,76,3,Canada,29.0,SaaS Basic Subscription
+SUB-3203,Subscriber 3203,subscriber_3203@gmail.com,Professional,79.0,2026-05-28,Active,,2026-05-16,139,6,United States,79.0,SaaS Professional Subscription
+SUB-3204,Subscriber 3204,subscriber_3204@gmail.com,Basic,29.0,2026-01-03,Active,,2026-05-25,108,11,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3205,Subscriber 3205,subscriber_3205@gmail.com,Basic,29.0,2025-08-13,Active,,2026-06-05,400,10,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3206,Subscriber 3206,subscriber_3206@gmail.com,Basic,29.0,2025-11-10,Active,,2026-05-21,364,14,United States,29.0,SaaS Basic Subscription
+SUB-3207,Subscriber 3207,subscriber_3207@gmail.com,Professional,79.0,2026-05-08,Churned,2026-12-06,2026-06-25,274,8,Australia,79.0,SaaS Professional Subscription
+SUB-3208,Subscriber 3208,subscriber_3208@gmail.com,Basic,29.0,2025-08-20,Churned,2025-11-08,2026-06-11,275,5,Australia,29.0,SaaS Basic Subscription
+SUB-3209,Subscriber 3209,subscriber_3209@gmail.com,Basic,29.0,2025-10-09,Churned,2025-11-21,2026-06-19,22,1,Australia,29.0,SaaS Basic Subscription
+SUB-3210,Subscriber 3210,subscriber_3210@gmail.com,Basic,29.0,2026-06-22,Active,,2026-05-31,451,14,Australia,29.0,SaaS Basic Subscription
+SUB-3211,Subscriber 3211,subscriber_3211@gmail.com,Basic,29.0,2026-04-20,Active,,2026-05-28,439,11,Canada,29.0,SaaS Basic Subscription
+SUB-3212,Subscriber 3212,subscriber_3212@gmail.com,Basic,29.0,2026-05-14,Active,,2026-06-25,205,14,United States,29.0,SaaS Basic Subscription
+SUB-3213,Subscriber 3213,subscriber_3213@gmail.com,Professional,79.0,2026-06-22,Churned,2026-10-04,2026-05-16,437,14,United States,79.0,SaaS Professional Subscription
+SUB-3214,Subscriber 3214,subscriber_3214@gmail.com,Enterprise,249.0,2025-07-20,Churned,2026-01-05,2026-05-16,387,5,Canada,249.0,SaaS Enterprise Subscription
+SUB-3215,Subscriber 3215,subscriber_3215@gmail.com,Professional,79.0,2025-10-12,Active,,2026-06-06,483,9,Australia,79.0,SaaS Professional Subscription
+SUB-3216,Subscriber 3216,subscriber_3216@gmail.com,Basic,29.0,2025-07-31,Churned,2025-11-23,2026-05-13,293,11,Australia,29.0,SaaS Basic Subscription
+SUB-3217,Subscriber 3217,subscriber_3217@gmail.com,Professional,79.0,2025-08-27,Active,,2026-06-24,225,11,Australia,79.0,SaaS Professional Subscription
+SUB-3218,Subscriber 3218,subscriber_3218@gmail.com,Professional,79.0,2025-07-26,Active,,2026-06-21,445,14,Canada,79.0,SaaS Professional Subscription
+SUB-3219,Subscriber 3219,subscriber_3219@gmail.com,Basic,29.0,2026-03-03,Active,,2026-05-22,262,9,United States,29.0,SaaS Basic Subscription
+SUB-3220,Subscriber 3220,subscriber_3220@gmail.com,Basic,29.0,2025-11-15,Active,,2026-05-27,426,10,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3221,Subscriber 3221,subscriber_3221@gmail.com,Professional,79.0,2025-08-03,Churned,2025-12-15,2026-06-01,205,7,Australia,79.0,SaaS Professional Subscription
+SUB-3222,Subscriber 3222,subscriber_3222@gmail.com,Professional,79.0,2025-12-28,Active,,2026-05-31,460,5,Canada,79.0,SaaS Professional Subscription
+SUB-3223,Subscriber 3223,subscriber_3223@gmail.com,Basic,29.0,2025-12-10,Active,,2026-06-12,450,0,United States,29.0,SaaS Basic Subscription
+SUB-3224,Subscriber 3224,subscriber_3224@gmail.com,Basic,29.0,2025-12-25,Active,,2026-05-18,108,11,United States,29.0,SaaS Basic Subscription
+SUB-3225,Subscriber 3225,subscriber_3225@gmail.com,Basic,29.0,2026-04-24,Active,,2026-06-12,394,9,Canada,29.0,SaaS Basic Subscription
+SUB-3226,Subscriber 3226,subscriber_3226@gmail.com,Professional,79.0,2026-03-31,Churned,2026-05-10,2026-05-20,287,3,Canada,79.0,SaaS Professional Subscription
+SUB-3227,Subscriber 3227,subscriber_3227@gmail.com,Basic,29.0,2026-04-18,Active,,2026-06-11,160,13,United States,29.0,SaaS Basic Subscription
+SUB-3228,Subscriber 3228,subscriber_3228@gmail.com,Basic,29.0,2026-06-14,Active,,2026-05-22,121,9,Australia,29.0,SaaS Basic Subscription
+SUB-3229,Subscriber 3229,subscriber_3229@gmail.com,Professional,79.0,2026-03-21,Active,,2026-05-17,247,2,United States,79.0,SaaS Professional Subscription
+SUB-3230,Subscriber 3230,subscriber_3230@gmail.com,Basic,29.0,2025-12-20,Active,,2026-06-11,231,7,United States,29.0,SaaS Basic Subscription
+SUB-3231,Subscriber 3231,subscriber_3231@gmail.com,Basic,29.0,2026-05-28,Active,,2026-06-02,385,2,United States,29.0,SaaS Basic Subscription
+SUB-3232,Subscriber 3232,subscriber_3232@gmail.com,Basic,29.0,2025-07-29,Active,,2026-06-13,267,8,Australia,29.0,SaaS Basic Subscription
+SUB-3233,Subscriber 3233,subscriber_3233@gmail.com,Basic,29.0,2025-07-05,Active,,2026-06-24,390,12,Australia,29.0,SaaS Basic Subscription
+SUB-3234,Subscriber 3234,subscriber_3234@gmail.com,Basic,29.0,2025-09-01,Active,,2026-05-29,370,11,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3235,Subscriber 3235,subscriber_3235@gmail.com,Enterprise,249.0,2025-11-18,Active,,2026-06-02,136,11,Canada,249.0,SaaS Enterprise Subscription
+SUB-3236,Subscriber 3236,subscriber_3236@gmail.com,Basic,29.0,2026-01-16,Active,,2026-06-04,460,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3237,Subscriber 3237,subscriber_3237@gmail.com,Basic,29.0,2025-07-14,Churned,2026-01-19,2026-05-18,133,7,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3238,Subscriber 3238,subscriber_3238@gmail.com,Basic,29.0,2026-04-19,Active,,2026-05-17,209,11,Australia,29.0,SaaS Basic Subscription
+SUB-3239,Subscriber 3239,subscriber_3239@gmail.com,Basic,29.0,2025-07-15,Active,,2026-06-18,36,9,Australia,29.0,SaaS Basic Subscription
+SUB-3240,Subscriber 3240,subscriber_3240@gmail.com,Basic,29.0,2025-12-27,Churned,2026-06-16,2026-06-01,475,12,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3241,Subscriber 3241,subscriber_3241@gmail.com,Basic,29.0,2025-10-02,Active,,2026-05-25,231,5,Canada,29.0,SaaS Basic Subscription
+SUB-3242,Subscriber 3242,subscriber_3242@gmail.com,Basic,29.0,2026-06-17,Active,,2026-05-29,291,9,Canada,29.0,SaaS Basic Subscription
+SUB-3243,Subscriber 3243,subscriber_3243@gmail.com,Basic,29.0,2026-03-30,Churned,2026-10-28,2026-06-04,436,9,Australia,29.0,SaaS Basic Subscription
+SUB-3244,Subscriber 3244,subscriber_3244@gmail.com,Enterprise,249.0,2025-08-02,Churned,2026-02-07,2026-06-02,83,10,Canada,249.0,SaaS Enterprise Subscription
+SUB-3245,Subscriber 3245,subscriber_3245@gmail.com,Basic,29.0,2026-05-27,Active,,2026-05-30,70,12,United States,29.0,SaaS Basic Subscription
+SUB-3246,Subscriber 3246,subscriber_3246@gmail.com,Basic,29.0,2025-12-16,Active,,2026-05-21,467,9,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3247,Subscriber 3247,subscriber_3247@gmail.com,Professional,79.0,2025-08-29,Active,,2026-06-23,215,3,Australia,79.0,SaaS Professional Subscription
+SUB-3248,Subscriber 3248,subscriber_3248@gmail.com,Basic,29.0,2026-04-19,Active,,2026-05-19,495,11,Canada,29.0,SaaS Basic Subscription
+SUB-3249,Subscriber 3249,subscriber_3249@gmail.com,Basic,29.0,2025-07-19,Active,,2026-05-15,70,2,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3250,Subscriber 3250,subscriber_3250@gmail.com,Basic,29.0,2025-11-02,Active,,2026-06-03,105,9,United States,29.0,SaaS Basic Subscription
+SUB-3251,Subscriber 3251,subscriber_3251@gmail.com,Basic,29.0,2025-09-04,Churned,2025-11-05,2026-06-08,79,9,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3252,Subscriber 3252,subscriber_3252@gmail.com,Basic,29.0,2025-11-20,Active,,2026-05-24,397,1,Australia,29.0,SaaS Basic Subscription
+SUB-3253,Subscriber 3253,subscriber_3253@gmail.com,Enterprise,249.0,2025-10-10,Active,,2026-05-16,316,2,United States,249.0,SaaS Enterprise Subscription
+SUB-3254,Subscriber 3254,subscriber_3254@gmail.com,Professional,79.0,2025-08-22,Active,,2026-05-21,426,3,Canada,79.0,SaaS Professional Subscription
+SUB-3255,Subscriber 3255,subscriber_3255@gmail.com,Basic,29.0,2025-09-26,Active,,2026-06-13,55,3,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3256,Subscriber 3256,subscriber_3256@gmail.com,Basic,29.0,2025-08-24,Active,,2026-06-15,317,8,Canada,29.0,SaaS Basic Subscription
+SUB-3257,Subscriber 3257,subscriber_3257@gmail.com,Basic,29.0,2026-06-01,Active,,2026-06-11,429,13,United States,29.0,SaaS Basic Subscription
+SUB-3258,Subscriber 3258,subscriber_3258@gmail.com,Basic,29.0,2025-07-10,Active,,2026-05-27,442,0,United States,29.0,SaaS Basic Subscription
+SUB-3259,Subscriber 3259,subscriber_3259@gmail.com,Basic,29.0,2026-04-11,Active,,2026-06-25,417,8,Canada,29.0,SaaS Basic Subscription
+SUB-3260,Subscriber 3260,subscriber_3260@gmail.com,Professional,79.0,2025-07-08,Active,,2026-05-19,456,1,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3261,Subscriber 3261,subscriber_3261@gmail.com,Basic,29.0,2026-05-01,Churned,2026-11-07,2026-06-08,254,3,Australia,29.0,SaaS Basic Subscription
+SUB-3262,Subscriber 3262,subscriber_3262@gmail.com,Professional,79.0,2026-05-18,Churned,2027-01-19,2026-06-06,280,8,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3263,Subscriber 3263,subscriber_3263@gmail.com,Basic,29.0,2026-04-05,Churned,2026-11-12,2026-05-27,366,14,United States,29.0,SaaS Basic Subscription
+SUB-3264,Subscriber 3264,subscriber_3264@gmail.com,Basic,29.0,2025-09-06,Active,,2026-05-23,305,6,Australia,29.0,SaaS Basic Subscription
+SUB-3265,Subscriber 3265,subscriber_3265@gmail.com,Professional,79.0,2025-11-14,Active,,2026-05-18,123,1,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3266,Subscriber 3266,subscriber_3266@gmail.com,Enterprise,249.0,2026-02-15,Active,,2026-06-04,61,7,Australia,249.0,SaaS Enterprise Subscription
+SUB-3267,Subscriber 3267,subscriber_3267@gmail.com,Basic,29.0,2025-10-17,Active,,2026-05-14,233,7,United States,29.0,SaaS Basic Subscription
+SUB-3268,Subscriber 3268,subscriber_3268@gmail.com,Basic,29.0,2025-09-07,Active,,2026-06-09,474,11,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3269,Subscriber 3269,subscriber_3269@gmail.com,Enterprise,249.0,2025-12-19,Active,,2026-06-08,12,2,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3270,Subscriber 3270,subscriber_3270@gmail.com,Basic,29.0,2025-10-05,Active,,2026-05-17,496,3,United States,29.0,SaaS Basic Subscription
+SUB-3271,Subscriber 3271,subscriber_3271@gmail.com,Basic,29.0,2025-09-15,Churned,2025-12-17,2026-05-19,193,13,Canada,29.0,SaaS Basic Subscription
+SUB-3272,Subscriber 3272,subscriber_3272@gmail.com,Basic,29.0,2025-12-18,Active,,2026-06-16,177,1,Canada,29.0,SaaS Basic Subscription
+SUB-3273,Subscriber 3273,subscriber_3273@gmail.com,Professional,79.0,2026-05-21,Active,,2026-05-27,216,4,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3274,Subscriber 3274,subscriber_3274@gmail.com,Basic,29.0,2026-01-12,Active,,2026-05-25,418,0,Canada,29.0,SaaS Basic Subscription
+SUB-3275,Subscriber 3275,subscriber_3275@gmail.com,Professional,79.0,2026-03-24,Churned,2026-09-28,2026-05-20,226,9,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3276,Subscriber 3276,subscriber_3276@gmail.com,Professional,79.0,2026-06-13,Active,,2026-06-01,148,6,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3277,Subscriber 3277,subscriber_3277@gmail.com,Basic,29.0,2025-10-19,Active,,2026-06-22,108,13,Australia,29.0,SaaS Basic Subscription
+SUB-3278,Subscriber 3278,subscriber_3278@gmail.com,Enterprise,249.0,2025-08-03,Active,,2026-06-18,258,6,Australia,249.0,SaaS Enterprise Subscription
+SUB-3279,Subscriber 3279,subscriber_3279@gmail.com,Basic,29.0,2026-03-18,Active,,2026-05-17,157,14,Australia,29.0,SaaS Basic Subscription
+SUB-3280,Subscriber 3280,subscriber_3280@gmail.com,Basic,29.0,2025-12-01,Active,,2026-06-20,231,6,Australia,29.0,SaaS Basic Subscription
+SUB-3281,Subscriber 3281,subscriber_3281@gmail.com,Professional,79.0,2026-06-24,Active,,2026-05-27,464,13,United States,79.0,SaaS Professional Subscription
+SUB-3282,Subscriber 3282,subscriber_3282@gmail.com,Basic,29.0,2026-05-21,Active,,2026-06-05,402,1,United States,29.0,SaaS Basic Subscription
+SUB-3283,Subscriber 3283,subscriber_3283@gmail.com,Professional,79.0,2025-09-13,Active,,2026-06-08,407,1,United States,79.0,SaaS Professional Subscription
+SUB-3284,Subscriber 3284,subscriber_3284@gmail.com,Basic,29.0,2025-12-08,Churned,2026-06-11,2026-06-15,10,5,Canada,29.0,SaaS Basic Subscription
+SUB-3285,Subscriber 3285,subscriber_3285@gmail.com,Enterprise,249.0,2026-03-14,Active,,2026-06-06,226,6,Canada,249.0,SaaS Enterprise Subscription
+SUB-3286,Subscriber 3286,subscriber_3286@gmail.com,Basic,29.0,2026-04-29,Active,,2026-05-23,11,4,Australia,29.0,SaaS Basic Subscription
+SUB-3287,Subscriber 3287,subscriber_3287@gmail.com,Professional,79.0,2025-10-21,Active,,2026-06-12,105,13,Australia,79.0,SaaS Professional Subscription
+SUB-3288,Subscriber 3288,subscriber_3288@gmail.com,Professional,79.0,2025-12-24,Active,,2026-05-24,30,7,Australia,79.0,SaaS Professional Subscription
+SUB-3289,Subscriber 3289,subscriber_3289@gmail.com,Professional,79.0,2026-03-13,Churned,2026-06-12,2026-06-11,42,2,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3290,Subscriber 3290,subscriber_3290@gmail.com,Professional,79.0,2025-06-27,Active,,2026-06-06,398,0,United States,79.0,SaaS Professional Subscription
+SUB-3291,Subscriber 3291,subscriber_3291@gmail.com,Basic,29.0,2026-04-16,Active,,2026-06-16,245,1,Canada,29.0,SaaS Basic Subscription
+SUB-3292,Subscriber 3292,subscriber_3292@gmail.com,Basic,29.0,2026-03-07,Active,,2026-06-07,398,13,Canada,29.0,SaaS Basic Subscription
+SUB-3293,Subscriber 3293,subscriber_3293@gmail.com,Basic,29.0,2026-05-26,Active,,2026-05-31,168,2,Australia,29.0,SaaS Basic Subscription
+SUB-3294,Subscriber 3294,subscriber_3294@gmail.com,Basic,29.0,2025-08-05,Active,,2026-06-14,129,4,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3295,Subscriber 3295,subscriber_3295@gmail.com,Professional,79.0,2025-07-24,Active,,2026-05-19,147,0,Australia,79.0,SaaS Professional Subscription
+SUB-3296,Subscriber 3296,subscriber_3296@gmail.com,Enterprise,249.0,2025-08-16,Active,,2026-05-15,212,1,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3297,Subscriber 3297,subscriber_3297@gmail.com,Basic,29.0,2026-04-21,Active,,2026-06-05,465,1,Australia,29.0,SaaS Basic Subscription
+SUB-3298,Subscriber 3298,subscriber_3298@gmail.com,Professional,79.0,2025-11-30,Active,,2026-05-16,159,10,United States,79.0,SaaS Professional Subscription
+SUB-3299,Subscriber 3299,subscriber_3299@gmail.com,Enterprise,249.0,2026-05-05,Churned,2026-08-30,2026-05-16,446,4,Australia,249.0,SaaS Enterprise Subscription
+SUB-3300,Subscriber 3300,subscriber_3300@gmail.com,Professional,79.0,2025-09-14,Active,,2026-06-12,76,4,United States,79.0,SaaS Professional Subscription
+SUB-3301,Subscriber 3301,subscriber_3301@gmail.com,Professional,79.0,2025-08-29,Active,,2026-05-31,267,11,Canada,79.0,SaaS Professional Subscription
+SUB-3302,Subscriber 3302,subscriber_3302@gmail.com,Basic,29.0,2025-10-25,Active,,2026-06-15,165,13,Australia,29.0,SaaS Basic Subscription
+SUB-3303,Subscriber 3303,subscriber_3303@gmail.com,Basic,29.0,2025-11-10,Active,,2026-05-15,275,5,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3304,Subscriber 3304,subscriber_3304@gmail.com,Professional,79.0,2025-10-04,Churned,2026-05-01,2026-06-03,186,2,United States,79.0,SaaS Professional Subscription
+SUB-3305,Subscriber 3305,subscriber_3305@gmail.com,Basic,29.0,2025-09-03,Active,,2026-06-19,23,5,Australia,29.0,SaaS Basic Subscription
+SUB-3306,Subscriber 3306,subscriber_3306@gmail.com,Basic,29.0,2025-10-29,Churned,2026-04-27,2026-06-18,132,6,United States,29.0,SaaS Basic Subscription
+SUB-3307,Subscriber 3307,subscriber_3307@gmail.com,Professional,79.0,2026-01-21,Active,,2026-06-08,389,9,United States,79.0,SaaS Professional Subscription
+SUB-3308,Subscriber 3308,subscriber_3308@gmail.com,Basic,29.0,2025-07-19,Active,,2026-05-15,413,4,Canada,29.0,SaaS Basic Subscription
+SUB-3309,Subscriber 3309,subscriber_3309@gmail.com,Professional,79.0,2025-09-09,Active,,2026-05-26,403,2,United States,79.0,SaaS Professional Subscription
+SUB-3310,Subscriber 3310,subscriber_3310@gmail.com,Basic,29.0,2025-08-23,Active,,2026-06-07,132,3,Australia,29.0,SaaS Basic Subscription
+SUB-3311,Subscriber 3311,subscriber_3311@gmail.com,Professional,79.0,2025-11-16,Churned,2026-05-30,2026-06-13,17,11,Australia,79.0,SaaS Professional Subscription
+SUB-3312,Subscriber 3312,subscriber_3312@gmail.com,Enterprise,249.0,2026-02-03,Churned,2026-06-30,2026-06-16,220,14,Canada,249.0,SaaS Enterprise Subscription
+SUB-3313,Subscriber 3313,subscriber_3313@gmail.com,Basic,29.0,2026-03-09,Active,,2026-05-20,72,4,United States,29.0,SaaS Basic Subscription
+SUB-3314,Subscriber 3314,subscriber_3314@gmail.com,Basic,29.0,2026-01-06,Active,,2026-06-20,178,1,Australia,29.0,SaaS Basic Subscription
+SUB-3315,Subscriber 3315,subscriber_3315@gmail.com,Basic,29.0,2025-10-12,Active,,2026-06-12,310,4,United States,29.0,SaaS Basic Subscription
+SUB-3316,Subscriber 3316,subscriber_3316@gmail.com,Basic,29.0,2025-07-22,Active,,2026-06-23,279,1,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3317,Subscriber 3317,subscriber_3317@gmail.com,Basic,29.0,2025-07-11,Active,,2026-05-31,461,14,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3318,Subscriber 3318,subscriber_3318@gmail.com,Basic,29.0,2025-10-17,Active,,2026-05-20,83,13,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3319,Subscriber 3319,subscriber_3319@gmail.com,Professional,79.0,2026-05-29,Active,,2026-06-21,496,14,Australia,79.0,SaaS Professional Subscription
+SUB-3320,Subscriber 3320,subscriber_3320@gmail.com,Basic,29.0,2026-01-12,Active,,2026-05-29,307,12,Canada,29.0,SaaS Basic Subscription
+SUB-3321,Subscriber 3321,subscriber_3321@gmail.com,Basic,29.0,2026-05-09,Churned,2027-01-06,2026-05-22,151,11,Canada,29.0,SaaS Basic Subscription
+SUB-3322,Subscriber 3322,subscriber_3322@gmail.com,Basic,29.0,2025-07-28,Churned,2026-03-19,2026-06-03,164,0,Canada,29.0,SaaS Basic Subscription
+SUB-3323,Subscriber 3323,subscriber_3323@gmail.com,Basic,29.0,2025-10-08,Active,,2026-05-28,472,10,United States,29.0,SaaS Basic Subscription
+SUB-3324,Subscriber 3324,subscriber_3324@gmail.com,Basic,29.0,2026-02-15,Active,,2026-05-20,169,2,Australia,29.0,SaaS Basic Subscription
+SUB-3325,Subscriber 3325,subscriber_3325@gmail.com,Basic,29.0,2026-03-23,Active,,2026-05-21,280,5,Canada,29.0,SaaS Basic Subscription
+SUB-3326,Subscriber 3326,subscriber_3326@gmail.com,Basic,29.0,2026-04-09,Churned,2026-08-17,2026-06-16,407,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3327,Subscriber 3327,subscriber_3327@gmail.com,Basic,29.0,2026-05-21,Active,,2026-06-10,80,9,Australia,29.0,SaaS Basic Subscription
+SUB-3328,Subscriber 3328,subscriber_3328@gmail.com,Professional,79.0,2026-02-13,Active,,2026-06-04,225,13,United States,79.0,SaaS Professional Subscription
+SUB-3329,Subscriber 3329,subscriber_3329@gmail.com,Basic,29.0,2025-09-18,Churned,2026-04-10,2026-06-24,423,3,Canada,29.0,SaaS Basic Subscription
+SUB-3330,Subscriber 3330,subscriber_3330@gmail.com,Basic,29.0,2025-12-11,Active,,2026-06-01,441,3,Canada,29.0,SaaS Basic Subscription
+SUB-3331,Subscriber 3331,subscriber_3331@gmail.com,Basic,29.0,2026-04-25,Churned,2026-07-07,2026-05-21,44,7,United States,29.0,SaaS Basic Subscription
+SUB-3332,Subscriber 3332,subscriber_3332@gmail.com,Basic,29.0,2025-11-16,Active,,2026-06-17,492,11,Australia,29.0,SaaS Basic Subscription
+SUB-3333,Subscriber 3333,subscriber_3333@gmail.com,Basic,29.0,2025-09-04,Active,,2026-06-08,202,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3334,Subscriber 3334,subscriber_3334@gmail.com,Basic,29.0,2026-04-04,Active,,2026-06-04,415,10,Canada,29.0,SaaS Basic Subscription
+SUB-3335,Subscriber 3335,subscriber_3335@gmail.com,Basic,29.0,2026-04-25,Active,,2026-05-28,81,13,Canada,29.0,SaaS Basic Subscription
+SUB-3336,Subscriber 3336,subscriber_3336@gmail.com,Enterprise,249.0,2025-12-20,Churned,2026-01-28,2026-06-21,93,3,Canada,249.0,SaaS Enterprise Subscription
+SUB-3337,Subscriber 3337,subscriber_3337@gmail.com,Basic,29.0,2026-06-15,Active,,2026-05-15,408,4,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3338,Subscriber 3338,subscriber_3338@gmail.com,Professional,79.0,2025-12-16,Active,,2026-06-23,293,14,Canada,79.0,SaaS Professional Subscription
+SUB-3339,Subscriber 3339,subscriber_3339@gmail.com,Professional,79.0,2025-12-21,Active,,2026-06-12,182,8,Canada,79.0,SaaS Professional Subscription
+SUB-3340,Subscriber 3340,subscriber_3340@gmail.com,Professional,79.0,2025-10-22,Churned,2026-02-23,2026-06-03,162,11,Australia,79.0,SaaS Professional Subscription
+SUB-3341,Subscriber 3341,subscriber_3341@gmail.com,Professional,79.0,2025-10-31,Active,,2026-06-08,290,9,Canada,79.0,SaaS Professional Subscription
+SUB-3342,Subscriber 3342,subscriber_3342@gmail.com,Basic,29.0,2025-08-24,Active,,2026-06-04,321,12,Australia,29.0,SaaS Basic Subscription
+SUB-3343,Subscriber 3343,subscriber_3343@gmail.com,Basic,29.0,2026-05-18,Active,,2026-05-24,257,14,United States,29.0,SaaS Basic Subscription
+SUB-3344,Subscriber 3344,subscriber_3344@gmail.com,Enterprise,249.0,2026-06-06,Active,,2026-06-03,269,2,Australia,249.0,SaaS Enterprise Subscription
+SUB-3345,Subscriber 3345,subscriber_3345@gmail.com,Professional,79.0,2026-04-30,Churned,2026-09-03,2026-05-28,462,1,Canada,79.0,SaaS Professional Subscription
+SUB-3346,Subscriber 3346,subscriber_3346@gmail.com,Basic,29.0,2026-02-22,Active,,2026-05-30,368,5,Australia,29.0,SaaS Basic Subscription
+SUB-3347,Subscriber 3347,subscriber_3347@gmail.com,Enterprise,249.0,2026-06-09,Active,,2026-06-08,123,11,Australia,249.0,SaaS Enterprise Subscription
+SUB-3348,Subscriber 3348,subscriber_3348@gmail.com,Enterprise,249.0,2026-05-09,Active,,2026-06-20,294,7,United States,249.0,SaaS Enterprise Subscription
+SUB-3349,Subscriber 3349,subscriber_3349@gmail.com,Enterprise,249.0,2026-06-16,Active,,2026-05-25,135,2,United States,249.0,SaaS Enterprise Subscription
+SUB-3350,Subscriber 3350,subscriber_3350@gmail.com,Professional,79.0,2026-03-10,Churned,2026-06-12,2026-05-23,364,5,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3351,Subscriber 3351,subscriber_3351@gmail.com,Professional,79.0,2025-09-16,Active,,2026-06-02,298,10,Canada,79.0,SaaS Professional Subscription
+SUB-3352,Subscriber 3352,subscriber_3352@gmail.com,Basic,29.0,2026-02-28,Active,,2026-05-26,193,2,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3353,Subscriber 3353,subscriber_3353@gmail.com,Basic,29.0,2026-03-22,Churned,2026-06-05,2026-06-24,481,8,United States,29.0,SaaS Basic Subscription
+SUB-3354,Subscriber 3354,subscriber_3354@gmail.com,Enterprise,249.0,2025-07-22,Active,,2026-06-02,397,2,Australia,249.0,SaaS Enterprise Subscription
+SUB-3355,Subscriber 3355,subscriber_3355@gmail.com,Enterprise,249.0,2026-06-01,Active,,2026-05-21,375,12,Canada,249.0,SaaS Enterprise Subscription
+SUB-3356,Subscriber 3356,subscriber_3356@gmail.com,Professional,79.0,2026-04-06,Churned,2026-07-04,2026-05-20,88,2,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3357,Subscriber 3357,subscriber_3357@gmail.com,Basic,29.0,2026-06-08,Active,,2026-05-26,301,13,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3358,Subscriber 3358,subscriber_3358@gmail.com,Professional,79.0,2025-09-03,Active,,2026-05-30,64,13,Australia,79.0,SaaS Professional Subscription
+SUB-3359,Subscriber 3359,subscriber_3359@gmail.com,Basic,29.0,2026-02-04,Active,,2026-05-25,402,12,United States,29.0,SaaS Basic Subscription
+SUB-3360,Subscriber 3360,subscriber_3360@gmail.com,Professional,79.0,2025-08-17,Active,,2026-06-15,110,12,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3361,Subscriber 3361,subscriber_3361@gmail.com,Basic,29.0,2025-11-30,Active,,2026-06-25,245,3,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3362,Subscriber 3362,subscriber_3362@gmail.com,Professional,79.0,2026-02-12,Active,,2026-06-18,371,9,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3363,Subscriber 3363,subscriber_3363@gmail.com,Professional,79.0,2025-08-12,Active,,2026-05-19,22,12,Canada,79.0,SaaS Professional Subscription
+SUB-3364,Subscriber 3364,subscriber_3364@gmail.com,Basic,29.0,2026-05-27,Active,,2026-06-01,380,11,Canada,29.0,SaaS Basic Subscription
+SUB-3365,Subscriber 3365,subscriber_3365@gmail.com,Basic,29.0,2025-12-28,Churned,2026-06-06,2026-05-23,216,2,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3366,Subscriber 3366,subscriber_3366@gmail.com,Enterprise,249.0,2025-11-28,Active,,2026-06-11,46,7,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3367,Subscriber 3367,subscriber_3367@gmail.com,Basic,29.0,2026-03-11,Active,,2026-05-20,403,10,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3368,Subscriber 3368,subscriber_3368@gmail.com,Basic,29.0,2025-08-22,Churned,2026-04-05,2026-05-24,218,9,Canada,29.0,SaaS Basic Subscription
+SUB-3369,Subscriber 3369,subscriber_3369@gmail.com,Basic,29.0,2026-05-17,Active,,2026-06-01,279,9,United States,29.0,SaaS Basic Subscription
+SUB-3370,Subscriber 3370,subscriber_3370@gmail.com,Enterprise,249.0,2026-04-12,Churned,2026-11-28,2026-05-27,94,5,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3371,Subscriber 3371,subscriber_3371@gmail.com,Professional,79.0,2025-07-13,Active,,2026-06-25,23,1,United States,79.0,SaaS Professional Subscription
+SUB-3372,Subscriber 3372,subscriber_3372@gmail.com,Basic,29.0,2025-12-09,Active,,2026-06-15,411,13,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3373,Subscriber 3373,subscriber_3373@gmail.com,Professional,79.0,2025-08-01,Churned,2025-12-04,2026-05-28,117,9,Canada,79.0,SaaS Professional Subscription
+SUB-3374,Subscriber 3374,subscriber_3374@gmail.com,Basic,29.0,2025-11-10,Active,,2026-06-18,353,12,Canada,29.0,SaaS Basic Subscription
+SUB-3375,Subscriber 3375,subscriber_3375@gmail.com,Professional,79.0,2026-01-19,Active,,2026-06-02,226,1,Canada,79.0,SaaS Professional Subscription
+SUB-3376,Subscriber 3376,subscriber_3376@gmail.com,Professional,79.0,2025-08-31,Active,,2026-05-26,212,14,Australia,79.0,SaaS Professional Subscription
+SUB-3377,Subscriber 3377,subscriber_3377@gmail.com,Professional,79.0,2026-06-13,Churned,2026-11-17,2026-05-29,221,7,United States,79.0,SaaS Professional Subscription
+SUB-3378,Subscriber 3378,subscriber_3378@gmail.com,Professional,79.0,2025-10-05,Active,,2026-06-14,171,10,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3379,Subscriber 3379,subscriber_3379@gmail.com,Enterprise,249.0,2025-08-12,Active,,2026-06-10,102,1,United States,249.0,SaaS Enterprise Subscription
+SUB-3380,Subscriber 3380,subscriber_3380@gmail.com,Basic,29.0,2025-06-30,Active,,2026-06-01,328,11,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3381,Subscriber 3381,subscriber_3381@gmail.com,Basic,29.0,2026-03-14,Active,,2026-06-02,300,14,Canada,29.0,SaaS Basic Subscription
+SUB-3382,Subscriber 3382,subscriber_3382@gmail.com,Basic,29.0,2025-09-09,Active,,2026-06-14,485,13,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3383,Subscriber 3383,subscriber_3383@gmail.com,Basic,29.0,2025-07-25,Churned,2026-01-06,2026-06-06,379,13,Canada,29.0,SaaS Basic Subscription
+SUB-3384,Subscriber 3384,subscriber_3384@gmail.com,Basic,29.0,2025-08-27,Active,,2026-06-21,121,6,Australia,29.0,SaaS Basic Subscription
+SUB-3385,Subscriber 3385,subscriber_3385@gmail.com,Basic,29.0,2025-09-14,Active,,2026-06-22,482,3,Canada,29.0,SaaS Basic Subscription
+SUB-3386,Subscriber 3386,subscriber_3386@gmail.com,Basic,29.0,2025-10-24,Active,,2026-06-20,440,9,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3387,Subscriber 3387,subscriber_3387@gmail.com,Basic,29.0,2025-08-09,Active,,2026-05-27,330,4,United States,29.0,SaaS Basic Subscription
+SUB-3388,Subscriber 3388,subscriber_3388@gmail.com,Basic,29.0,2025-06-29,Active,,2026-06-07,353,1,Canada,29.0,SaaS Basic Subscription
+SUB-3389,Subscriber 3389,subscriber_3389@gmail.com,Basic,29.0,2026-02-06,Active,,2026-05-21,139,8,Canada,29.0,SaaS Basic Subscription
+SUB-3390,Subscriber 3390,subscriber_3390@gmail.com,Basic,29.0,2025-10-30,Active,,2026-05-26,463,10,Canada,29.0,SaaS Basic Subscription
+SUB-3391,Subscriber 3391,subscriber_3391@gmail.com,Basic,29.0,2026-06-04,Churned,2026-08-28,2026-06-01,477,2,Australia,29.0,SaaS Basic Subscription
+SUB-3392,Subscriber 3392,subscriber_3392@gmail.com,Professional,79.0,2026-03-14,Churned,2026-10-30,2026-05-21,203,9,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3393,Subscriber 3393,subscriber_3393@gmail.com,Professional,79.0,2026-05-30,Active,,2026-06-04,131,5,United States,79.0,SaaS Professional Subscription
+SUB-3394,Subscriber 3394,subscriber_3394@gmail.com,Basic,29.0,2025-11-24,Active,,2026-05-12,329,5,Canada,29.0,SaaS Basic Subscription
+SUB-3395,Subscriber 3395,subscriber_3395@gmail.com,Basic,29.0,2025-08-15,Active,,2026-06-22,470,9,Australia,29.0,SaaS Basic Subscription
+SUB-3396,Subscriber 3396,subscriber_3396@gmail.com,Professional,79.0,2025-11-26,Active,,2026-05-21,178,1,Australia,79.0,SaaS Professional Subscription
+SUB-3397,Subscriber 3397,subscriber_3397@gmail.com,Basic,29.0,2026-01-09,Active,,2026-05-28,202,11,Canada,29.0,SaaS Basic Subscription
+SUB-3398,Subscriber 3398,subscriber_3398@gmail.com,Professional,79.0,2025-10-28,Active,,2026-06-13,55,2,Canada,79.0,SaaS Professional Subscription
+SUB-3399,Subscriber 3399,subscriber_3399@gmail.com,Basic,29.0,2026-05-19,Active,,2026-06-08,420,8,Canada,29.0,SaaS Basic Subscription
+SUB-3400,Subscriber 3400,subscriber_3400@gmail.com,Enterprise,249.0,2026-06-04,Active,,2026-05-28,397,5,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3401,Subscriber 3401,subscriber_3401@gmail.com,Professional,79.0,2026-03-21,Active,,2026-05-13,326,8,Canada,79.0,SaaS Professional Subscription
+SUB-3402,Subscriber 3402,subscriber_3402@gmail.com,Basic,29.0,2025-12-10,Active,,2026-06-06,217,9,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3403,Subscriber 3403,subscriber_3403@gmail.com,Enterprise,249.0,2025-10-05,Active,,2026-06-05,107,4,Canada,249.0,SaaS Enterprise Subscription
+SUB-3404,Subscriber 3404,subscriber_3404@gmail.com,Professional,79.0,2025-07-14,Active,,2026-06-06,159,0,United States,79.0,SaaS Professional Subscription
+SUB-3405,Subscriber 3405,subscriber_3405@gmail.com,Enterprise,249.0,2026-01-18,Active,,2026-06-09,256,5,Australia,249.0,SaaS Enterprise Subscription
+SUB-3406,Subscriber 3406,subscriber_3406@gmail.com,Basic,29.0,2025-11-23,Churned,2026-02-15,2026-06-22,274,9,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3407,Subscriber 3407,subscriber_3407@gmail.com,Professional,79.0,2026-02-20,Active,,2026-06-04,280,4,Australia,79.0,SaaS Professional Subscription
+SUB-3408,Subscriber 3408,subscriber_3408@gmail.com,Basic,29.0,2025-12-16,Active,,2026-05-20,102,12,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3409,Subscriber 3409,subscriber_3409@gmail.com,Enterprise,249.0,2025-09-22,Churned,2026-01-28,2026-06-23,144,11,United States,249.0,SaaS Enterprise Subscription
+SUB-3410,Subscriber 3410,subscriber_3410@gmail.com,Enterprise,249.0,2026-03-07,Active,,2026-05-20,139,0,Australia,249.0,SaaS Enterprise Subscription
+SUB-3411,Subscriber 3411,subscriber_3411@gmail.com,Basic,29.0,2026-02-24,Active,,2026-05-22,86,12,Canada,29.0,SaaS Basic Subscription
+SUB-3412,Subscriber 3412,subscriber_3412@gmail.com,Basic,29.0,2026-01-23,Churned,2026-09-28,2026-06-25,350,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3413,Subscriber 3413,subscriber_3413@gmail.com,Basic,29.0,2025-10-23,Churned,2025-11-24,2026-06-16,475,13,Australia,29.0,SaaS Basic Subscription
+SUB-3414,Subscriber 3414,subscriber_3414@gmail.com,Basic,29.0,2025-07-27,Churned,2025-08-31,2026-05-15,345,8,Australia,29.0,SaaS Basic Subscription
+SUB-3415,Subscriber 3415,subscriber_3415@gmail.com,Professional,79.0,2026-01-01,Active,,2026-06-23,27,0,Canada,79.0,SaaS Professional Subscription
+SUB-3416,Subscriber 3416,subscriber_3416@gmail.com,Basic,29.0,2025-12-05,Active,,2026-06-09,13,4,Canada,29.0,SaaS Basic Subscription
+SUB-3417,Subscriber 3417,subscriber_3417@gmail.com,Basic,29.0,2026-02-17,Active,,2026-06-13,70,2,Australia,29.0,SaaS Basic Subscription
+SUB-3418,Subscriber 3418,subscriber_3418@gmail.com,Professional,79.0,2026-01-31,Active,,2026-05-16,55,3,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3419,Subscriber 3419,subscriber_3419@gmail.com,Basic,29.0,2026-04-27,Active,,2026-05-15,163,3,Australia,29.0,SaaS Basic Subscription
+SUB-3420,Subscriber 3420,subscriber_3420@gmail.com,Basic,29.0,2026-05-16,Active,,2026-06-04,78,9,Australia,29.0,SaaS Basic Subscription
+SUB-3421,Subscriber 3421,subscriber_3421@gmail.com,Professional,79.0,2025-10-10,Active,,2026-05-31,379,9,Canada,79.0,SaaS Professional Subscription
+SUB-3422,Subscriber 3422,subscriber_3422@gmail.com,Basic,29.0,2025-10-14,Active,,2026-06-11,359,3,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3423,Subscriber 3423,subscriber_3423@gmail.com,Basic,29.0,2025-11-18,Churned,2026-06-09,2026-06-09,53,11,Canada,29.0,SaaS Basic Subscription
+SUB-3424,Subscriber 3424,subscriber_3424@gmail.com,Basic,29.0,2026-02-23,Active,,2026-05-17,221,8,Australia,29.0,SaaS Basic Subscription
+SUB-3425,Subscriber 3425,subscriber_3425@gmail.com,Basic,29.0,2026-02-24,Churned,2026-08-11,2026-05-14,473,7,Canada,29.0,SaaS Basic Subscription
+SUB-3426,Subscriber 3426,subscriber_3426@gmail.com,Basic,29.0,2025-10-08,Active,,2026-06-07,124,0,United States,29.0,SaaS Basic Subscription
+SUB-3427,Subscriber 3427,subscriber_3427@gmail.com,Professional,79.0,2025-09-24,Active,,2026-06-23,211,3,United States,79.0,SaaS Professional Subscription
+SUB-3428,Subscriber 3428,subscriber_3428@gmail.com,Enterprise,249.0,2026-06-01,Active,,2026-06-18,223,12,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3429,Subscriber 3429,subscriber_3429@gmail.com,Professional,79.0,2026-03-24,Active,,2026-05-16,382,6,United States,79.0,SaaS Professional Subscription
+SUB-3430,Subscriber 3430,subscriber_3430@gmail.com,Basic,29.0,2026-05-31,Active,,2026-05-29,382,0,United States,29.0,SaaS Basic Subscription
+SUB-3431,Subscriber 3431,subscriber_3431@gmail.com,Basic,29.0,2026-01-30,Active,,2026-06-15,355,8,United States,29.0,SaaS Basic Subscription
+SUB-3432,Subscriber 3432,subscriber_3432@gmail.com,Enterprise,249.0,2026-05-21,Active,,2026-06-11,290,11,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3433,Subscriber 3433,subscriber_3433@gmail.com,Enterprise,249.0,2025-10-25,Active,,2026-05-19,63,4,Canada,249.0,SaaS Enterprise Subscription
+SUB-3434,Subscriber 3434,subscriber_3434@gmail.com,Basic,29.0,2025-10-18,Active,,2026-05-23,303,6,Australia,29.0,SaaS Basic Subscription
+SUB-3435,Subscriber 3435,subscriber_3435@gmail.com,Basic,29.0,2026-05-12,Active,,2026-06-09,374,4,Australia,29.0,SaaS Basic Subscription
+SUB-3436,Subscriber 3436,subscriber_3436@gmail.com,Basic,29.0,2025-09-07,Active,,2026-05-14,295,8,United States,29.0,SaaS Basic Subscription
+SUB-3437,Subscriber 3437,subscriber_3437@gmail.com,Enterprise,249.0,2026-01-16,Active,,2026-06-25,123,8,United States,249.0,SaaS Enterprise Subscription
+SUB-3438,Subscriber 3438,subscriber_3438@gmail.com,Basic,29.0,2026-02-01,Active,,2026-06-07,218,13,Canada,29.0,SaaS Basic Subscription
+SUB-3439,Subscriber 3439,subscriber_3439@gmail.com,Professional,79.0,2026-05-01,Active,,2026-06-13,299,6,United States,79.0,SaaS Professional Subscription
+SUB-3440,Subscriber 3440,subscriber_3440@gmail.com,Basic,29.0,2025-10-26,Active,,2026-06-03,308,13,Canada,29.0,SaaS Basic Subscription
+SUB-3441,Subscriber 3441,subscriber_3441@gmail.com,Enterprise,249.0,2025-11-09,Active,,2026-06-06,479,8,Canada,249.0,SaaS Enterprise Subscription
+SUB-3442,Subscriber 3442,subscriber_3442@gmail.com,Basic,29.0,2026-06-07,Active,,2026-06-17,24,7,Australia,29.0,SaaS Basic Subscription
+SUB-3443,Subscriber 3443,subscriber_3443@gmail.com,Basic,29.0,2026-04-11,Active,,2026-05-31,385,2,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3444,Subscriber 3444,subscriber_3444@gmail.com,Basic,29.0,2025-12-08,Active,,2026-06-17,113,13,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3445,Subscriber 3445,subscriber_3445@gmail.com,Basic,29.0,2025-11-28,Churned,2026-04-26,2026-06-11,97,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3446,Subscriber 3446,subscriber_3446@gmail.com,Basic,29.0,2025-11-30,Active,,2026-05-20,204,9,Australia,29.0,SaaS Basic Subscription
+SUB-3447,Subscriber 3447,subscriber_3447@gmail.com,Professional,79.0,2026-04-04,Active,,2026-06-07,237,1,Australia,79.0,SaaS Professional Subscription
+SUB-3448,Subscriber 3448,subscriber_3448@gmail.com,Basic,29.0,2026-02-26,Active,,2026-06-12,198,8,Australia,29.0,SaaS Basic Subscription
+SUB-3449,Subscriber 3449,subscriber_3449@gmail.com,Basic,29.0,2025-09-10,Active,,2026-06-24,105,4,Australia,29.0,SaaS Basic Subscription
+SUB-3450,Subscriber 3450,subscriber_3450@gmail.com,Basic,29.0,2026-06-21,Active,,2026-05-14,430,14,United States,29.0,SaaS Basic Subscription
+SUB-3451,Subscriber 3451,subscriber_3451@gmail.com,Basic,29.0,2026-06-07,Churned,2026-12-19,2026-05-21,479,11,Australia,29.0,SaaS Basic Subscription
+SUB-3452,Subscriber 3452,subscriber_3452@gmail.com,Basic,29.0,2026-03-03,Active,,2026-06-15,60,1,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3453,Subscriber 3453,subscriber_3453@gmail.com,Professional,79.0,2026-05-06,Active,,2026-06-13,38,5,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3454,Subscriber 3454,subscriber_3454@gmail.com,Basic,29.0,2026-02-09,Churned,2026-07-07,2026-05-19,95,4,Canada,29.0,SaaS Basic Subscription
+SUB-3455,Subscriber 3455,subscriber_3455@gmail.com,Basic,29.0,2025-12-16,Churned,2026-05-19,2026-05-30,120,6,Canada,29.0,SaaS Basic Subscription
+SUB-3456,Subscriber 3456,subscriber_3456@gmail.com,Basic,29.0,2025-12-11,Churned,2026-07-13,2026-05-16,40,0,United States,29.0,SaaS Basic Subscription
+SUB-3457,Subscriber 3457,subscriber_3457@gmail.com,Professional,79.0,2025-07-28,Active,,2026-05-26,108,10,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3458,Subscriber 3458,subscriber_3458@gmail.com,Basic,29.0,2026-05-20,Active,,2026-05-23,387,5,Australia,29.0,SaaS Basic Subscription
+SUB-3459,Subscriber 3459,subscriber_3459@gmail.com,Enterprise,249.0,2026-02-26,Active,,2026-06-08,461,9,Australia,249.0,SaaS Enterprise Subscription
+SUB-3460,Subscriber 3460,subscriber_3460@gmail.com,Basic,29.0,2026-01-11,Churned,2026-04-16,2026-06-08,396,12,Canada,29.0,SaaS Basic Subscription
+SUB-3461,Subscriber 3461,subscriber_3461@gmail.com,Professional,79.0,2025-11-26,Active,,2026-06-11,171,14,Canada,79.0,SaaS Professional Subscription
+SUB-3462,Subscriber 3462,subscriber_3462@gmail.com,Basic,29.0,2026-05-20,Active,,2026-06-05,484,7,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3463,Subscriber 3463,subscriber_3463@gmail.com,Basic,29.0,2025-11-23,Active,,2026-06-06,282,4,United States,29.0,SaaS Basic Subscription
+SUB-3464,Subscriber 3464,subscriber_3464@gmail.com,Basic,29.0,2025-09-07,Churned,2026-02-07,2026-06-16,222,5,United States,29.0,SaaS Basic Subscription
+SUB-3465,Subscriber 3465,subscriber_3465@gmail.com,Professional,79.0,2025-11-23,Active,,2026-05-25,167,3,Australia,79.0,SaaS Professional Subscription
+SUB-3466,Subscriber 3466,subscriber_3466@gmail.com,Basic,29.0,2026-01-09,Active,,2026-05-17,458,0,Canada,29.0,SaaS Basic Subscription
+SUB-3467,Subscriber 3467,subscriber_3467@gmail.com,Basic,29.0,2026-01-05,Churned,2026-02-06,2026-05-27,142,7,United States,29.0,SaaS Basic Subscription
+SUB-3468,Subscriber 3468,subscriber_3468@gmail.com,Basic,29.0,2025-08-08,Churned,2026-02-23,2026-05-15,432,0,Australia,29.0,SaaS Basic Subscription
+SUB-3469,Subscriber 3469,subscriber_3469@gmail.com,Basic,29.0,2025-11-03,Active,,2026-05-30,354,5,United States,29.0,SaaS Basic Subscription
+SUB-3470,Subscriber 3470,subscriber_3470@gmail.com,Basic,29.0,2025-10-07,Active,,2026-06-08,436,7,United States,29.0,SaaS Basic Subscription
+SUB-3471,Subscriber 3471,subscriber_3471@gmail.com,Professional,79.0,2025-09-14,Active,,2026-06-08,275,2,Canada,79.0,SaaS Professional Subscription
+SUB-3472,Subscriber 3472,subscriber_3472@gmail.com,Professional,79.0,2026-03-22,Churned,2026-09-13,2026-06-20,33,13,United States,79.0,SaaS Professional Subscription
+SUB-3473,Subscriber 3473,subscriber_3473@gmail.com,Basic,29.0,2025-09-26,Active,,2026-06-08,335,12,United States,29.0,SaaS Basic Subscription
+SUB-3474,Subscriber 3474,subscriber_3474@gmail.com,Professional,79.0,2026-02-13,Active,,2026-06-11,86,8,Canada,79.0,SaaS Professional Subscription
+SUB-3475,Subscriber 3475,subscriber_3475@gmail.com,Professional,79.0,2025-11-27,Active,,2026-05-29,479,8,United States,79.0,SaaS Professional Subscription
+SUB-3476,Subscriber 3476,subscriber_3476@gmail.com,Professional,79.0,2026-02-08,Active,,2026-06-22,384,11,Australia,79.0,SaaS Professional Subscription
+SUB-3477,Subscriber 3477,subscriber_3477@gmail.com,Basic,29.0,2026-05-05,Active,,2026-06-17,387,13,Australia,29.0,SaaS Basic Subscription
+SUB-3478,Subscriber 3478,subscriber_3478@gmail.com,Professional,79.0,2025-08-31,Active,,2026-05-22,428,12,United States,79.0,SaaS Professional Subscription
+SUB-3479,Subscriber 3479,subscriber_3479@gmail.com,Basic,29.0,2025-09-18,Churned,2026-05-12,2026-06-01,295,10,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3480,Subscriber 3480,subscriber_3480@gmail.com,Basic,29.0,2026-04-01,Active,,2026-05-28,360,14,United States,29.0,SaaS Basic Subscription
+SUB-3481,Subscriber 3481,subscriber_3481@gmail.com,Basic,29.0,2026-05-21,Active,,2026-05-24,44,11,Australia,29.0,SaaS Basic Subscription
+SUB-3482,Subscriber 3482,subscriber_3482@gmail.com,Basic,29.0,2025-11-30,Churned,2026-04-16,2026-05-19,387,3,United States,29.0,SaaS Basic Subscription
+SUB-3483,Subscriber 3483,subscriber_3483@gmail.com,Basic,29.0,2025-07-04,Active,,2026-06-20,188,11,Canada,29.0,SaaS Basic Subscription
+SUB-3484,Subscriber 3484,subscriber_3484@gmail.com,Basic,29.0,2026-03-08,Active,,2026-05-25,434,11,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3485,Subscriber 3485,subscriber_3485@gmail.com,Professional,79.0,2026-04-13,Active,,2026-06-11,165,14,Canada,79.0,SaaS Professional Subscription
+SUB-3486,Subscriber 3486,subscriber_3486@gmail.com,Basic,29.0,2025-10-02,Active,,2026-06-03,451,5,Australia,29.0,SaaS Basic Subscription
+SUB-3487,Subscriber 3487,subscriber_3487@gmail.com,Basic,29.0,2025-11-21,Active,,2026-06-15,453,10,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3488,Subscriber 3488,subscriber_3488@gmail.com,Basic,29.0,2025-11-08,Churned,2026-01-06,2026-05-15,353,2,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3489,Subscriber 3489,subscriber_3489@gmail.com,Enterprise,249.0,2025-12-14,Active,,2026-06-17,439,2,United States,249.0,SaaS Enterprise Subscription
+SUB-3490,Subscriber 3490,subscriber_3490@gmail.com,Basic,29.0,2025-09-13,Active,,2026-05-16,418,11,Canada,29.0,SaaS Basic Subscription
+SUB-3491,Subscriber 3491,subscriber_3491@gmail.com,Basic,29.0,2025-11-02,Active,,2026-06-20,123,11,Australia,29.0,SaaS Basic Subscription
+SUB-3492,Subscriber 3492,subscriber_3492@gmail.com,Basic,29.0,2026-05-19,Active,,2026-06-03,216,11,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3493,Subscriber 3493,subscriber_3493@gmail.com,Professional,79.0,2026-03-10,Active,,2026-06-02,382,4,United States,79.0,SaaS Professional Subscription
+SUB-3494,Subscriber 3494,subscriber_3494@gmail.com,Basic,29.0,2026-04-10,Churned,2026-09-24,2026-05-31,204,8,Australia,29.0,SaaS Basic Subscription
+SUB-3495,Subscriber 3495,subscriber_3495@gmail.com,Professional,79.0,2026-03-16,Active,,2026-06-13,176,11,Canada,79.0,SaaS Professional Subscription
+SUB-3496,Subscriber 3496,subscriber_3496@gmail.com,Basic,29.0,2026-03-15,Active,,2026-06-24,489,7,Australia,29.0,SaaS Basic Subscription
+SUB-3497,Subscriber 3497,subscriber_3497@gmail.com,Basic,29.0,2026-01-29,Active,,2026-06-08,441,2,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3498,Subscriber 3498,subscriber_3498@gmail.com,Basic,29.0,2026-04-25,Active,,2026-06-04,174,0,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3499,Subscriber 3499,subscriber_3499@gmail.com,Professional,79.0,2026-02-20,Active,,2026-06-05,27,1,Canada,79.0,SaaS Professional Subscription
+SUB-3500,Subscriber 3500,subscriber_3500@gmail.com,Professional,79.0,2026-06-20,Active,,2026-05-21,358,8,Australia,79.0,SaaS Professional Subscription
+SUB-3501,Subscriber 3501,subscriber_3501@gmail.com,Professional,79.0,2026-03-05,Active,,2026-05-13,317,3,Australia,79.0,SaaS Professional Subscription
+SUB-3502,Subscriber 3502,subscriber_3502@gmail.com,Professional,79.0,2026-06-16,Churned,2026-08-18,2026-05-18,312,6,Australia,79.0,SaaS Professional Subscription
+SUB-3503,Subscriber 3503,subscriber_3503@gmail.com,Professional,79.0,2025-08-26,Active,,2026-05-29,180,11,Australia,79.0,SaaS Professional Subscription
+SUB-3504,Subscriber 3504,subscriber_3504@gmail.com,Professional,79.0,2025-07-26,Churned,2025-09-10,2026-06-01,472,2,United States,79.0,SaaS Professional Subscription
+SUB-3505,Subscriber 3505,subscriber_3505@gmail.com,Basic,29.0,2026-05-05,Active,,2026-05-19,119,4,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3506,Subscriber 3506,subscriber_3506@gmail.com,Basic,29.0,2025-12-09,Active,,2026-06-01,166,10,United States,29.0,SaaS Basic Subscription
+SUB-3507,Subscriber 3507,subscriber_3507@gmail.com,Professional,79.0,2025-11-05,Churned,2026-03-13,2026-06-12,97,12,United States,79.0,SaaS Professional Subscription
+SUB-3508,Subscriber 3508,subscriber_3508@gmail.com,Basic,29.0,2025-09-20,Active,,2026-06-17,362,10,Australia,29.0,SaaS Basic Subscription
+SUB-3509,Subscriber 3509,subscriber_3509@gmail.com,Basic,29.0,2026-04-10,Active,,2026-06-22,240,10,Canada,29.0,SaaS Basic Subscription
+SUB-3510,Subscriber 3510,subscriber_3510@gmail.com,Basic,29.0,2025-11-21,Active,,2026-06-25,430,7,Australia,29.0,SaaS Basic Subscription
+SUB-3511,Subscriber 3511,subscriber_3511@gmail.com,Basic,29.0,2026-03-15,Active,,2026-05-14,491,14,Canada,29.0,SaaS Basic Subscription
+SUB-3512,Subscriber 3512,subscriber_3512@gmail.com,Professional,79.0,2025-09-26,Active,,2026-05-31,469,13,Canada,79.0,SaaS Professional Subscription
+SUB-3513,Subscriber 3513,subscriber_3513@gmail.com,Basic,29.0,2025-09-26,Active,,2026-06-12,110,11,United States,29.0,SaaS Basic Subscription
+SUB-3514,Subscriber 3514,subscriber_3514@gmail.com,Professional,79.0,2026-04-06,Active,,2026-06-19,290,5,United States,79.0,SaaS Professional Subscription
+SUB-3515,Subscriber 3515,subscriber_3515@gmail.com,Basic,29.0,2026-02-26,Active,,2026-06-19,458,4,Canada,29.0,SaaS Basic Subscription
+SUB-3516,Subscriber 3516,subscriber_3516@gmail.com,Basic,29.0,2025-11-15,Active,,2026-05-24,497,7,Australia,29.0,SaaS Basic Subscription
+SUB-3517,Subscriber 3517,subscriber_3517@gmail.com,Enterprise,249.0,2026-01-09,Active,,2026-06-20,243,10,United States,249.0,SaaS Enterprise Subscription
+SUB-3518,Subscriber 3518,subscriber_3518@gmail.com,Enterprise,249.0,2026-04-25,Active,,2026-06-01,69,3,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3519,Subscriber 3519,subscriber_3519@gmail.com,Basic,29.0,2025-09-10,Churned,2025-11-04,2026-06-04,192,5,Australia,29.0,SaaS Basic Subscription
+SUB-3520,Subscriber 3520,subscriber_3520@gmail.com,Basic,29.0,2026-06-04,Active,,2026-05-30,474,4,United States,29.0,SaaS Basic Subscription
+SUB-3521,Subscriber 3521,subscriber_3521@gmail.com,Basic,29.0,2026-02-05,Active,,2026-05-20,489,1,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3522,Subscriber 3522,subscriber_3522@gmail.com,Basic,29.0,2026-03-28,Active,,2026-05-26,308,2,Canada,29.0,SaaS Basic Subscription
+SUB-3523,Subscriber 3523,subscriber_3523@gmail.com,Basic,29.0,2026-02-07,Active,,2026-06-06,5,13,Canada,29.0,SaaS Basic Subscription
+SUB-3524,Subscriber 3524,subscriber_3524@gmail.com,Professional,79.0,2026-06-22,Churned,2026-08-08,2026-06-24,25,8,Canada,79.0,SaaS Professional Subscription
+SUB-3525,Subscriber 3525,subscriber_3525@gmail.com,Enterprise,249.0,2026-05-12,Active,,2026-05-27,28,1,Canada,249.0,SaaS Enterprise Subscription
+SUB-3526,Subscriber 3526,subscriber_3526@gmail.com,Enterprise,249.0,2026-06-20,Active,,2026-05-25,272,2,Canada,249.0,SaaS Enterprise Subscription
+SUB-3527,Subscriber 3527,subscriber_3527@gmail.com,Basic,29.0,2025-10-27,Active,,2026-06-18,61,11,United States,29.0,SaaS Basic Subscription
+SUB-3528,Subscriber 3528,subscriber_3528@gmail.com,Professional,79.0,2026-06-07,Active,,2026-06-20,340,12,Canada,79.0,SaaS Professional Subscription
+SUB-3529,Subscriber 3529,subscriber_3529@gmail.com,Basic,29.0,2025-09-25,Active,,2026-05-20,263,13,Canada,29.0,SaaS Basic Subscription
+SUB-3530,Subscriber 3530,subscriber_3530@gmail.com,Professional,79.0,2025-11-03,Active,,2026-05-23,451,9,Canada,79.0,SaaS Professional Subscription
+SUB-3531,Subscriber 3531,subscriber_3531@gmail.com,Basic,29.0,2025-08-22,Active,,2026-05-26,326,12,United States,29.0,SaaS Basic Subscription
+SUB-3532,Subscriber 3532,subscriber_3532@gmail.com,Basic,29.0,2025-10-06,Active,,2026-06-06,138,12,United States,29.0,SaaS Basic Subscription
+SUB-3533,Subscriber 3533,subscriber_3533@gmail.com,Basic,29.0,2025-09-29,Active,,2026-06-18,371,14,Australia,29.0,SaaS Basic Subscription
+SUB-3534,Subscriber 3534,subscriber_3534@gmail.com,Basic,29.0,2026-03-23,Active,,2026-06-03,92,6,Canada,29.0,SaaS Basic Subscription
+SUB-3535,Subscriber 3535,subscriber_3535@gmail.com,Professional,79.0,2025-10-19,Active,,2026-05-12,412,7,United States,79.0,SaaS Professional Subscription
+SUB-3536,Subscriber 3536,subscriber_3536@gmail.com,Basic,29.0,2026-06-22,Active,,2026-06-23,280,10,United States,29.0,SaaS Basic Subscription
+SUB-3537,Subscriber 3537,subscriber_3537@gmail.com,Professional,79.0,2025-11-05,Churned,2026-03-01,2026-06-05,128,7,United States,79.0,SaaS Professional Subscription
+SUB-3538,Subscriber 3538,subscriber_3538@gmail.com,Professional,79.0,2025-11-29,Active,,2026-05-21,442,11,Canada,79.0,SaaS Professional Subscription
+SUB-3539,Subscriber 3539,subscriber_3539@gmail.com,Enterprise,249.0,2026-02-24,Churned,2026-09-27,2026-06-05,284,13,Australia,249.0,SaaS Enterprise Subscription
+SUB-3540,Subscriber 3540,subscriber_3540@gmail.com,Basic,29.0,2026-06-12,Active,,2026-06-17,250,1,Australia,29.0,SaaS Basic Subscription
+SUB-3541,Subscriber 3541,subscriber_3541@gmail.com,Professional,79.0,2025-12-03,Active,,2026-06-15,341,14,Australia,79.0,SaaS Professional Subscription
+SUB-3542,Subscriber 3542,subscriber_3542@gmail.com,Basic,29.0,2025-08-15,Active,,2026-06-07,230,8,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3543,Subscriber 3543,subscriber_3543@gmail.com,Basic,29.0,2026-04-02,Active,,2026-05-16,220,11,United States,29.0,SaaS Basic Subscription
+SUB-3544,Subscriber 3544,subscriber_3544@gmail.com,Basic,29.0,2025-08-18,Churned,2025-10-07,2026-05-24,246,3,Canada,29.0,SaaS Basic Subscription
+SUB-3545,Subscriber 3545,subscriber_3545@gmail.com,Basic,29.0,2025-08-17,Active,,2026-06-08,370,2,Australia,29.0,SaaS Basic Subscription
+SUB-3546,Subscriber 3546,subscriber_3546@gmail.com,Professional,79.0,2025-11-09,Active,,2026-06-20,472,11,Australia,79.0,SaaS Professional Subscription
+SUB-3547,Subscriber 3547,subscriber_3547@gmail.com,Basic,29.0,2026-03-14,Churned,2026-07-09,2026-06-17,305,6,United States,29.0,SaaS Basic Subscription
+SUB-3548,Subscriber 3548,subscriber_3548@gmail.com,Basic,29.0,2026-01-31,Churned,2026-10-06,2026-06-18,180,3,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3549,Subscriber 3549,subscriber_3549@gmail.com,Basic,29.0,2026-06-14,Active,,2026-06-16,271,11,Canada,29.0,SaaS Basic Subscription
+SUB-3550,Subscriber 3550,subscriber_3550@gmail.com,Basic,29.0,2026-04-21,Active,,2026-05-21,113,11,Australia,29.0,SaaS Basic Subscription
+SUB-3551,Subscriber 3551,subscriber_3551@gmail.com,Professional,79.0,2026-01-31,Active,,2026-06-01,58,0,Canada,79.0,SaaS Professional Subscription
+SUB-3552,Subscriber 3552,subscriber_3552@gmail.com,Professional,79.0,2025-09-24,Churned,2025-12-28,2026-06-20,131,1,United States,79.0,SaaS Professional Subscription
+SUB-3553,Subscriber 3553,subscriber_3553@gmail.com,Basic,29.0,2025-12-15,Active,,2026-06-20,364,14,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3554,Subscriber 3554,subscriber_3554@gmail.com,Basic,29.0,2026-06-03,Active,,2026-06-22,200,1,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3555,Subscriber 3555,subscriber_3555@gmail.com,Professional,79.0,2025-10-18,Active,,2026-05-18,262,14,United States,79.0,SaaS Professional Subscription
+SUB-3556,Subscriber 3556,subscriber_3556@gmail.com,Basic,29.0,2025-07-11,Active,,2026-06-20,471,3,Australia,29.0,SaaS Basic Subscription
+SUB-3557,Subscriber 3557,subscriber_3557@gmail.com,Basic,29.0,2025-11-05,Active,,2026-06-16,184,4,Australia,29.0,SaaS Basic Subscription
+SUB-3558,Subscriber 3558,subscriber_3558@gmail.com,Enterprise,249.0,2025-07-18,Active,,2026-05-14,136,3,Canada,249.0,SaaS Enterprise Subscription
+SUB-3559,Subscriber 3559,subscriber_3559@gmail.com,Basic,29.0,2026-05-23,Active,,2026-06-03,150,0,United States,29.0,SaaS Basic Subscription
+SUB-3560,Subscriber 3560,subscriber_3560@gmail.com,Basic,29.0,2026-02-27,Active,,2026-06-11,386,9,Australia,29.0,SaaS Basic Subscription
+SUB-3561,Subscriber 3561,subscriber_3561@gmail.com,Basic,29.0,2026-02-15,Active,,2026-05-28,11,9,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3562,Subscriber 3562,subscriber_3562@gmail.com,Basic,29.0,2026-05-12,Active,,2026-06-20,209,8,Australia,29.0,SaaS Basic Subscription
+SUB-3563,Subscriber 3563,subscriber_3563@gmail.com,Basic,29.0,2026-01-23,Churned,2026-07-31,2026-05-16,242,11,Australia,29.0,SaaS Basic Subscription
+SUB-3564,Subscriber 3564,subscriber_3564@gmail.com,Professional,79.0,2026-03-25,Active,,2026-06-05,21,2,Canada,79.0,SaaS Professional Subscription
+SUB-3565,Subscriber 3565,subscriber_3565@gmail.com,Basic,29.0,2025-09-16,Active,,2026-06-02,7,5,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3566,Subscriber 3566,subscriber_3566@gmail.com,Basic,29.0,2026-01-18,Active,,2026-05-24,39,3,Canada,29.0,SaaS Basic Subscription
+SUB-3567,Subscriber 3567,subscriber_3567@gmail.com,Professional,79.0,2026-04-17,Active,,2026-06-21,20,11,Canada,79.0,SaaS Professional Subscription
+SUB-3568,Subscriber 3568,subscriber_3568@gmail.com,Basic,29.0,2026-01-16,Active,,2026-05-26,81,3,United States,29.0,SaaS Basic Subscription
+SUB-3569,Subscriber 3569,subscriber_3569@gmail.com,Basic,29.0,2025-07-16,Active,,2026-06-06,253,13,Canada,29.0,SaaS Basic Subscription
+SUB-3570,Subscriber 3570,subscriber_3570@gmail.com,Basic,29.0,2025-09-30,Active,,2026-06-25,412,10,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3571,Subscriber 3571,subscriber_3571@gmail.com,Enterprise,249.0,2025-06-28,Active,,2026-06-24,465,3,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3572,Subscriber 3572,subscriber_3572@gmail.com,Basic,29.0,2026-04-01,Active,,2026-05-29,25,13,Australia,29.0,SaaS Basic Subscription
+SUB-3573,Subscriber 3573,subscriber_3573@gmail.com,Enterprise,249.0,2026-01-29,Active,,2026-06-20,290,7,Canada,249.0,SaaS Enterprise Subscription
+SUB-3574,Subscriber 3574,subscriber_3574@gmail.com,Basic,29.0,2025-12-11,Churned,2026-03-05,2026-05-15,483,2,Canada,29.0,SaaS Basic Subscription
+SUB-3575,Subscriber 3575,subscriber_3575@gmail.com,Basic,29.0,2026-01-24,Active,,2026-05-26,313,13,United States,29.0,SaaS Basic Subscription
+SUB-3576,Subscriber 3576,subscriber_3576@gmail.com,Basic,29.0,2026-06-24,Active,,2026-06-11,20,0,Australia,29.0,SaaS Basic Subscription
+SUB-3577,Subscriber 3577,subscriber_3577@gmail.com,Professional,79.0,2026-01-24,Active,,2026-06-23,277,0,United States,79.0,SaaS Professional Subscription
+SUB-3578,Subscriber 3578,subscriber_3578@gmail.com,Basic,29.0,2025-08-05,Churned,2025-10-03,2026-05-31,158,12,United States,29.0,SaaS Basic Subscription
+SUB-3579,Subscriber 3579,subscriber_3579@gmail.com,Basic,29.0,2025-10-04,Active,,2026-06-01,100,12,Canada,29.0,SaaS Basic Subscription
+SUB-3580,Subscriber 3580,subscriber_3580@gmail.com,Basic,29.0,2026-03-02,Active,,2026-06-04,497,5,United States,29.0,SaaS Basic Subscription
+SUB-3581,Subscriber 3581,subscriber_3581@gmail.com,Basic,29.0,2026-05-13,Active,,2026-06-10,146,14,Canada,29.0,SaaS Basic Subscription
+SUB-3582,Subscriber 3582,subscriber_3582@gmail.com,Professional,79.0,2026-06-22,Active,,2026-05-30,73,3,Canada,79.0,SaaS Professional Subscription
+SUB-3583,Subscriber 3583,subscriber_3583@gmail.com,Basic,29.0,2025-07-23,Active,,2026-05-15,318,12,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3584,Subscriber 3584,subscriber_3584@gmail.com,Professional,79.0,2026-02-01,Active,,2026-06-09,486,3,Australia,79.0,SaaS Professional Subscription
+SUB-3585,Subscriber 3585,subscriber_3585@gmail.com,Basic,29.0,2025-09-21,Churned,2026-05-25,2026-06-07,88,1,Australia,29.0,SaaS Basic Subscription
+SUB-3586,Subscriber 3586,subscriber_3586@gmail.com,Professional,79.0,2025-10-21,Churned,2026-05-09,2026-06-02,59,12,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3587,Subscriber 3587,subscriber_3587@gmail.com,Professional,79.0,2025-10-05,Active,,2026-06-05,145,7,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3588,Subscriber 3588,subscriber_3588@gmail.com,Professional,79.0,2026-02-23,Active,,2026-05-24,23,8,United States,79.0,SaaS Professional Subscription
+SUB-3589,Subscriber 3589,subscriber_3589@gmail.com,Basic,29.0,2026-02-16,Active,,2026-05-16,76,8,Australia,29.0,SaaS Basic Subscription
+SUB-3590,Subscriber 3590,subscriber_3590@gmail.com,Basic,29.0,2025-10-10,Active,,2026-06-12,210,8,United States,29.0,SaaS Basic Subscription
+SUB-3591,Subscriber 3591,subscriber_3591@gmail.com,Professional,79.0,2025-10-15,Active,,2026-06-22,101,3,Australia,79.0,SaaS Professional Subscription
+SUB-3592,Subscriber 3592,subscriber_3592@gmail.com,Basic,29.0,2026-01-01,Active,,2026-06-02,106,7,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3593,Subscriber 3593,subscriber_3593@gmail.com,Basic,29.0,2026-03-17,Active,,2026-05-26,55,10,Australia,29.0,SaaS Basic Subscription
+SUB-3594,Subscriber 3594,subscriber_3594@gmail.com,Basic,29.0,2026-04-19,Active,,2026-05-20,152,9,Australia,29.0,SaaS Basic Subscription
+SUB-3595,Subscriber 3595,subscriber_3595@gmail.com,Basic,29.0,2025-07-25,Active,,2026-05-17,411,3,United States,29.0,SaaS Basic Subscription
+SUB-3596,Subscriber 3596,subscriber_3596@gmail.com,Enterprise,249.0,2026-01-21,Active,,2026-05-14,307,8,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3597,Subscriber 3597,subscriber_3597@gmail.com,Basic,29.0,2025-10-07,Churned,2025-11-27,2026-06-17,43,7,Canada,29.0,SaaS Basic Subscription
+SUB-3598,Subscriber 3598,subscriber_3598@gmail.com,Basic,29.0,2025-08-02,Active,,2026-05-16,231,0,Canada,29.0,SaaS Basic Subscription
+SUB-3599,Subscriber 3599,subscriber_3599@gmail.com,Basic,29.0,2026-02-09,Active,,2026-05-30,459,12,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3600,Subscriber 3600,subscriber_3600@gmail.com,Enterprise,249.0,2026-03-24,Active,,2026-06-14,274,5,United States,249.0,SaaS Enterprise Subscription
+SUB-3601,Subscriber 3601,subscriber_3601@gmail.com,Professional,79.0,2026-01-22,Active,,2026-06-16,73,6,Canada,79.0,SaaS Professional Subscription
+SUB-3602,Subscriber 3602,subscriber_3602@gmail.com,Basic,29.0,2026-06-12,Active,,2026-06-06,400,2,Canada,29.0,SaaS Basic Subscription
+SUB-3603,Subscriber 3603,subscriber_3603@gmail.com,Enterprise,249.0,2025-12-19,Churned,2026-03-06,2026-05-31,362,5,Australia,249.0,SaaS Enterprise Subscription
+SUB-3604,Subscriber 3604,subscriber_3604@gmail.com,Professional,79.0,2026-02-12,Active,,2026-06-22,410,13,Australia,79.0,SaaS Professional Subscription
+SUB-3605,Subscriber 3605,subscriber_3605@gmail.com,Professional,79.0,2026-01-23,Active,,2026-06-18,216,10,Canada,79.0,SaaS Professional Subscription
+SUB-3606,Subscriber 3606,subscriber_3606@gmail.com,Professional,79.0,2026-03-30,Active,,2026-05-23,199,12,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3607,Subscriber 3607,subscriber_3607@gmail.com,Basic,29.0,2025-10-19,Active,,2026-05-25,165,7,Canada,29.0,SaaS Basic Subscription
+SUB-3608,Subscriber 3608,subscriber_3608@gmail.com,Professional,79.0,2025-12-03,Active,,2026-06-03,366,13,United States,79.0,SaaS Professional Subscription
+SUB-3609,Subscriber 3609,subscriber_3609@gmail.com,Basic,29.0,2025-12-10,Active,,2026-06-06,96,12,Australia,29.0,SaaS Basic Subscription
+SUB-3610,Subscriber 3610,subscriber_3610@gmail.com,Basic,29.0,2025-11-25,Active,,2026-06-03,133,0,Australia,29.0,SaaS Basic Subscription
+SUB-3611,Subscriber 3611,subscriber_3611@gmail.com,Enterprise,249.0,2025-09-14,Active,,2026-05-25,348,14,Australia,249.0,SaaS Enterprise Subscription
+SUB-3612,Subscriber 3612,subscriber_3612@gmail.com,Professional,79.0,2025-08-13,Active,,2026-05-31,167,6,Canada,79.0,SaaS Professional Subscription
+SUB-3613,Subscriber 3613,subscriber_3613@gmail.com,Professional,79.0,2026-04-03,Active,,2026-05-30,165,2,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3614,Subscriber 3614,subscriber_3614@gmail.com,Professional,79.0,2026-01-26,Churned,2026-07-15,2026-06-10,17,13,Canada,79.0,SaaS Professional Subscription
+SUB-3615,Subscriber 3615,subscriber_3615@gmail.com,Basic,29.0,2026-03-08,Churned,2026-05-22,2026-06-16,290,10,Australia,29.0,SaaS Basic Subscription
+SUB-3616,Subscriber 3616,subscriber_3616@gmail.com,Professional,79.0,2026-01-13,Active,,2026-06-08,21,10,Australia,79.0,SaaS Professional Subscription
+SUB-3617,Subscriber 3617,subscriber_3617@gmail.com,Basic,29.0,2026-03-15,Active,,2026-05-26,220,8,Canada,29.0,SaaS Basic Subscription
+SUB-3618,Subscriber 3618,subscriber_3618@gmail.com,Basic,29.0,2026-01-20,Active,,2026-06-04,254,2,Canada,29.0,SaaS Basic Subscription
+SUB-3619,Subscriber 3619,subscriber_3619@gmail.com,Basic,29.0,2026-01-18,Churned,2026-05-28,2026-05-20,327,9,United States,29.0,SaaS Basic Subscription
+SUB-3620,Subscriber 3620,subscriber_3620@gmail.com,Professional,79.0,2026-05-02,Active,,2026-05-28,415,1,Australia,79.0,SaaS Professional Subscription
+SUB-3621,Subscriber 3621,subscriber_3621@gmail.com,Professional,79.0,2026-04-14,Active,,2026-06-23,120,3,United States,79.0,SaaS Professional Subscription
+SUB-3622,Subscriber 3622,subscriber_3622@gmail.com,Basic,29.0,2026-06-15,Churned,2027-02-08,2026-06-02,437,10,United States,29.0,SaaS Basic Subscription
+SUB-3623,Subscriber 3623,subscriber_3623@gmail.com,Basic,29.0,2025-06-30,Active,,2026-06-06,183,7,United States,29.0,SaaS Basic Subscription
+SUB-3624,Subscriber 3624,subscriber_3624@gmail.com,Enterprise,249.0,2025-07-07,Active,,2026-06-18,47,4,United States,249.0,SaaS Enterprise Subscription
+SUB-3625,Subscriber 3625,subscriber_3625@gmail.com,Professional,79.0,2025-06-26,Active,,2026-06-12,436,0,Australia,79.0,SaaS Professional Subscription
+SUB-3626,Subscriber 3626,subscriber_3626@gmail.com,Professional,79.0,2025-11-20,Active,,2026-05-23,339,0,United States,79.0,SaaS Professional Subscription
+SUB-3627,Subscriber 3627,subscriber_3627@gmail.com,Basic,29.0,2026-05-20,Active,,2026-06-20,281,14,Australia,29.0,SaaS Basic Subscription
+SUB-3628,Subscriber 3628,subscriber_3628@gmail.com,Professional,79.0,2025-09-10,Active,,2026-06-14,451,1,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3629,Subscriber 3629,subscriber_3629@gmail.com,Professional,79.0,2026-04-01,Active,,2026-05-16,193,2,Canada,79.0,SaaS Professional Subscription
+SUB-3630,Subscriber 3630,subscriber_3630@gmail.com,Enterprise,249.0,2026-03-18,Active,,2026-05-28,383,13,Australia,249.0,SaaS Enterprise Subscription
+SUB-3631,Subscriber 3631,subscriber_3631@gmail.com,Basic,29.0,2025-10-26,Churned,2026-05-11,2026-06-21,92,5,Canada,29.0,SaaS Basic Subscription
+SUB-3632,Subscriber 3632,subscriber_3632@gmail.com,Basic,29.0,2026-05-29,Active,,2026-06-11,455,11,Canada,29.0,SaaS Basic Subscription
+SUB-3633,Subscriber 3633,subscriber_3633@gmail.com,Professional,79.0,2025-12-31,Active,,2026-05-22,266,3,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3634,Subscriber 3634,subscriber_3634@gmail.com,Basic,29.0,2025-12-25,Active,,2026-06-13,255,1,United States,29.0,SaaS Basic Subscription
+SUB-3635,Subscriber 3635,subscriber_3635@gmail.com,Basic,29.0,2025-09-05,Active,,2026-06-13,278,5,Australia,29.0,SaaS Basic Subscription
+SUB-3636,Subscriber 3636,subscriber_3636@gmail.com,Enterprise,249.0,2026-06-12,Active,,2026-06-18,391,0,Australia,249.0,SaaS Enterprise Subscription
+SUB-3637,Subscriber 3637,subscriber_3637@gmail.com,Basic,29.0,2026-01-20,Churned,2026-08-12,2026-06-07,470,8,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3638,Subscriber 3638,subscriber_3638@gmail.com,Basic,29.0,2025-09-09,Churned,2025-11-23,2026-06-15,346,1,Australia,29.0,SaaS Basic Subscription
+SUB-3639,Subscriber 3639,subscriber_3639@gmail.com,Basic,29.0,2025-12-07,Churned,2026-02-10,2026-06-08,446,2,United States,29.0,SaaS Basic Subscription
+SUB-3640,Subscriber 3640,subscriber_3640@gmail.com,Basic,29.0,2026-06-19,Active,,2026-05-22,147,3,Australia,29.0,SaaS Basic Subscription
+SUB-3641,Subscriber 3641,subscriber_3641@gmail.com,Professional,79.0,2026-03-06,Churned,2026-09-09,2026-06-01,486,9,Australia,79.0,SaaS Professional Subscription
+SUB-3642,Subscriber 3642,subscriber_3642@gmail.com,Enterprise,249.0,2025-06-30,Active,,2026-05-19,369,5,Australia,249.0,SaaS Enterprise Subscription
+SUB-3643,Subscriber 3643,subscriber_3643@gmail.com,Basic,29.0,2026-02-07,Churned,2026-06-01,2026-06-19,136,14,Australia,29.0,SaaS Basic Subscription
+SUB-3644,Subscriber 3644,subscriber_3644@gmail.com,Basic,29.0,2026-01-30,Active,,2026-06-14,341,2,Australia,29.0,SaaS Basic Subscription
+SUB-3645,Subscriber 3645,subscriber_3645@gmail.com,Professional,79.0,2026-01-13,Active,,2026-06-18,95,10,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3646,Subscriber 3646,subscriber_3646@gmail.com,Basic,29.0,2026-03-03,Active,,2026-06-08,111,6,Australia,29.0,SaaS Basic Subscription
+SUB-3647,Subscriber 3647,subscriber_3647@gmail.com,Basic,29.0,2025-11-27,Churned,2026-02-13,2026-06-09,377,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3648,Subscriber 3648,subscriber_3648@gmail.com,Professional,79.0,2026-02-20,Active,,2026-06-19,210,8,Australia,79.0,SaaS Professional Subscription
+SUB-3649,Subscriber 3649,subscriber_3649@gmail.com,Basic,29.0,2026-03-01,Active,,2026-06-01,47,0,Canada,29.0,SaaS Basic Subscription
+SUB-3650,Subscriber 3650,subscriber_3650@gmail.com,Professional,79.0,2025-07-25,Churned,2025-09-27,2026-06-25,86,8,Australia,79.0,SaaS Professional Subscription
+SUB-3651,Subscriber 3651,subscriber_3651@gmail.com,Basic,29.0,2026-06-18,Churned,2026-12-14,2026-06-16,328,6,United States,29.0,SaaS Basic Subscription
+SUB-3652,Subscriber 3652,subscriber_3652@gmail.com,Enterprise,249.0,2025-08-20,Active,,2026-05-21,220,7,Canada,249.0,SaaS Enterprise Subscription
+SUB-3653,Subscriber 3653,subscriber_3653@gmail.com,Basic,29.0,2025-09-17,Active,,2026-05-18,411,5,United States,29.0,SaaS Basic Subscription
+SUB-3654,Subscriber 3654,subscriber_3654@gmail.com,Professional,79.0,2025-12-21,Active,,2026-05-17,149,13,Australia,79.0,SaaS Professional Subscription
+SUB-3655,Subscriber 3655,subscriber_3655@gmail.com,Basic,29.0,2026-03-13,Active,,2026-05-20,380,4,Canada,29.0,SaaS Basic Subscription
+SUB-3656,Subscriber 3656,subscriber_3656@gmail.com,Enterprise,249.0,2026-04-30,Active,,2026-05-20,384,6,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3657,Subscriber 3657,subscriber_3657@gmail.com,Basic,29.0,2025-12-13,Churned,2026-07-19,2026-06-04,347,11,Australia,29.0,SaaS Basic Subscription
+SUB-3658,Subscriber 3658,subscriber_3658@gmail.com,Basic,29.0,2026-04-07,Active,,2026-05-23,147,10,United States,29.0,SaaS Basic Subscription
+SUB-3659,Subscriber 3659,subscriber_3659@gmail.com,Professional,79.0,2026-05-26,Active,,2026-06-09,201,3,Canada,79.0,SaaS Professional Subscription
+SUB-3660,Subscriber 3660,subscriber_3660@gmail.com,Professional,79.0,2025-07-15,Active,,2026-06-24,83,2,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3661,Subscriber 3661,subscriber_3661@gmail.com,Basic,29.0,2025-12-04,Active,,2026-06-09,213,2,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3662,Subscriber 3662,subscriber_3662@gmail.com,Basic,29.0,2026-01-17,Active,,2026-06-25,373,13,Canada,29.0,SaaS Basic Subscription
+SUB-3663,Subscriber 3663,subscriber_3663@gmail.com,Professional,79.0,2025-11-23,Active,,2026-06-10,159,3,Canada,79.0,SaaS Professional Subscription
+SUB-3664,Subscriber 3664,subscriber_3664@gmail.com,Professional,79.0,2025-08-08,Active,,2026-05-26,367,13,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3665,Subscriber 3665,subscriber_3665@gmail.com,Enterprise,249.0,2025-09-14,Active,,2026-06-01,190,1,Canada,249.0,SaaS Enterprise Subscription
+SUB-3666,Subscriber 3666,subscriber_3666@gmail.com,Basic,29.0,2025-09-11,Active,,2026-05-27,451,12,United States,29.0,SaaS Basic Subscription
+SUB-3667,Subscriber 3667,subscriber_3667@gmail.com,Basic,29.0,2026-02-19,Active,,2026-05-16,171,0,Canada,29.0,SaaS Basic Subscription
+SUB-3668,Subscriber 3668,subscriber_3668@gmail.com,Basic,29.0,2026-02-16,Churned,2026-06-19,2026-06-20,486,5,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3669,Subscriber 3669,subscriber_3669@gmail.com,Professional,79.0,2025-09-22,Active,,2026-06-13,350,8,Canada,79.0,SaaS Professional Subscription
+SUB-3670,Subscriber 3670,subscriber_3670@gmail.com,Basic,29.0,2025-08-27,Active,,2026-05-16,8,8,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3671,Subscriber 3671,subscriber_3671@gmail.com,Basic,29.0,2025-08-25,Active,,2026-06-23,310,14,Australia,29.0,SaaS Basic Subscription
+SUB-3672,Subscriber 3672,subscriber_3672@gmail.com,Basic,29.0,2026-04-15,Active,,2026-06-25,321,5,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3673,Subscriber 3673,subscriber_3673@gmail.com,Basic,29.0,2026-01-05,Active,,2026-06-19,364,5,United States,29.0,SaaS Basic Subscription
+SUB-3674,Subscriber 3674,subscriber_3674@gmail.com,Enterprise,249.0,2026-02-01,Active,,2026-06-16,14,11,Australia,249.0,SaaS Enterprise Subscription
+SUB-3675,Subscriber 3675,subscriber_3675@gmail.com,Professional,79.0,2026-05-23,Churned,2026-07-31,2026-06-05,484,12,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3676,Subscriber 3676,subscriber_3676@gmail.com,Professional,79.0,2025-09-09,Active,,2026-05-12,396,6,Canada,79.0,SaaS Professional Subscription
+SUB-3677,Subscriber 3677,subscriber_3677@gmail.com,Professional,79.0,2025-10-31,Churned,2026-04-24,2026-06-06,341,8,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3678,Subscriber 3678,subscriber_3678@gmail.com,Professional,79.0,2025-11-22,Active,,2026-06-16,437,2,Australia,79.0,SaaS Professional Subscription
+SUB-3679,Subscriber 3679,subscriber_3679@gmail.com,Professional,79.0,2026-03-04,Active,,2026-05-21,214,11,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3680,Subscriber 3680,subscriber_3680@gmail.com,Basic,29.0,2025-11-26,Active,,2026-06-04,479,4,Australia,29.0,SaaS Basic Subscription
+SUB-3681,Subscriber 3681,subscriber_3681@gmail.com,Basic,29.0,2026-03-21,Active,,2026-06-02,38,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3682,Subscriber 3682,subscriber_3682@gmail.com,Basic,29.0,2025-08-27,Active,,2026-06-22,336,1,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3683,Subscriber 3683,subscriber_3683@gmail.com,Enterprise,249.0,2025-07-10,Active,,2026-06-04,354,9,Canada,249.0,SaaS Enterprise Subscription
+SUB-3684,Subscriber 3684,subscriber_3684@gmail.com,Basic,29.0,2026-04-30,Active,,2026-06-24,367,1,Canada,29.0,SaaS Basic Subscription
+SUB-3685,Subscriber 3685,subscriber_3685@gmail.com,Basic,29.0,2025-10-16,Active,,2026-05-30,325,0,Australia,29.0,SaaS Basic Subscription
+SUB-3686,Subscriber 3686,subscriber_3686@gmail.com,Basic,29.0,2025-10-23,Active,,2026-06-08,475,12,United States,29.0,SaaS Basic Subscription
+SUB-3687,Subscriber 3687,subscriber_3687@gmail.com,Basic,29.0,2026-06-20,Active,,2026-06-12,355,4,Canada,29.0,SaaS Basic Subscription
+SUB-3688,Subscriber 3688,subscriber_3688@gmail.com,Professional,79.0,2025-11-06,Active,,2026-05-24,111,12,United States,79.0,SaaS Professional Subscription
+SUB-3689,Subscriber 3689,subscriber_3689@gmail.com,Professional,79.0,2025-08-16,Active,,2026-05-13,177,3,Australia,79.0,SaaS Professional Subscription
+SUB-3690,Subscriber 3690,subscriber_3690@gmail.com,Basic,29.0,2025-09-19,Active,,2026-06-06,359,9,United States,29.0,SaaS Basic Subscription
+SUB-3691,Subscriber 3691,subscriber_3691@gmail.com,Basic,29.0,2026-02-26,Active,,2026-05-23,134,0,United States,29.0,SaaS Basic Subscription
+SUB-3692,Subscriber 3692,subscriber_3692@gmail.com,Basic,29.0,2026-04-20,Active,,2026-06-02,490,3,Canada,29.0,SaaS Basic Subscription
+SUB-3693,Subscriber 3693,subscriber_3693@gmail.com,Enterprise,249.0,2025-07-05,Active,,2026-06-19,336,0,Canada,249.0,SaaS Enterprise Subscription
+SUB-3694,Subscriber 3694,subscriber_3694@gmail.com,Basic,29.0,2026-03-16,Active,,2026-06-04,59,14,Canada,29.0,SaaS Basic Subscription
+SUB-3695,Subscriber 3695,subscriber_3695@gmail.com,Basic,29.0,2026-04-01,Active,,2026-05-29,293,13,Australia,29.0,SaaS Basic Subscription
+SUB-3696,Subscriber 3696,subscriber_3696@gmail.com,Basic,29.0,2026-02-26,Active,,2026-05-19,390,7,Australia,29.0,SaaS Basic Subscription
+SUB-3697,Subscriber 3697,subscriber_3697@gmail.com,Basic,29.0,2025-07-04,Active,,2026-05-22,391,5,Australia,29.0,SaaS Basic Subscription
+SUB-3698,Subscriber 3698,subscriber_3698@gmail.com,Basic,29.0,2025-11-23,Active,,2026-06-06,202,4,Australia,29.0,SaaS Basic Subscription
+SUB-3699,Subscriber 3699,subscriber_3699@gmail.com,Basic,29.0,2026-05-13,Active,,2026-06-23,359,2,United States,29.0,SaaS Basic Subscription
+SUB-3700,Subscriber 3700,subscriber_3700@gmail.com,Professional,79.0,2026-02-25,Churned,2026-09-18,2026-06-12,134,10,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3701,Subscriber 3701,subscriber_3701@gmail.com,Professional,79.0,2025-12-10,Active,,2026-05-19,18,3,Canada,79.0,SaaS Professional Subscription
+SUB-3702,Subscriber 3702,subscriber_3702@gmail.com,Basic,29.0,2025-11-28,Active,,2026-06-19,73,6,United States,29.0,SaaS Basic Subscription
+SUB-3703,Subscriber 3703,subscriber_3703@gmail.com,Professional,79.0,2025-10-24,Churned,2026-02-22,2026-06-05,314,3,Canada,79.0,SaaS Professional Subscription
+SUB-3704,Subscriber 3704,subscriber_3704@gmail.com,Professional,79.0,2025-07-18,Churned,2026-03-07,2026-06-09,253,2,Canada,79.0,SaaS Professional Subscription
+SUB-3705,Subscriber 3705,subscriber_3705@gmail.com,Basic,29.0,2025-12-03,Active,,2026-06-17,205,8,United States,29.0,SaaS Basic Subscription
+SUB-3706,Subscriber 3706,subscriber_3706@gmail.com,Basic,29.0,2025-11-12,Active,,2026-06-22,457,6,Canada,29.0,SaaS Basic Subscription
+SUB-3707,Subscriber 3707,subscriber_3707@gmail.com,Professional,79.0,2026-04-03,Active,,2026-06-12,346,3,Canada,79.0,SaaS Professional Subscription
+SUB-3708,Subscriber 3708,subscriber_3708@gmail.com,Professional,79.0,2026-06-02,Active,,2026-06-16,429,12,United States,79.0,SaaS Professional Subscription
+SUB-3709,Subscriber 3709,subscriber_3709@gmail.com,Enterprise,249.0,2025-10-10,Active,,2026-06-09,212,1,United States,249.0,SaaS Enterprise Subscription
+SUB-3710,Subscriber 3710,subscriber_3710@gmail.com,Basic,29.0,2026-01-09,Active,,2026-06-15,266,3,Canada,29.0,SaaS Basic Subscription
+SUB-3711,Subscriber 3711,subscriber_3711@gmail.com,Enterprise,249.0,2025-07-22,Active,,2026-05-21,472,6,Canada,249.0,SaaS Enterprise Subscription
+SUB-3712,Subscriber 3712,subscriber_3712@gmail.com,Basic,29.0,2025-12-06,Active,,2026-05-16,402,13,United States,29.0,SaaS Basic Subscription
+SUB-3713,Subscriber 3713,subscriber_3713@gmail.com,Professional,79.0,2025-10-02,Active,,2026-06-25,191,3,Australia,79.0,SaaS Professional Subscription
+SUB-3714,Subscriber 3714,subscriber_3714@gmail.com,Basic,29.0,2026-06-17,Churned,2026-09-03,2026-06-10,212,11,Australia,29.0,SaaS Basic Subscription
+SUB-3715,Subscriber 3715,subscriber_3715@gmail.com,Enterprise,249.0,2025-07-18,Active,,2026-05-13,436,9,Australia,249.0,SaaS Enterprise Subscription
+SUB-3716,Subscriber 3716,subscriber_3716@gmail.com,Basic,29.0,2026-01-04,Active,,2026-06-17,344,0,United States,29.0,SaaS Basic Subscription
+SUB-3717,Subscriber 3717,subscriber_3717@gmail.com,Professional,79.0,2025-09-19,Active,,2026-05-17,5,12,Canada,79.0,SaaS Professional Subscription
+SUB-3718,Subscriber 3718,subscriber_3718@gmail.com,Enterprise,249.0,2026-02-10,Active,,2026-06-15,367,7,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3719,Subscriber 3719,subscriber_3719@gmail.com,Enterprise,249.0,2026-03-29,Active,,2026-06-16,465,11,Canada,249.0,SaaS Enterprise Subscription
+SUB-3720,Subscriber 3720,subscriber_3720@gmail.com,Professional,79.0,2026-03-18,Active,,2026-05-23,222,5,United States,79.0,SaaS Professional Subscription
+SUB-3721,Subscriber 3721,subscriber_3721@gmail.com,Professional,79.0,2025-08-17,Active,,2026-05-21,164,3,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3722,Subscriber 3722,subscriber_3722@gmail.com,Professional,79.0,2025-10-07,Active,,2026-06-11,493,4,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3723,Subscriber 3723,subscriber_3723@gmail.com,Enterprise,249.0,2025-11-17,Active,,2026-06-10,115,4,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3724,Subscriber 3724,subscriber_3724@gmail.com,Basic,29.0,2025-12-25,Churned,2026-05-18,2026-05-21,264,4,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3725,Subscriber 3725,subscriber_3725@gmail.com,Basic,29.0,2026-06-22,Churned,2026-11-26,2026-06-16,221,6,Canada,29.0,SaaS Basic Subscription
+SUB-3726,Subscriber 3726,subscriber_3726@gmail.com,Basic,29.0,2026-03-09,Active,,2026-06-05,439,6,Australia,29.0,SaaS Basic Subscription
+SUB-3727,Subscriber 3727,subscriber_3727@gmail.com,Basic,29.0,2026-01-03,Active,,2026-06-08,486,10,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3728,Subscriber 3728,subscriber_3728@gmail.com,Basic,29.0,2026-01-29,Active,,2026-05-22,491,12,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3729,Subscriber 3729,subscriber_3729@gmail.com,Basic,29.0,2025-07-17,Active,,2026-06-06,181,7,Australia,29.0,SaaS Basic Subscription
+SUB-3730,Subscriber 3730,subscriber_3730@gmail.com,Basic,29.0,2025-11-26,Active,,2026-06-18,265,12,United States,29.0,SaaS Basic Subscription
+SUB-3731,Subscriber 3731,subscriber_3731@gmail.com,Basic,29.0,2026-02-24,Active,,2026-05-15,67,8,United States,29.0,SaaS Basic Subscription
+SUB-3732,Subscriber 3732,subscriber_3732@gmail.com,Professional,79.0,2025-12-29,Active,,2026-06-04,278,1,Canada,79.0,SaaS Professional Subscription
+SUB-3733,Subscriber 3733,subscriber_3733@gmail.com,Basic,29.0,2026-01-16,Active,,2026-06-22,19,10,Canada,29.0,SaaS Basic Subscription
+SUB-3734,Subscriber 3734,subscriber_3734@gmail.com,Enterprise,249.0,2025-08-14,Active,,2026-05-31,395,4,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3735,Subscriber 3735,subscriber_3735@gmail.com,Basic,29.0,2026-01-03,Active,,2026-06-10,292,3,Australia,29.0,SaaS Basic Subscription
+SUB-3736,Subscriber 3736,subscriber_3736@gmail.com,Professional,79.0,2025-07-30,Active,,2026-06-02,456,12,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3737,Subscriber 3737,subscriber_3737@gmail.com,Basic,29.0,2025-07-17,Active,,2026-05-31,142,12,Australia,29.0,SaaS Basic Subscription
+SUB-3738,Subscriber 3738,subscriber_3738@gmail.com,Professional,79.0,2025-11-15,Active,,2026-06-01,98,12,Australia,79.0,SaaS Professional Subscription
+SUB-3739,Subscriber 3739,subscriber_3739@gmail.com,Professional,79.0,2026-05-08,Active,,2026-05-21,129,2,Australia,79.0,SaaS Professional Subscription
+SUB-3740,Subscriber 3740,subscriber_3740@gmail.com,Basic,29.0,2025-08-24,Active,,2026-05-18,299,1,Canada,29.0,SaaS Basic Subscription
+SUB-3741,Subscriber 3741,subscriber_3741@gmail.com,Professional,79.0,2026-04-27,Active,,2026-05-28,145,5,Australia,79.0,SaaS Professional Subscription
+SUB-3742,Subscriber 3742,subscriber_3742@gmail.com,Basic,29.0,2026-02-23,Active,,2026-05-20,282,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3743,Subscriber 3743,subscriber_3743@gmail.com,Professional,79.0,2025-09-18,Churned,2026-02-23,2026-06-22,255,3,United States,79.0,SaaS Professional Subscription
+SUB-3744,Subscriber 3744,subscriber_3744@gmail.com,Basic,29.0,2026-06-19,Active,,2026-06-21,360,6,Australia,29.0,SaaS Basic Subscription
+SUB-3745,Subscriber 3745,subscriber_3745@gmail.com,Basic,29.0,2026-03-21,Active,,2026-05-30,392,10,Australia,29.0,SaaS Basic Subscription
+SUB-3746,Subscriber 3746,subscriber_3746@gmail.com,Basic,29.0,2025-10-16,Active,,2026-06-10,72,2,Canada,29.0,SaaS Basic Subscription
+SUB-3747,Subscriber 3747,subscriber_3747@gmail.com,Basic,29.0,2025-12-10,Active,,2026-06-13,241,4,United States,29.0,SaaS Basic Subscription
+SUB-3748,Subscriber 3748,subscriber_3748@gmail.com,Basic,29.0,2026-04-29,Churned,2026-12-23,2026-06-01,193,9,Australia,29.0,SaaS Basic Subscription
+SUB-3749,Subscriber 3749,subscriber_3749@gmail.com,Professional,79.0,2026-04-23,Active,,2026-06-04,462,10,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3750,Subscriber 3750,subscriber_3750@gmail.com,Professional,79.0,2026-05-26,Active,,2026-06-14,283,3,United States,79.0,SaaS Professional Subscription
+SUB-3751,Subscriber 3751,subscriber_3751@gmail.com,Enterprise,249.0,2026-05-26,Active,,2026-06-09,125,3,United States,249.0,SaaS Enterprise Subscription
+SUB-3752,Subscriber 3752,subscriber_3752@gmail.com,Basic,29.0,2026-06-18,Active,,2026-06-20,109,3,United States,29.0,SaaS Basic Subscription
+SUB-3753,Subscriber 3753,subscriber_3753@gmail.com,Basic,29.0,2025-12-13,Active,,2026-06-08,320,12,United States,29.0,SaaS Basic Subscription
+SUB-3754,Subscriber 3754,subscriber_3754@gmail.com,Professional,79.0,2026-03-01,Active,,2026-05-29,180,3,Canada,79.0,SaaS Professional Subscription
+SUB-3755,Subscriber 3755,subscriber_3755@gmail.com,Professional,79.0,2025-09-04,Active,,2026-05-20,183,10,United States,79.0,SaaS Professional Subscription
+SUB-3756,Subscriber 3756,subscriber_3756@gmail.com,Basic,29.0,2026-06-08,Churned,2026-10-03,2026-06-05,266,5,Australia,29.0,SaaS Basic Subscription
+SUB-3757,Subscriber 3757,subscriber_3757@gmail.com,Professional,79.0,2025-10-09,Churned,2026-01-27,2026-05-26,248,9,Canada,79.0,SaaS Professional Subscription
+SUB-3758,Subscriber 3758,subscriber_3758@gmail.com,Enterprise,249.0,2025-11-12,Active,,2026-06-14,184,10,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3759,Subscriber 3759,subscriber_3759@gmail.com,Basic,29.0,2025-11-30,Active,,2026-06-13,497,10,United States,29.0,SaaS Basic Subscription
+SUB-3760,Subscriber 3760,subscriber_3760@gmail.com,Professional,79.0,2026-04-04,Active,,2026-05-24,249,9,United States,79.0,SaaS Professional Subscription
+SUB-3761,Subscriber 3761,subscriber_3761@gmail.com,Basic,29.0,2025-10-11,Active,,2026-06-12,154,3,Australia,29.0,SaaS Basic Subscription
+SUB-3762,Subscriber 3762,subscriber_3762@gmail.com,Professional,79.0,2025-12-24,Churned,2026-06-07,2026-06-07,161,4,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3763,Subscriber 3763,subscriber_3763@gmail.com,Basic,29.0,2026-02-06,Active,,2026-06-19,166,6,Canada,29.0,SaaS Basic Subscription
+SUB-3764,Subscriber 3764,subscriber_3764@gmail.com,Basic,29.0,2026-02-23,Churned,2026-10-23,2026-06-14,109,14,United States,29.0,SaaS Basic Subscription
+SUB-3765,Subscriber 3765,subscriber_3765@gmail.com,Professional,79.0,2026-02-19,Active,,2026-05-21,465,13,Australia,79.0,SaaS Professional Subscription
+SUB-3766,Subscriber 3766,subscriber_3766@gmail.com,Basic,29.0,2025-12-04,Churned,2026-01-20,2026-05-17,275,6,Canada,29.0,SaaS Basic Subscription
+SUB-3767,Subscriber 3767,subscriber_3767@gmail.com,Basic,29.0,2025-11-05,Active,,2026-06-04,355,7,Australia,29.0,SaaS Basic Subscription
+SUB-3768,Subscriber 3768,subscriber_3768@gmail.com,Basic,29.0,2026-05-30,Churned,2027-01-08,2026-06-02,49,9,United States,29.0,SaaS Basic Subscription
+SUB-3769,Subscriber 3769,subscriber_3769@gmail.com,Professional,79.0,2025-07-03,Active,,2026-06-17,368,7,Canada,79.0,SaaS Professional Subscription
+SUB-3770,Subscriber 3770,subscriber_3770@gmail.com,Basic,29.0,2025-11-27,Churned,2026-01-31,2026-05-17,432,0,Australia,29.0,SaaS Basic Subscription
+SUB-3771,Subscriber 3771,subscriber_3771@gmail.com,Basic,29.0,2026-01-22,Churned,2026-06-17,2026-06-01,101,14,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3772,Subscriber 3772,subscriber_3772@gmail.com,Basic,29.0,2025-07-12,Active,,2026-05-29,99,9,Canada,29.0,SaaS Basic Subscription
+SUB-3773,Subscriber 3773,subscriber_3773@gmail.com,Basic,29.0,2026-05-03,Active,,2026-06-09,376,6,Australia,29.0,SaaS Basic Subscription
+SUB-3774,Subscriber 3774,subscriber_3774@gmail.com,Professional,79.0,2026-04-03,Churned,2026-11-21,2026-06-13,384,0,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3775,Subscriber 3775,subscriber_3775@gmail.com,Professional,79.0,2025-12-09,Churned,2026-02-17,2026-06-12,397,5,Australia,79.0,SaaS Professional Subscription
+SUB-3776,Subscriber 3776,subscriber_3776@gmail.com,Basic,29.0,2026-03-08,Active,,2026-05-20,95,5,United States,29.0,SaaS Basic Subscription
+SUB-3777,Subscriber 3777,subscriber_3777@gmail.com,Basic,29.0,2026-06-20,Active,,2026-06-04,431,2,Canada,29.0,SaaS Basic Subscription
+SUB-3778,Subscriber 3778,subscriber_3778@gmail.com,Basic,29.0,2025-07-13,Churned,2025-11-08,2026-06-19,392,8,United States,29.0,SaaS Basic Subscription
+SUB-3779,Subscriber 3779,subscriber_3779@gmail.com,Basic,29.0,2026-03-06,Churned,2026-09-28,2026-06-01,404,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3780,Subscriber 3780,subscriber_3780@gmail.com,Enterprise,249.0,2026-05-21,Active,,2026-06-02,170,11,Canada,249.0,SaaS Enterprise Subscription
+SUB-3781,Subscriber 3781,subscriber_3781@gmail.com,Basic,29.0,2025-12-28,Active,,2026-06-08,315,3,Canada,29.0,SaaS Basic Subscription
+SUB-3782,Subscriber 3782,subscriber_3782@gmail.com,Basic,29.0,2026-02-23,Active,,2026-05-13,434,14,Australia,29.0,SaaS Basic Subscription
+SUB-3783,Subscriber 3783,subscriber_3783@gmail.com,Professional,79.0,2025-10-03,Churned,2025-12-30,2026-05-24,403,14,United States,79.0,SaaS Professional Subscription
+SUB-3784,Subscriber 3784,subscriber_3784@gmail.com,Professional,79.0,2025-09-09,Churned,2026-05-03,2026-05-14,435,9,United States,79.0,SaaS Professional Subscription
+SUB-3785,Subscriber 3785,subscriber_3785@gmail.com,Professional,79.0,2026-02-27,Churned,2026-04-24,2026-05-29,159,12,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3786,Subscriber 3786,subscriber_3786@gmail.com,Basic,29.0,2025-12-03,Active,,2026-05-14,419,10,Canada,29.0,SaaS Basic Subscription
+SUB-3787,Subscriber 3787,subscriber_3787@gmail.com,Basic,29.0,2026-06-03,Active,,2026-06-01,315,9,Australia,29.0,SaaS Basic Subscription
+SUB-3788,Subscriber 3788,subscriber_3788@gmail.com,Professional,79.0,2026-03-27,Active,,2026-06-23,80,0,Australia,79.0,SaaS Professional Subscription
+SUB-3789,Subscriber 3789,subscriber_3789@gmail.com,Basic,29.0,2025-11-10,Active,,2026-06-05,403,13,Canada,29.0,SaaS Basic Subscription
+SUB-3790,Subscriber 3790,subscriber_3790@gmail.com,Professional,79.0,2026-04-12,Active,,2026-06-25,253,11,United States,79.0,SaaS Professional Subscription
+SUB-3791,Subscriber 3791,subscriber_3791@gmail.com,Basic,29.0,2026-05-07,Active,,2026-06-04,253,13,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3792,Subscriber 3792,subscriber_3792@gmail.com,Enterprise,249.0,2025-11-06,Churned,2026-03-13,2026-06-25,364,2,Australia,249.0,SaaS Enterprise Subscription
+SUB-3793,Subscriber 3793,subscriber_3793@gmail.com,Basic,29.0,2025-07-28,Active,,2026-05-19,494,9,United States,29.0,SaaS Basic Subscription
+SUB-3794,Subscriber 3794,subscriber_3794@gmail.com,Basic,29.0,2026-06-18,Churned,2026-08-29,2026-06-20,172,7,Australia,29.0,SaaS Basic Subscription
+SUB-3795,Subscriber 3795,subscriber_3795@gmail.com,Basic,29.0,2026-01-11,Active,,2026-06-05,217,0,Australia,29.0,SaaS Basic Subscription
+SUB-3796,Subscriber 3796,subscriber_3796@gmail.com,Enterprise,249.0,2025-08-01,Active,,2026-06-01,346,3,Canada,249.0,SaaS Enterprise Subscription
+SUB-3797,Subscriber 3797,subscriber_3797@gmail.com,Enterprise,249.0,2025-10-13,Active,,2026-05-16,418,2,Canada,249.0,SaaS Enterprise Subscription
+SUB-3798,Subscriber 3798,subscriber_3798@gmail.com,Basic,29.0,2025-10-01,Active,,2026-06-08,173,8,Canada,29.0,SaaS Basic Subscription
+SUB-3799,Subscriber 3799,subscriber_3799@gmail.com,Professional,79.0,2025-07-07,Active,,2026-05-16,147,4,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3800,Subscriber 3800,subscriber_3800@gmail.com,Professional,79.0,2025-08-13,Active,,2026-05-21,18,7,United States,79.0,SaaS Professional Subscription
+SUB-3801,Subscriber 3801,subscriber_3801@gmail.com,Basic,29.0,2025-08-29,Churned,2025-10-11,2026-06-04,203,0,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3802,Subscriber 3802,subscriber_3802@gmail.com,Professional,79.0,2026-05-20,Active,,2026-05-20,338,3,Canada,79.0,SaaS Professional Subscription
+SUB-3803,Subscriber 3803,subscriber_3803@gmail.com,Enterprise,249.0,2026-03-09,Active,,2026-05-22,86,4,Canada,249.0,SaaS Enterprise Subscription
+SUB-3804,Subscriber 3804,subscriber_3804@gmail.com,Professional,79.0,2025-09-06,Churned,2025-12-19,2026-05-22,263,8,Canada,79.0,SaaS Professional Subscription
+SUB-3805,Subscriber 3805,subscriber_3805@gmail.com,Basic,29.0,2026-03-31,Active,,2026-05-16,351,6,Australia,29.0,SaaS Basic Subscription
+SUB-3806,Subscriber 3806,subscriber_3806@gmail.com,Basic,29.0,2026-06-09,Active,,2026-05-22,184,4,United States,29.0,SaaS Basic Subscription
+SUB-3807,Subscriber 3807,subscriber_3807@gmail.com,Enterprise,249.0,2026-06-17,Active,,2026-06-18,6,8,Australia,249.0,SaaS Enterprise Subscription
+SUB-3808,Subscriber 3808,subscriber_3808@gmail.com,Professional,79.0,2026-01-09,Active,,2026-06-25,438,3,Australia,79.0,SaaS Professional Subscription
+SUB-3809,Subscriber 3809,subscriber_3809@gmail.com,Professional,79.0,2026-01-08,Active,,2026-05-17,278,6,United States,79.0,SaaS Professional Subscription
+SUB-3810,Subscriber 3810,subscriber_3810@gmail.com,Basic,29.0,2025-09-15,Churned,2025-11-09,2026-05-24,382,0,Australia,29.0,SaaS Basic Subscription
+SUB-3811,Subscriber 3811,subscriber_3811@gmail.com,Basic,29.0,2026-03-26,Active,,2026-06-09,139,2,United States,29.0,SaaS Basic Subscription
+SUB-3812,Subscriber 3812,subscriber_3812@gmail.com,Professional,79.0,2026-04-01,Active,,2026-06-20,222,3,United States,79.0,SaaS Professional Subscription
+SUB-3813,Subscriber 3813,subscriber_3813@gmail.com,Basic,29.0,2026-05-01,Churned,2026-11-22,2026-05-13,434,14,United States,29.0,SaaS Basic Subscription
+SUB-3814,Subscriber 3814,subscriber_3814@gmail.com,Basic,29.0,2026-06-01,Active,,2026-05-15,475,12,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3815,Subscriber 3815,subscriber_3815@gmail.com,Basic,29.0,2025-10-02,Active,,2026-05-19,147,9,United States,29.0,SaaS Basic Subscription
+SUB-3816,Subscriber 3816,subscriber_3816@gmail.com,Enterprise,249.0,2025-08-14,Active,,2026-05-29,78,7,United States,249.0,SaaS Enterprise Subscription
+SUB-3817,Subscriber 3817,subscriber_3817@gmail.com,Professional,79.0,2025-12-23,Active,,2026-06-14,205,10,United States,79.0,SaaS Professional Subscription
+SUB-3818,Subscriber 3818,subscriber_3818@gmail.com,Basic,29.0,2025-11-03,Active,,2026-05-26,310,5,Canada,29.0,SaaS Basic Subscription
+SUB-3819,Subscriber 3819,subscriber_3819@gmail.com,Basic,29.0,2025-07-23,Active,,2026-06-20,165,10,Canada,29.0,SaaS Basic Subscription
+SUB-3820,Subscriber 3820,subscriber_3820@gmail.com,Professional,79.0,2026-02-16,Active,,2026-06-09,299,7,Canada,79.0,SaaS Professional Subscription
+SUB-3821,Subscriber 3821,subscriber_3821@gmail.com,Basic,29.0,2025-07-08,Active,,2026-06-06,384,11,Australia,29.0,SaaS Basic Subscription
+SUB-3822,Subscriber 3822,subscriber_3822@gmail.com,Professional,79.0,2025-11-29,Churned,2026-01-09,2026-06-09,81,14,Australia,79.0,SaaS Professional Subscription
+SUB-3823,Subscriber 3823,subscriber_3823@gmail.com,Enterprise,249.0,2026-04-02,Active,,2026-05-22,411,14,United States,249.0,SaaS Enterprise Subscription
+SUB-3824,Subscriber 3824,subscriber_3824@gmail.com,Basic,29.0,2026-02-13,Churned,2026-06-12,2026-06-19,456,4,Australia,29.0,SaaS Basic Subscription
+SUB-3825,Subscriber 3825,subscriber_3825@gmail.com,Professional,79.0,2025-11-06,Active,,2026-05-17,449,14,United States,79.0,SaaS Professional Subscription
+SUB-3826,Subscriber 3826,subscriber_3826@gmail.com,Professional,79.0,2025-10-01,Churned,2026-05-26,2026-06-22,356,10,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3827,Subscriber 3827,subscriber_3827@gmail.com,Basic,29.0,2025-09-13,Active,,2026-06-12,263,1,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3828,Subscriber 3828,subscriber_3828@gmail.com,Professional,79.0,2025-12-22,Active,,2026-06-17,166,13,Australia,79.0,SaaS Professional Subscription
+SUB-3829,Subscriber 3829,subscriber_3829@gmail.com,Basic,29.0,2025-09-26,Active,,2026-05-31,185,11,Canada,29.0,SaaS Basic Subscription
+SUB-3830,Subscriber 3830,subscriber_3830@gmail.com,Basic,29.0,2026-06-11,Active,,2026-06-19,294,3,Australia,29.0,SaaS Basic Subscription
+SUB-3831,Subscriber 3831,subscriber_3831@gmail.com,Professional,79.0,2026-01-22,Active,,2026-05-21,464,14,United States,79.0,SaaS Professional Subscription
+SUB-3832,Subscriber 3832,subscriber_3832@gmail.com,Basic,29.0,2026-04-16,Active,,2026-06-07,169,10,United States,29.0,SaaS Basic Subscription
+SUB-3833,Subscriber 3833,subscriber_3833@gmail.com,Basic,29.0,2025-11-07,Active,,2026-05-28,214,14,United States,29.0,SaaS Basic Subscription
+SUB-3834,Subscriber 3834,subscriber_3834@gmail.com,Basic,29.0,2025-11-12,Active,,2026-05-26,249,12,United States,29.0,SaaS Basic Subscription
+SUB-3835,Subscriber 3835,subscriber_3835@gmail.com,Professional,79.0,2026-03-25,Active,,2026-05-21,365,4,Australia,79.0,SaaS Professional Subscription
+SUB-3836,Subscriber 3836,subscriber_3836@gmail.com,Basic,29.0,2026-02-12,Active,,2026-05-31,321,0,United States,29.0,SaaS Basic Subscription
+SUB-3837,Subscriber 3837,subscriber_3837@gmail.com,Basic,29.0,2025-09-19,Active,,2026-05-24,287,0,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3838,Subscriber 3838,subscriber_3838@gmail.com,Basic,29.0,2025-08-16,Churned,2025-12-01,2026-05-26,129,2,United States,29.0,SaaS Basic Subscription
+SUB-3839,Subscriber 3839,subscriber_3839@gmail.com,Basic,29.0,2025-11-10,Churned,2026-04-13,2026-05-27,193,2,United States,29.0,SaaS Basic Subscription
+SUB-3840,Subscriber 3840,subscriber_3840@gmail.com,Professional,79.0,2026-04-10,Active,,2026-06-17,271,9,United States,79.0,SaaS Professional Subscription
+SUB-3841,Subscriber 3841,subscriber_3841@gmail.com,Basic,29.0,2025-10-16,Active,,2026-06-22,108,7,Canada,29.0,SaaS Basic Subscription
+SUB-3842,Subscriber 3842,subscriber_3842@gmail.com,Basic,29.0,2025-08-05,Active,,2026-05-25,72,13,Australia,29.0,SaaS Basic Subscription
+SUB-3843,Subscriber 3843,subscriber_3843@gmail.com,Basic,29.0,2025-11-12,Active,,2026-05-24,66,8,Australia,29.0,SaaS Basic Subscription
+SUB-3844,Subscriber 3844,subscriber_3844@gmail.com,Basic,29.0,2025-10-05,Churned,2026-01-08,2026-05-29,63,8,Australia,29.0,SaaS Basic Subscription
+SUB-3845,Subscriber 3845,subscriber_3845@gmail.com,Enterprise,249.0,2026-04-13,Churned,2026-12-04,2026-06-10,77,11,Australia,249.0,SaaS Enterprise Subscription
+SUB-3846,Subscriber 3846,subscriber_3846@gmail.com,Basic,29.0,2025-10-19,Active,,2026-06-02,286,1,United States,29.0,SaaS Basic Subscription
+SUB-3847,Subscriber 3847,subscriber_3847@gmail.com,Enterprise,249.0,2026-03-28,Active,,2026-06-09,226,11,Australia,249.0,SaaS Enterprise Subscription
+SUB-3848,Subscriber 3848,subscriber_3848@gmail.com,Basic,29.0,2025-11-16,Active,,2026-05-21,126,8,Canada,29.0,SaaS Basic Subscription
+SUB-3849,Subscriber 3849,subscriber_3849@gmail.com,Enterprise,249.0,2025-12-05,Active,,2026-06-23,107,5,Australia,249.0,SaaS Enterprise Subscription
+SUB-3850,Subscriber 3850,subscriber_3850@gmail.com,Basic,29.0,2025-10-18,Active,,2026-05-25,203,8,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3851,Subscriber 3851,subscriber_3851@gmail.com,Basic,29.0,2025-08-18,Active,,2026-06-13,268,2,United States,29.0,SaaS Basic Subscription
+SUB-3852,Subscriber 3852,subscriber_3852@gmail.com,Basic,29.0,2026-01-02,Active,,2026-06-06,389,1,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3853,Subscriber 3853,subscriber_3853@gmail.com,Basic,29.0,2025-08-30,Active,,2026-06-17,208,0,Canada,29.0,SaaS Basic Subscription
+SUB-3854,Subscriber 3854,subscriber_3854@gmail.com,Professional,79.0,2026-05-01,Churned,2026-06-01,2026-06-02,259,14,United States,79.0,SaaS Professional Subscription
+SUB-3855,Subscriber 3855,subscriber_3855@gmail.com,Basic,29.0,2025-07-21,Active,,2026-06-12,54,6,Australia,29.0,SaaS Basic Subscription
+SUB-3856,Subscriber 3856,subscriber_3856@gmail.com,Enterprise,249.0,2026-03-23,Churned,2026-08-10,2026-05-29,298,12,Australia,249.0,SaaS Enterprise Subscription
+SUB-3857,Subscriber 3857,subscriber_3857@gmail.com,Basic,29.0,2025-10-04,Active,,2026-05-16,372,9,Australia,29.0,SaaS Basic Subscription
+SUB-3858,Subscriber 3858,subscriber_3858@gmail.com,Basic,29.0,2026-05-27,Churned,2026-11-22,2026-06-06,256,7,United States,29.0,SaaS Basic Subscription
+SUB-3859,Subscriber 3859,subscriber_3859@gmail.com,Basic,29.0,2025-07-09,Active,,2026-06-07,87,7,United States,29.0,SaaS Basic Subscription
+SUB-3860,Subscriber 3860,subscriber_3860@gmail.com,Basic,29.0,2025-10-21,Active,,2026-05-25,240,9,United States,29.0,SaaS Basic Subscription
+SUB-3861,Subscriber 3861,subscriber_3861@gmail.com,Basic,29.0,2025-07-20,Active,,2026-06-10,371,1,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3862,Subscriber 3862,subscriber_3862@gmail.com,Professional,79.0,2026-03-24,Active,,2026-06-16,403,11,Canada,79.0,SaaS Professional Subscription
+SUB-3863,Subscriber 3863,subscriber_3863@gmail.com,Basic,29.0,2025-10-09,Active,,2026-05-14,49,2,Canada,29.0,SaaS Basic Subscription
+SUB-3864,Subscriber 3864,subscriber_3864@gmail.com,Basic,29.0,2026-04-11,Churned,2026-07-02,2026-06-07,267,12,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3865,Subscriber 3865,subscriber_3865@gmail.com,Basic,29.0,2025-12-30,Active,,2026-05-29,321,12,United States,29.0,SaaS Basic Subscription
+SUB-3866,Subscriber 3866,subscriber_3866@gmail.com,Basic,29.0,2025-12-01,Active,,2026-05-26,379,10,Australia,29.0,SaaS Basic Subscription
+SUB-3867,Subscriber 3867,subscriber_3867@gmail.com,Basic,29.0,2026-06-22,Churned,2026-11-26,2026-06-22,34,2,Australia,29.0,SaaS Basic Subscription
+SUB-3868,Subscriber 3868,subscriber_3868@gmail.com,Basic,29.0,2026-03-19,Active,,2026-05-26,449,3,Canada,29.0,SaaS Basic Subscription
+SUB-3869,Subscriber 3869,subscriber_3869@gmail.com,Basic,29.0,2026-04-06,Active,,2026-06-21,145,2,United States,29.0,SaaS Basic Subscription
+SUB-3870,Subscriber 3870,subscriber_3870@gmail.com,Basic,29.0,2026-03-20,Active,,2026-06-23,417,5,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3871,Subscriber 3871,subscriber_3871@gmail.com,Professional,79.0,2025-09-30,Active,,2026-06-19,13,7,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3872,Subscriber 3872,subscriber_3872@gmail.com,Basic,29.0,2025-09-13,Active,,2026-05-27,408,9,United States,29.0,SaaS Basic Subscription
+SUB-3873,Subscriber 3873,subscriber_3873@gmail.com,Basic,29.0,2025-08-12,Active,,2026-06-07,389,6,Australia,29.0,SaaS Basic Subscription
+SUB-3874,Subscriber 3874,subscriber_3874@gmail.com,Professional,79.0,2026-02-06,Active,,2026-06-21,391,0,Australia,79.0,SaaS Professional Subscription
+SUB-3875,Subscriber 3875,subscriber_3875@gmail.com,Enterprise,249.0,2025-10-01,Churned,2025-11-24,2026-05-25,248,14,Australia,249.0,SaaS Enterprise Subscription
+SUB-3876,Subscriber 3876,subscriber_3876@gmail.com,Professional,79.0,2025-10-15,Active,,2026-06-25,228,14,Canada,79.0,SaaS Professional Subscription
+SUB-3877,Subscriber 3877,subscriber_3877@gmail.com,Basic,29.0,2026-06-14,Churned,2026-08-14,2026-05-31,278,14,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3878,Subscriber 3878,subscriber_3878@gmail.com,Basic,29.0,2025-11-18,Active,,2026-06-14,87,6,United States,29.0,SaaS Basic Subscription
+SUB-3879,Subscriber 3879,subscriber_3879@gmail.com,Basic,29.0,2025-07-28,Churned,2025-09-02,2026-06-23,373,11,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3880,Subscriber 3880,subscriber_3880@gmail.com,Enterprise,249.0,2026-05-14,Active,,2026-05-18,346,2,United States,249.0,SaaS Enterprise Subscription
+SUB-3881,Subscriber 3881,subscriber_3881@gmail.com,Basic,29.0,2025-09-16,Active,,2026-05-15,306,4,United States,29.0,SaaS Basic Subscription
+SUB-3882,Subscriber 3882,subscriber_3882@gmail.com,Professional,79.0,2026-06-09,Active,,2026-05-27,46,11,United States,79.0,SaaS Professional Subscription
+SUB-3883,Subscriber 3883,subscriber_3883@gmail.com,Professional,79.0,2025-09-03,Active,,2026-05-18,192,6,United States,79.0,SaaS Professional Subscription
+SUB-3884,Subscriber 3884,subscriber_3884@gmail.com,Professional,79.0,2025-08-15,Active,,2026-06-05,393,14,United States,79.0,SaaS Professional Subscription
+SUB-3885,Subscriber 3885,subscriber_3885@gmail.com,Professional,79.0,2025-07-23,Churned,2026-01-10,2026-05-16,288,8,United States,79.0,SaaS Professional Subscription
+SUB-3886,Subscriber 3886,subscriber_3886@gmail.com,Professional,79.0,2025-12-03,Churned,2026-08-07,2026-05-29,474,2,Australia,79.0,SaaS Professional Subscription
+SUB-3887,Subscriber 3887,subscriber_3887@gmail.com,Basic,29.0,2025-09-18,Active,,2026-05-27,229,4,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3888,Subscriber 3888,subscriber_3888@gmail.com,Basic,29.0,2026-06-24,Active,,2026-06-06,443,3,United States,29.0,SaaS Basic Subscription
+SUB-3889,Subscriber 3889,subscriber_3889@gmail.com,Professional,79.0,2026-05-12,Active,,2026-05-18,223,7,Australia,79.0,SaaS Professional Subscription
+SUB-3890,Subscriber 3890,subscriber_3890@gmail.com,Basic,29.0,2026-06-16,Active,,2026-05-19,76,12,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3891,Subscriber 3891,subscriber_3891@gmail.com,Basic,29.0,2026-05-26,Active,,2026-05-25,101,10,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3892,Subscriber 3892,subscriber_3892@gmail.com,Professional,79.0,2025-08-18,Active,,2026-06-15,199,7,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3893,Subscriber 3893,subscriber_3893@gmail.com,Basic,29.0,2025-12-09,Churned,2026-04-01,2026-06-20,487,2,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3894,Subscriber 3894,subscriber_3894@gmail.com,Basic,29.0,2026-01-15,Active,,2026-06-18,41,7,United States,29.0,SaaS Basic Subscription
+SUB-3895,Subscriber 3895,subscriber_3895@gmail.com,Basic,29.0,2025-09-10,Active,,2026-06-08,362,10,Canada,29.0,SaaS Basic Subscription
+SUB-3896,Subscriber 3896,subscriber_3896@gmail.com,Basic,29.0,2026-01-14,Active,,2026-06-10,285,13,United States,29.0,SaaS Basic Subscription
+SUB-3897,Subscriber 3897,subscriber_3897@gmail.com,Basic,29.0,2025-12-20,Active,,2026-06-09,219,11,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3898,Subscriber 3898,subscriber_3898@gmail.com,Professional,79.0,2026-01-05,Active,,2026-06-07,117,6,Australia,79.0,SaaS Professional Subscription
+SUB-3899,Subscriber 3899,subscriber_3899@gmail.com,Enterprise,249.0,2025-07-26,Active,,2026-06-19,426,2,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3900,Subscriber 3900,subscriber_3900@gmail.com,Basic,29.0,2025-10-30,Active,,2026-06-17,46,0,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3901,Subscriber 3901,subscriber_3901@gmail.com,Basic,29.0,2026-04-02,Active,,2026-05-31,322,9,United States,29.0,SaaS Basic Subscription
+SUB-3902,Subscriber 3902,subscriber_3902@gmail.com,Professional,79.0,2026-03-05,Active,,2026-06-15,381,5,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3903,Subscriber 3903,subscriber_3903@gmail.com,Basic,29.0,2025-08-03,Active,,2026-05-13,9,9,United States,29.0,SaaS Basic Subscription
+SUB-3904,Subscriber 3904,subscriber_3904@gmail.com,Professional,79.0,2026-04-19,Active,,2026-06-14,246,6,Canada,79.0,SaaS Professional Subscription
+SUB-3905,Subscriber 3905,subscriber_3905@gmail.com,Professional,79.0,2025-07-10,Active,,2026-05-17,358,7,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3906,Subscriber 3906,subscriber_3906@gmail.com,Professional,79.0,2026-01-15,Churned,2026-04-20,2026-05-31,229,12,Canada,79.0,SaaS Professional Subscription
+SUB-3907,Subscriber 3907,subscriber_3907@gmail.com,Professional,79.0,2025-11-30,Active,,2026-06-04,246,1,Canada,79.0,SaaS Professional Subscription
+SUB-3908,Subscriber 3908,subscriber_3908@gmail.com,Enterprise,249.0,2025-10-19,Active,,2026-06-24,441,14,United States,249.0,SaaS Enterprise Subscription
+SUB-3909,Subscriber 3909,subscriber_3909@gmail.com,Basic,29.0,2026-03-28,Churned,2026-07-28,2026-06-11,401,2,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3910,Subscriber 3910,subscriber_3910@gmail.com,Basic,29.0,2026-01-04,Active,,2026-06-01,64,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3911,Subscriber 3911,subscriber_3911@gmail.com,Basic,29.0,2026-05-06,Active,,2026-06-07,259,4,Australia,29.0,SaaS Basic Subscription
+SUB-3912,Subscriber 3912,subscriber_3912@gmail.com,Professional,79.0,2025-07-11,Active,,2026-06-19,327,0,United States,79.0,SaaS Professional Subscription
+SUB-3913,Subscriber 3913,subscriber_3913@gmail.com,Basic,29.0,2026-03-28,Active,,2026-06-17,468,12,United States,29.0,SaaS Basic Subscription
+SUB-3914,Subscriber 3914,subscriber_3914@gmail.com,Basic,29.0,2025-11-05,Active,,2026-06-18,175,10,Australia,29.0,SaaS Basic Subscription
+SUB-3915,Subscriber 3915,subscriber_3915@gmail.com,Basic,29.0,2025-09-20,Active,,2026-05-18,297,5,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3916,Subscriber 3916,subscriber_3916@gmail.com,Professional,79.0,2025-07-28,Active,,2026-06-20,133,12,United States,79.0,SaaS Professional Subscription
+SUB-3917,Subscriber 3917,subscriber_3917@gmail.com,Professional,79.0,2026-01-06,Active,,2026-06-16,443,6,Canada,79.0,SaaS Professional Subscription
+SUB-3918,Subscriber 3918,subscriber_3918@gmail.com,Enterprise,249.0,2025-09-30,Active,,2026-06-17,419,11,United States,249.0,SaaS Enterprise Subscription
+SUB-3919,Subscriber 3919,subscriber_3919@gmail.com,Basic,29.0,2025-11-07,Active,,2026-05-28,69,10,United States,29.0,SaaS Basic Subscription
+SUB-3920,Subscriber 3920,subscriber_3920@gmail.com,Basic,29.0,2026-01-02,Active,,2026-06-15,119,13,United States,29.0,SaaS Basic Subscription
+SUB-3921,Subscriber 3921,subscriber_3921@gmail.com,Basic,29.0,2026-04-27,Churned,2026-08-15,2026-06-24,72,8,Australia,29.0,SaaS Basic Subscription
+SUB-3922,Subscriber 3922,subscriber_3922@gmail.com,Professional,79.0,2026-03-29,Active,,2026-05-27,156,0,Canada,79.0,SaaS Professional Subscription
+SUB-3923,Subscriber 3923,subscriber_3923@gmail.com,Basic,29.0,2026-06-04,Active,,2026-06-18,146,10,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3924,Subscriber 3924,subscriber_3924@gmail.com,Basic,29.0,2026-01-05,Active,,2026-06-04,248,14,United States,29.0,SaaS Basic Subscription
+SUB-3925,Subscriber 3925,subscriber_3925@gmail.com,Basic,29.0,2025-10-19,Active,,2026-05-12,113,11,Canada,29.0,SaaS Basic Subscription
+SUB-3926,Subscriber 3926,subscriber_3926@gmail.com,Enterprise,249.0,2025-09-16,Churned,2026-03-01,2026-06-19,270,9,Australia,249.0,SaaS Enterprise Subscription
+SUB-3927,Subscriber 3927,subscriber_3927@gmail.com,Basic,29.0,2025-12-15,Active,,2026-05-27,238,11,United States,29.0,SaaS Basic Subscription
+SUB-3928,Subscriber 3928,subscriber_3928@gmail.com,Professional,79.0,2026-02-07,Churned,2026-08-12,2026-06-15,142,4,United States,79.0,SaaS Professional Subscription
+SUB-3929,Subscriber 3929,subscriber_3929@gmail.com,Basic,29.0,2025-09-22,Active,,2026-05-24,318,4,Canada,29.0,SaaS Basic Subscription
+SUB-3930,Subscriber 3930,subscriber_3930@gmail.com,Basic,29.0,2025-11-02,Active,,2026-06-03,283,6,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3931,Subscriber 3931,subscriber_3931@gmail.com,Basic,29.0,2026-03-30,Churned,2026-06-22,2026-06-17,288,2,Canada,29.0,SaaS Basic Subscription
+SUB-3932,Subscriber 3932,subscriber_3932@gmail.com,Basic,29.0,2025-12-14,Active,,2026-05-20,297,1,Canada,29.0,SaaS Basic Subscription
+SUB-3933,Subscriber 3933,subscriber_3933@gmail.com,Basic,29.0,2026-05-24,Churned,2026-10-14,2026-05-21,341,12,United States,29.0,SaaS Basic Subscription
+SUB-3934,Subscriber 3934,subscriber_3934@gmail.com,Basic,29.0,2025-12-01,Active,,2026-06-05,72,3,Australia,29.0,SaaS Basic Subscription
+SUB-3935,Subscriber 3935,subscriber_3935@gmail.com,Basic,29.0,2026-03-05,Active,,2026-06-21,369,14,Australia,29.0,SaaS Basic Subscription
+SUB-3936,Subscriber 3936,subscriber_3936@gmail.com,Basic,29.0,2026-05-16,Active,,2026-06-18,287,9,Australia,29.0,SaaS Basic Subscription
+SUB-3937,Subscriber 3937,subscriber_3937@gmail.com,Enterprise,249.0,2025-08-04,Active,,2026-05-14,347,1,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3938,Subscriber 3938,subscriber_3938@gmail.com,Professional,79.0,2025-10-06,Active,,2026-06-17,153,11,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3939,Subscriber 3939,subscriber_3939@gmail.com,Basic,29.0,2025-08-09,Active,,2026-06-01,94,11,Australia,29.0,SaaS Basic Subscription
+SUB-3940,Subscriber 3940,subscriber_3940@gmail.com,Basic,29.0,2026-01-31,Churned,2026-10-02,2026-06-05,116,12,Canada,29.0,SaaS Basic Subscription
+SUB-3941,Subscriber 3941,subscriber_3941@gmail.com,Professional,79.0,2026-06-03,Churned,2026-09-15,2026-05-27,98,6,Australia,79.0,SaaS Professional Subscription
+SUB-3942,Subscriber 3942,subscriber_3942@gmail.com,Basic,29.0,2026-06-05,Active,,2026-06-08,410,14,Australia,29.0,SaaS Basic Subscription
+SUB-3943,Subscriber 3943,subscriber_3943@gmail.com,Basic,29.0,2025-11-16,Active,,2026-05-30,227,8,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3944,Subscriber 3944,subscriber_3944@gmail.com,Basic,29.0,2025-12-15,Active,,2026-06-20,455,0,Canada,29.0,SaaS Basic Subscription
+SUB-3945,Subscriber 3945,subscriber_3945@gmail.com,Basic,29.0,2025-09-28,Churned,2026-05-09,2026-05-17,63,1,Australia,29.0,SaaS Basic Subscription
+SUB-3946,Subscriber 3946,subscriber_3946@gmail.com,Professional,79.0,2025-07-25,Active,,2026-05-26,112,13,Canada,79.0,SaaS Professional Subscription
+SUB-3947,Subscriber 3947,subscriber_3947@gmail.com,Basic,29.0,2025-10-14,Active,,2026-05-18,178,10,United States,29.0,SaaS Basic Subscription
+SUB-3948,Subscriber 3948,subscriber_3948@gmail.com,Basic,29.0,2026-03-27,Active,,2026-05-21,388,14,Canada,29.0,SaaS Basic Subscription
+SUB-3949,Subscriber 3949,subscriber_3949@gmail.com,Professional,79.0,2026-02-06,Active,,2026-05-15,402,14,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3950,Subscriber 3950,subscriber_3950@gmail.com,Basic,29.0,2026-03-08,Active,,2026-05-30,310,8,United States,29.0,SaaS Basic Subscription
+SUB-3951,Subscriber 3951,subscriber_3951@gmail.com,Professional,79.0,2025-09-20,Active,,2026-06-08,107,14,United States,79.0,SaaS Professional Subscription
+SUB-3952,Subscriber 3952,subscriber_3952@gmail.com,Basic,29.0,2026-02-15,Active,,2026-06-05,64,5,Australia,29.0,SaaS Basic Subscription
+SUB-3953,Subscriber 3953,subscriber_3953@gmail.com,Basic,29.0,2026-04-21,Active,,2026-06-25,366,5,Australia,29.0,SaaS Basic Subscription
+SUB-3954,Subscriber 3954,subscriber_3954@gmail.com,Basic,29.0,2025-08-15,Active,,2026-06-04,75,0,Canada,29.0,SaaS Basic Subscription
+SUB-3955,Subscriber 3955,subscriber_3955@gmail.com,Basic,29.0,2025-12-26,Active,,2026-05-19,124,3,Canada,29.0,SaaS Basic Subscription
+SUB-3956,Subscriber 3956,subscriber_3956@gmail.com,Professional,79.0,2025-12-12,Active,,2026-05-25,228,0,United States,79.0,SaaS Professional Subscription
+SUB-3957,Subscriber 3957,subscriber_3957@gmail.com,Professional,79.0,2026-05-28,Active,,2026-05-31,378,10,Canada,79.0,SaaS Professional Subscription
+SUB-3958,Subscriber 3958,subscriber_3958@gmail.com,Basic,29.0,2026-02-09,Churned,2026-06-10,2026-06-18,54,12,Australia,29.0,SaaS Basic Subscription
+SUB-3959,Subscriber 3959,subscriber_3959@gmail.com,Basic,29.0,2025-09-27,Active,,2026-05-29,243,1,Australia,29.0,SaaS Basic Subscription
+SUB-3960,Subscriber 3960,subscriber_3960@gmail.com,Basic,29.0,2026-04-27,Active,,2026-05-13,466,10,Canada,29.0,SaaS Basic Subscription
+SUB-3961,Subscriber 3961,subscriber_3961@gmail.com,Enterprise,249.0,2026-03-07,Active,,2026-06-18,141,14,United Kingdom,249.0,SaaS Enterprise Subscription
+SUB-3962,Subscriber 3962,subscriber_3962@gmail.com,Basic,29.0,2026-06-23,Active,,2026-05-17,316,8,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3963,Subscriber 3963,subscriber_3963@gmail.com,Professional,79.0,2026-06-02,Active,,2026-05-25,190,10,Canada,79.0,SaaS Professional Subscription
+SUB-3964,Subscriber 3964,subscriber_3964@gmail.com,Basic,29.0,2025-09-24,Active,,2026-05-29,160,9,Australia,29.0,SaaS Basic Subscription
+SUB-3965,Subscriber 3965,subscriber_3965@gmail.com,Professional,79.0,2026-05-15,Churned,2026-12-12,2026-06-09,219,1,Australia,79.0,SaaS Professional Subscription
+SUB-3966,Subscriber 3966,subscriber_3966@gmail.com,Basic,29.0,2025-07-12,Active,,2026-06-01,307,13,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3967,Subscriber 3967,subscriber_3967@gmail.com,Basic,29.0,2026-04-20,Active,,2026-05-13,11,12,Canada,29.0,SaaS Basic Subscription
+SUB-3968,Subscriber 3968,subscriber_3968@gmail.com,Professional,79.0,2025-08-08,Active,,2026-05-15,421,2,Canada,79.0,SaaS Professional Subscription
+SUB-3969,Subscriber 3969,subscriber_3969@gmail.com,Basic,29.0,2026-02-02,Active,,2026-05-13,82,6,United States,29.0,SaaS Basic Subscription
+SUB-3970,Subscriber 3970,subscriber_3970@gmail.com,Basic,29.0,2025-09-17,Active,,2026-05-27,255,0,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3971,Subscriber 3971,subscriber_3971@gmail.com,Basic,29.0,2026-03-21,Active,,2026-05-16,273,9,Australia,29.0,SaaS Basic Subscription
+SUB-3972,Subscriber 3972,subscriber_3972@gmail.com,Basic,29.0,2026-06-03,Active,,2026-05-23,446,13,Australia,29.0,SaaS Basic Subscription
+SUB-3973,Subscriber 3973,subscriber_3973@gmail.com,Basic,29.0,2025-11-28,Active,,2026-05-13,473,1,Canada,29.0,SaaS Basic Subscription
+SUB-3974,Subscriber 3974,subscriber_3974@gmail.com,Basic,29.0,2025-07-01,Active,,2026-06-23,320,6,United States,29.0,SaaS Basic Subscription
+SUB-3975,Subscriber 3975,subscriber_3975@gmail.com,Professional,79.0,2025-08-21,Active,,2026-06-11,32,2,United States,79.0,SaaS Professional Subscription
+SUB-3976,Subscriber 3976,subscriber_3976@gmail.com,Basic,29.0,2026-03-06,Churned,2026-05-21,2026-06-05,375,1,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3977,Subscriber 3977,subscriber_3977@gmail.com,Basic,29.0,2026-05-19,Active,,2026-05-20,396,4,Canada,29.0,SaaS Basic Subscription
+SUB-3978,Subscriber 3978,subscriber_3978@gmail.com,Basic,29.0,2025-08-27,Churned,2026-04-20,2026-05-28,42,8,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3979,Subscriber 3979,subscriber_3979@gmail.com,Basic,29.0,2026-04-16,Active,,2026-05-12,383,5,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3980,Subscriber 3980,subscriber_3980@gmail.com,Basic,29.0,2026-04-15,Active,,2026-05-13,103,13,Australia,29.0,SaaS Basic Subscription
+SUB-3981,Subscriber 3981,subscriber_3981@gmail.com,Basic,29.0,2025-08-25,Churned,2025-10-05,2026-06-25,425,5,United States,29.0,SaaS Basic Subscription
+SUB-3982,Subscriber 3982,subscriber_3982@gmail.com,Enterprise,249.0,2026-05-27,Active,,2026-05-16,352,13,United States,249.0,SaaS Enterprise Subscription
+SUB-3983,Subscriber 3983,subscriber_3983@gmail.com,Basic,29.0,2025-06-26,Active,,2026-05-25,459,8,Australia,29.0,SaaS Basic Subscription
+SUB-3984,Subscriber 3984,subscriber_3984@gmail.com,Basic,29.0,2026-03-09,Churned,2026-07-24,2026-05-21,424,1,Australia,29.0,SaaS Basic Subscription
+SUB-3985,Subscriber 3985,subscriber_3985@gmail.com,Basic,29.0,2025-12-20,Active,,2026-06-19,499,11,Australia,29.0,SaaS Basic Subscription
+SUB-3986,Subscriber 3986,subscriber_3986@gmail.com,Professional,79.0,2025-09-30,Active,,2026-06-17,147,1,United Kingdom,79.0,SaaS Professional Subscription
+SUB-3987,Subscriber 3987,subscriber_3987@gmail.com,Professional,79.0,2026-06-08,Churned,2026-11-04,2026-05-25,497,2,Canada,79.0,SaaS Professional Subscription
+SUB-3988,Subscriber 3988,subscriber_3988@gmail.com,Basic,29.0,2026-04-28,Active,,2026-05-24,235,12,United States,29.0,SaaS Basic Subscription
+SUB-3989,Subscriber 3989,subscriber_3989@gmail.com,Professional,79.0,2026-05-10,Active,,2026-06-04,120,5,United States,79.0,SaaS Professional Subscription
+SUB-3990,Subscriber 3990,subscriber_3990@gmail.com,Basic,29.0,2026-01-04,Active,,2026-06-11,126,11,Canada,29.0,SaaS Basic Subscription
+SUB-3991,Subscriber 3991,subscriber_3991@gmail.com,Professional,79.0,2026-01-16,Active,,2026-06-22,74,12,Australia,79.0,SaaS Professional Subscription
+SUB-3992,Subscriber 3992,subscriber_3992@gmail.com,Professional,79.0,2026-02-06,Active,,2026-06-05,276,6,United States,79.0,SaaS Professional Subscription
+SUB-3993,Subscriber 3993,subscriber_3993@gmail.com,Basic,29.0,2026-01-05,Active,,2026-05-31,177,12,United States,29.0,SaaS Basic Subscription
+SUB-3994,Subscriber 3994,subscriber_3994@gmail.com,Enterprise,249.0,2025-08-14,Churned,2025-10-11,2026-06-25,361,6,Australia,249.0,SaaS Enterprise Subscription
+SUB-3995,Subscriber 3995,subscriber_3995@gmail.com,Basic,29.0,2025-12-06,Churned,2026-06-10,2026-06-11,304,5,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3996,Subscriber 3996,subscriber_3996@gmail.com,Basic,29.0,2025-07-29,Active,,2026-05-31,400,13,United Kingdom,29.0,SaaS Basic Subscription
+SUB-3997,Subscriber 3997,subscriber_3997@gmail.com,Basic,29.0,2025-11-01,Active,,2026-06-06,104,14,United States,29.0,SaaS Basic Subscription
+SUB-3998,Subscriber 3998,subscriber_3998@gmail.com,Basic,29.0,2026-01-22,Churned,2026-05-27,2026-06-05,239,6,Canada,29.0,SaaS Basic Subscription
+SUB-3999,Subscriber 3999,subscriber_3999@gmail.com,Basic,29.0,2026-04-07,Active,,2026-06-14,112,13,United States,29.0,SaaS Basic Subscription
