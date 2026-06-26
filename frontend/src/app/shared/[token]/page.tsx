@@ -4,6 +4,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams } from 'next/navigation';
 import { LineChart, Line, BarChart, Bar, CartesianGrid, XAxis, YAxis, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import { BarChart3, Database, FileText, Globe } from 'lucide-react';
+import { API_BASE_URL } from '../../../utils/api';
 
 export default function SharedDashboard() {
   const params = useParams();
@@ -18,7 +19,7 @@ export default function SharedDashboard() {
 
     const fetchSharedData = async () => {
       try {
-        const response = await fetch(`http://127.0.0.1:8000/api/v1/public/shared/${token}`);
+        const response = await fetch(`${API_BASE_URL}/public/shared/${token}`);
         if (!response.ok) {
           throw new Error('Link has expired or is invalid.');
         }

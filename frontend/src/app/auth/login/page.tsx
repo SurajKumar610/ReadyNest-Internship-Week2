@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { Lock, Mail, ShieldAlert, Sparkles } from 'lucide-react';
 import { useStore } from '../../../store/useStore';
+import { API_BASE_URL } from '../../../utils/api';
 
 export default function LoginPage() {
   const router = useRouter();
@@ -29,7 +30,7 @@ export default function LoginPage() {
     setLoading(true);
 
     try {
-      const response = await fetch('http://127.0.0.1:8000/api/v1/auth/login', {
+      const response = await fetch(`${API_BASE_URL}/auth/login`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
         body: new URLSearchParams({
@@ -47,7 +48,7 @@ export default function LoginPage() {
       setToken(data.access_token);
       
       // Fetch user profile
-      const meResponse = await fetch('http://127.0.0.1:8000/api/v1/auth/me', {
+      const meResponse = await fetch(`${API_BASE_URL}/auth/me`, {
         headers: { Authorization: `Bearer ${data.access_token}` }
       });
       if (meResponse.ok) {
@@ -67,7 +68,7 @@ export default function LoginPage() {
     setError(null);
     setLoading(true);
     try {
-      const response = await fetch('http://127.0.0.1:8000/api/v1/auth/demo-login', {
+      const response = await fetch(`${API_BASE_URL}/auth/demo-login`, {
         method: 'POST',
       });
 
@@ -78,7 +79,7 @@ export default function LoginPage() {
       const data = await response.json();
       setToken(data.access_token);
       
-      const meResponse = await fetch('http://127.0.0.1:8000/api/v1/auth/me', {
+      const meResponse = await fetch(`${API_BASE_URL}/auth/me`, {
         headers: { Authorization: `Bearer ${data.access_token}` }
       });
       if (meResponse.ok) {

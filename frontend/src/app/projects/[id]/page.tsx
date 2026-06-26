@@ -3,7 +3,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { useStore } from '../../../store/useStore';
-import { apiFetch, apiUploadFetch } from '../../../utils/api';
+import { apiFetch, apiUploadFetch, API_BASE_URL } from '../../../utils/api';
 import { 
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, 
   LineChart, Line, PieChart, Pie, Cell, AreaChart, Area 
@@ -906,7 +906,7 @@ export default function ProjectCockpit() {
 
                       <div className="flex items-center gap-2">
                         <a 
-                          href={`http://127.0.0.1:8000/api/v1/projects/${projectId}/reports/${rep.id}/download`} 
+                          href={`${API_BASE_URL}/projects/${projectId}/reports/${rep.id}/download`} 
                           download
                           className="p-2 border border-slate-800 rounded-lg hover:bg-slate-900 text-slate-350"
                           title="Download Report"

@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { Lock, Mail, ShieldAlert, CheckCircle } from 'lucide-react';
+import { API_BASE_URL } from '../../../utils/api';
 
 export default function RegisterPage() {
   const router = useRouter();
@@ -26,7 +27,7 @@ export default function RegisterPage() {
     setLoading(true);
 
     try {
-      const response = await fetch('http://127.0.0.1:8000/api/v1/auth/register', {
+      const response = await fetch(`${API_BASE_URL}/auth/register`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
