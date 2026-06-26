@@ -2,7 +2,17 @@
 
 ### AI-Powered Customer Insights, Analytics, Forecasting & Recommendation Platform
 
+---
+
+### 🌐 Live Production Deployments
+*   **Live Web Client (Frontend)**: [https://ready-nest-internship-week2-one.vercel.app](https://ready-nest-internship-week2-one.vercel.app)
+*   **Live Web Server (Backend API)**: [https://readynest-internship-week2.onrender.com](https://readynest-internship-week2.onrender.com)
+*   **Live API Documentation (Swagger Docs)**: [https://readynest-internship-week2.onrender.com/docs](https://readynest-internship-week2.onrender.com/docs)
+
+---
+
 Sightfill is a production-grade full-stack SaaS business intelligence application that cleans sales datasets, runs RFM segmentation, models time-series forecasts, and provides interactive AI analyst chatbot consulting.
+
 
 ---
 
@@ -81,7 +91,7 @@ Sightfill/
    ```bash
    uvicorn app.main:app --reload --port 8000
    ```
-   *The Swagger API documentation will be available at `http://localhost:8000/docs`*
+   *The Swagger API documentation will be available at `http://localhost:8000/docs` (local) or [https://readynest-internship-week2.onrender.com/docs](https://readynest-internship-week2.onrender.com/docs) (production)*
 
 #### 2. Setup Frontend
 1. Navigate to the frontend directory:
@@ -96,7 +106,7 @@ Sightfill/
    ```bash
    npm run dev
    ```
-   *The cockpit will be available at `http://localhost:3000`*
+   *The cockpit will be available at `http://localhost:3000` (local) or [https://ready-nest-internship-week2-one.vercel.app](https://ready-nest-internship-week2-one.vercel.app) (production)*
 
 ---
 
