@@ -30,4 +30,8 @@ class Settings:
     # Resend configuration
     RESEND_API_KEY: str = os.getenv("RESEND_API_KEY", "")
 
+    # Quick Demo Login settings
+    ALLOW_DEMO_LOGIN: bool = os.getenv("ALLOW_DEMO_LOGIN", "True").lower() in ("true", "1", "yes")
+    DEMO_EMAIL: str = os.getenv("DEMO_EMAIL", "demo@sightfill.com")
+
 settings = Settings()

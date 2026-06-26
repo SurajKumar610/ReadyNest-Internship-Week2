@@ -66,3 +66,10 @@ backend/sample-datasets/7_*
 backend/sample-datasets/8_*
 backend/sample-datasets/9_*
 backend/sample-datasets/10_*
+
+# GitHub Workflows and local push logs
+.github/
+push_output.txt
+push_verbose.txt
+compare_datasets_output.txt
+sightfullprdweek2.txt

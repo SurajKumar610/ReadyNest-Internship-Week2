@@ -107,6 +107,40 @@ def login(form_data: OAuth2PasswordRequestForm = Depends(), db: Session = Depend
         "token_type": "bearer"
     }
 
+@router.post("/demo-login", response_model=Token)
+def demo_login(db: Session = Depends(get_db)):
+    if not settings.ALLOW_DEMO_LOGIN:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Demo login is disabled"
+        )
+    user = db.query(User).filter(User.email == settings.DEMO_EMAIL).first()
+    if not user:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Demo user not found. Please run the seeder script."
+        )
+    access_token = create_access_token(
+        data={"sub": user.email, "role": user.role}
+    )
+    refresh_token = create_refresh_token(
+        data={"sub": user.email, "role": user.role}
+    )
+    
+    # Audit log
+    db.add(AuditLog(
+        user_id=user.id,
+        action="demo_login",
+        details={"ip": "127.0.0.1"}
+    ))
+    db.commit()
+    
+    return {
+        "access_token": access_token,
+        "refresh_token": refresh_token,
+        "token_type": "bearer"
+    }
+
 @router.post("/refresh", response_model=Token)
 def refresh_token(refresh_token_in: str, db: Session = Depends(get_db)):
     # Standard decoding

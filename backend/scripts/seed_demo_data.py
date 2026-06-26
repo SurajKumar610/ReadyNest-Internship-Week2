@@ -7,6 +7,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from app.database import Base, engine, SessionLocal
 from app.models import User, Workspace, Project, Dataset, CleanedDataset, SalesRecord, AnalyticsResult, CustomerSegment, Prediction, Recommendation, AIConversation, Notification, AuditLog
+from app.config import settings
 
 def get_password_hash(password: str) -> str:
     salt = bcrypt.gensalt()
@@ -21,30 +22,45 @@ def seed():
     
     try:
         # Check if users already exist
-        admin_user = db.query(User).filter(User.email == "admin@sightfill.com").first()
+        admin_email = os.getenv("ADMIN_EMAIL", "admin@sightfill.com")
+        admin_password = os.getenv("ADMIN_PASSWORD")
+        if not admin_password:
+            import secrets
+            admin_password = secrets.token_urlsafe(12)
+            print(f"WARNING: ADMIN_PASSWORD not set in environment. Generated dynamic password: {admin_password}")
+
+        demo_email = settings.DEMO_EMAIL
+        demo_password = os.getenv("DEMO_PASSWORD")
+        if not demo_password:
+            import secrets
+            demo_password = secrets.token_urlsafe(12)
+            print(f"WARNING: DEMO_PASSWORD not set in environment. Generated dynamic password: {demo_password}")
+
+        admin_user = db.query(User).filter(User.email == admin_email).first()
         if not admin_user:
             admin_user = User(
-                email="admin@sightfill.com",
-                hashed_password=get_password_hash("adminpassword"),
+                email=admin_email,
+                hashed_password=get_password_hash(admin_password),
                 is_verified=True,
                 role="admin"
             )
             db.add(admin_user)
-            print("Seeded admin user (admin@sightfill.com / adminpassword)")
+            print(f"Seeded admin user ({admin_email})")
             
-        demo_user = db.query(User).filter(User.email == "demo@sightfill.com").first()
+        demo_user = db.query(User).filter(User.email == demo_email).first()
         if not demo_user:
             demo_user = User(
-                email="demo@sightfill.com",
-                hashed_password=get_password_hash("demopassword"),
+                email=demo_email,
+                hashed_password=get_password_hash(demo_password),
                 is_verified=True,
                 role="user"
             )
             db.add(demo_user)
-            print("Seeded demo user (demo@sightfill.com / demopassword)")
+            print(f"Seeded demo user ({demo_email})")
             
         db.commit()
-        db.refresh(demo_user)
+        # Ensure demo_user is retrieved/refreshed
+        demo_user = db.query(User).filter(User.email == demo_email).first()
         
         # 2. Seed Workspaces
         workspace = db.query(Workspace).filter(Workspace.owner_id == demo_user.id).first()

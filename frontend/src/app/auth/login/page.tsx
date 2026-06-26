@@ -67,13 +67,8 @@ export default function LoginPage() {
     setError(null);
     setLoading(true);
     try {
-      const response = await fetch('http://127.0.0.1:8000/api/v1/auth/login', {
+      const response = await fetch('http://127.0.0.1:8000/api/v1/auth/demo-login', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body: new URLSearchParams({
-          username: 'demo@sightfill.com',
-          password: 'demopassword',
-        }),
       });
 
       if (!response.ok) {

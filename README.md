@@ -12,8 +12,8 @@ Sightfill is a production-grade full-stack SaaS business intelligence applicatio
 graph TD
     Client[Next.js App Router Frontend]
     API[FastAPI Backend Web Server]
-    DB[(SQLite / PostgreSQL DB)]
-    Cache[(Redis Cache & Queue)]
+    DB[("SQLite / PostgreSQL DB")]
+    Cache[("Redis Cache & Queue")]
     Celery[Celery Pipeline Processor]
     OpenAI[OpenAI API]
 
@@ -134,8 +134,10 @@ This launches:
 
 ---
 
-## Demo Credentials
+## Demo Credentials & Quick Start
 
-Skip database signup by logging in using the pre-seeded demo credentials:
-- **Username / Email**: `demo@sightfill.com`
-- **Password**: `demopassword`
+For a quick evaluation, click the **"Sign In as Demo User"** button on the frontend login page. This performs passwordless authentication for the demo user account.
+
+To customize or seed credentials manually:
+- Set `ADMIN_EMAIL` and `ADMIN_PASSWORD` in your backend environment variables before running the seeder script.
+- Set `DEMO_EMAIL` and `DEMO_PASSWORD` in your backend environment variables to configure the quick start demo user.
